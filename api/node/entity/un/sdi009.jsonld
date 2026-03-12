@@ -1,0 +1,32 @@
+{
+  "id": "https://www.ammitto.org/entity/un/sdi009",
+  "entity_type": "person",
+  "names": [
+    {
+      "full_name": "AL-FATEH  ABDULLAH IDRIS",
+      "first_name": "AL-FATEH ",
+      "middle_name": "ABDULLAH IDRIS",
+      "script": "Latn",
+      "is_primary": true
+    },
+    {
+      "full_name": "ABU LULU",
+      "script": "Latn",
+      "is_primary": false
+    }
+  ],
+  "remarks": "Gender: Male",
+  "nationalities": [
+    "Sudan"
+  ],
+  "identifications": [
+    {
+      "type": "Other"
+    }
+  ],
+  "addresses": [
+    {}
+  ],
+  "position": "Brigadier General of Rapid Support Forces",
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

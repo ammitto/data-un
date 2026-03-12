@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "nodes": [
+    {
+      "@id": "https://www.ammitto.org/regime/al_qaida"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/car"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/dprk"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/drc"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/gb"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/haiti"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/iran"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/iraq"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/libya"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/somalia"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/southsudan"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/sudan"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/taliban"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/unknown"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/yemen"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/car"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfe002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi005"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi010"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi011"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi012"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi013"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi014"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/cfi015"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "available": [
+    "https://www.ammitto.org/regime/al_qaida",
+    "https://www.ammitto.org/regime/car",
+    "https://www.ammitto.org/regime/dprk",
+    "https://www.ammitto.org/regime/drc",
+    "https://www.ammitto.org/regime/gb",
+    "https://www.ammitto.org/regime/haiti",
+    "https://www.ammitto.org/regime/iran",
+    "https://www.ammitto.org/regime/iraq",
+    "https://www.ammitto.org/regime/libya",
+    "https://www.ammitto.org/regime/somalia",
+    "https://www.ammitto.org/regime/southsudan",
+    "https://www.ammitto.org/regime/sudan",
+    "https://www.ammitto.org/regime/taliban",
+    "https://www.ammitto.org/regime/unknown",
+    "https://www.ammitto.org/regime/yemen"
+  ]
+}

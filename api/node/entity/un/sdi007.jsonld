@@ -1,0 +1,33 @@
+{
+  "id": "https://www.ammitto.org/entity/un/sdi007",
+  "entity_type": "person",
+  "names": [
+    {
+      "full_name": " GEDO  HAMDAN   AHMED ",
+      "first_name": " GEDO ",
+      "middle_name": "HAMDAN   AHMED ",
+      "script": "Latn",
+      "is_primary": true
+    },
+    {
+      "full_name": "ABU NASHUK",
+      "script": "Latn",
+      "is_primary": false
+    }
+  ],
+  "remarks": "Gender: Male.",
+  "nationalities": [
+    "Sudan"
+  ],
+  "identifications": [
+    {
+      "type": "Other"
+    }
+  ],
+  "addresses": [
+    {}
+  ],
+  "title": "Commander for the North Darfur section of the Rapid Support Forces",
+  "position": "Commander for the North Darfur section of the Rapid Support Forces",
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}
