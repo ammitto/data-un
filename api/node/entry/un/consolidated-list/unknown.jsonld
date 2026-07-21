@@ -1,0 +1,31 @@
+{
+  "id": "https://www.ammitto.org/entry/un/consolidated-list/unknown",
+  "entity_id": "https://www.ammitto.org/entity/un/unknown",
+  "authority": {
+    "@id": "https://www.ammitto.org/authority/un"
+  },
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/unknown"
+  },
+  "effects": [
+    {
+      "effect_type": "asset_freeze",
+      "scope": "full"
+    },
+    {
+      "effect_type": "travel_ban",
+      "scope": "full"
+    }
+  ],
+  "period": {
+    "is_indefinite": true
+  },
+  "status": "active",
+  "raw_source_data": {
+    "source_format": "xml",
+    "source_specific_fields": {
+      "un:entityType": "entity"
+    }
+  },
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

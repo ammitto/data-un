@@ -1,0 +1,100 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/libya"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lye001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lye002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi003"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi005"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi010"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi011"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi012"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi013"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi014"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi015"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi016"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi017"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi018"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi019"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi021"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi022"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi023"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi024"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi025"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi026"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi027"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi028"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/lyi029"
+    }
+  ]
+}

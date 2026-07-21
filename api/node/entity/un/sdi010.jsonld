@@ -1,0 +1,33 @@
+{
+  "id": "https://www.ammitto.org/entity/un/sdi010",
+  "entity_type": "person",
+  "names": [
+    {
+      "full_name": "TIJANI IBRAHIM MOUSSA MOHAMED",
+      "first_name": "TIJANI",
+      "middle_name": "IBRAHIM MOUSSA",
+      "last_name": "MOHAMED",
+      "script": "Latn",
+      "is_primary": true
+    },
+    {
+      "full_name": "AL ZEIR SALEM",
+      "script": "Latn",
+      "is_primary": false
+    }
+  ],
+  "remarks": "Gender: Male",
+  "nationalities": [
+    "Sudan"
+  ],
+  "identifications": [
+    {
+      "type": "Other"
+    }
+  ],
+  "addresses": [
+    {}
+  ],
+  "position": "Field Commander of the Rapid Support Forces",
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

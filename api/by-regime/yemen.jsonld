@@ -1,0 +1,43 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/yemen"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yee001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei001"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei002"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei004"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei006"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei007"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei008"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei009"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei010"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei011"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/un/consolidated-list/yei012"
+    }
+  ]
+}
