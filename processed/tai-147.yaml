@@ -1,0 +1,69 @@
+---
+dataid: '2913442'
+versionnum: '1'
+first_name: GUL
+second_name: AGHA
+third_name: ISHAKZAI
+un_list_type: Taliban
+reference_number: TAi.147
+listed_on: '2010-07-20'
+comments1: 'Head of Taliban Financial Commission as at mid-2013. Associated with Mullah
+  Mohammed Omar (TAi.004). Served as Omar''s principal finance officer and one of
+  his closest advisors. Belongs to Ishaqzai tribe. Height: 156 cm. Photo available
+  for inclusion in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security
+  Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+nationalities:
+- value: Afghanistan
+list_type:
+  value:
+  - "\n        "
+  - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n      "
+aliases:
+- quality: Good
+  alias_name: Mullah Gul Agha
+- quality: Good
+  alias_name: Mullah Gul Agha Akhund
+- quality: Low
+  alias_name: Hidayatullah
+- quality: Low
+  alias_name: Haji Hidayatullah
+- quality: Low
+  alias_name: Hayadatullah
+- quality: Good
+  alias_name: HIDAYATULLAH BADRI
+- quality: Good
+  alias_name: HEDAYATULLAH HEDAYAT
+- quality: Good
+  alias_name: HEDAYATULLAH BADRI
+addresses:
+- street: Ibni-Sina Watt
+  city: Kabul
+  country: Afghanistan
+date_of_birth:
+  type_of_date: APPROXIMATELY
+  year: 1972
+place_of_birth:
+  city: Band-e Temur, Maiwand District
+  state_province: Kandahar Province
+  country: Afghanistan
+documents:
+- type_of_document: Passport
+  number: D0010408
+  issuing_country: Afghanistan
+  note: 'Name in Latin script: Hedayatullah Badri; name in original script: هدایت
+    الله بدري; expires 26 Aug. 2029'
+- type_of_document: Passport
+  number: P03318995
+  issuing_country: Afghanistan
+  note: 'Name in Latin script: Hedayatullah Hedayat, expires 29 Jul.  2025'
+- type_of_document: Passport
+  number: D0010006
+  issuing_country: Afghanistan

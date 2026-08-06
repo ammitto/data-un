@@ -1,0 +1,64 @@
+---
+dataid: '2785696'
+versionnum: '1'
+first_name: SIRAJUDDIN
+second_name: JALLALOUDINE
+third_name: HAQQANI
+un_list_type: Taliban
+reference_number: TAi.144
+listed_on: '2007-09-13'
+comments1: Heading the Haqqani Network (TAe.012) as of late 2012. Son of Jalaluddin
+  Haqqani (TAi.040). Belongs to Sultan Khel section, Zadran tribe of Garda Saray of
+  Paktia province, Afghanistan. Height 187 cm or 180cm. Photo available for inclusion
+  in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security Council
+  Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-44300
+nationalities:
+- value: Afghanistan
+designations:
+- values:
+  - Na'ib Amir (Deputy Commander) (1996-2001)
+list_type:
+  value:
+  - "\n        "
+  - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n      "
+aliases:
+- quality: Good
+  alias_name: Siraj Haqqani
+- quality: Good
+  alias_name: Serajuddin Haqani
+- quality: Good
+  alias_name: Siraj Haqani
+- quality: Good
+  alias_name: Saraj Haqani
+- quality: Low
+  alias_name: Khalifa
+- quality: Good
+  alias_name: ABDUL SATAR ABDULLAH
+addresses:
+- city: Kabul
+  country: Afghanistan
+date_of_birth:
+  type_of_date: BETWEEN
+place_of_birth:
+  city: Danda, Miramshah
+  state_province: North Waziristan
+  country: Pakistan
+documents:
+- type_of_document: Passport
+  number: P00032260
+  issuing_country: Afghanistan
+  note: 'Name in Latin script: Abdul Satar Abdullah'
+- type_of_document: Passport
+  number: D0010367
+  issuing_country: Afghanistan
+  note: 'Name in Latin script: Sirajuddin Haqqani'
+- type_of_document: Passport
+  number: P05076602
+  issuing_country: Afghanistan

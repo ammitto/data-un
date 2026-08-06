@@ -1,0 +1,27 @@
+---
+dataid: '111514'
+versionnum: '1'
+first_name: ABDUL MANAN AGHA
+un_list_type: Al-Qaida
+reference_number: QDi.018
+listed_on: '2001-10-17'
+comments1: Pakistan
+list_type:
+  value:
+  - "\n        "
+  - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n      "
+aliases:
+- quality: Good
+  alias_name: Abdul Manan
+- quality: Low
+  alias_name: Abdul Man’am Saiyid
+- quality: Low
+  alias_name: Saiyid Abd al-Man
+addresses:
+documents:

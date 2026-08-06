@@ -1,0 +1,55 @@
+---
+dataid: '110914'
+versionnum: '1'
+first_name: ABDUL BAQI
+second_name: BASIR
+third_name: AWAL SHAH
+un_list_type: Taliban
+reference_number: TAi.038
+listed_on: '2001-02-23'
+comments1: Taliban member responsible for Nangarhar Province as at 2008. Until 7 Sep.
+  2007 he was also listed under number TAi.048. Height 175 cm. Photo available for
+  inclusion in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security
+  Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47507
+nationalities:
+- value: Afghanistan
+designations:
+- values:
+  - 'Governor of Khost and Paktika provinces under the Taliban regime  (1996-2001) '
+  - 'Vice-Minister of Information and Culture under the Taliban regime  (1996-2001) '
+  - 'Consular Department, Ministry of Foreign Affairs under the Taliban regime  (1996-2001) '
+list_type:
+  value:
+  - "\n        "
+  - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n      "
+aliases:
+- quality: Good
+  alias_name: Abdul Baqi
+- quality: Good
+  alias_name: ABDUL BAQI HAQQANI
+addresses:
+- street: Afshar Main road Police District 5
+  city: near Kabul Education University, Kabul
+  country: Afghanistan
+date_of_birth:
+  type_of_date: BETWEEN
+place_of_birth:
+  city: Jalalabad City
+  state_province: Nangarhar Province
+  country: Afghanistan
+documents:
+- type_of_document: Passport
+  number: D0009724
+  issuing_country: Afghanistan
+  note: 'Name in Latin script: Abdul Baqi Haqqani; name in original script: عبدالباقي
+    حقاني'

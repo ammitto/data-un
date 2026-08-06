@@ -1,0 +1,28 @@
+---
+dataid: '113235'
+versionnum: '1'
+first_name: 'AL-HARAMAIN: THE NETHERLANDS BRANCH'
+un_list_type: Al-Qaida
+reference_number: QDe.114
+listed_on: '2004-07-06'
+comments1: Reportedly defunct INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+list_type:
+  value:
+  - "\n        "
+  - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n      "
+aliases:
+- quality: a.k.a.
+  alias_name: Stichting Al Haramain Humanitarian Aid
+addresses:
+- street: Jan Hanzenstraat 114, 1053SV
+  city: Amsterdam
+  country: Netherlands
+  note: at time of listing

@@ -1,0 +1,48 @@
+---
+dataid: '111068'
+versionnum: '1'
+first_name: HAMDULLAH
+second_name: NOMANI
+un_list_type: Taliban
+reference_number: TAi.044
+listed_on: '2001-02-23'
+comments1: Member of the Taliban Supreme Council. Believed to be in Afghanistan/Pakistan
+  border area. Height 174 cm. Photo available for inclusion in the INTERPOL-UN Security
+  Council Special Notice INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25939
+nationalities:
+- value: Afghanistan
+designations:
+- values:
+  - Minister of Higher Education under the Taliban regime (1996-2001)
+  - Mayor of Kabul City under the Taliban regime (1996-2001)
+list_type:
+  value:
+  - "\n        "
+  - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n      "
+aliases:
+- quality: Good
+  alias_name: HAMDULLAH NUMANI
+addresses:
+- city: Kabul
+  country: Afghanistan
+date_of_birth:
+  type_of_date: APPROXIMATELY
+  year: 1968
+place_of_birth:
+  city: Sipayaw village, Andar District
+  state_province: Ghazni Province
+  country: Afghanistan
+documents:
+- type_of_document: Passport
+  number: D0010694
+  issuing_country: Afghanistan
+  note: 'Name in Latin script: HAMDULLAH NUMANI'

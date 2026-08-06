@@ -1,0 +1,44 @@
+---
+dataid: '6909617'
+versionnum: '1'
+first_name: 'JOHN '
+second_name: 'IMANI '
+third_name: 'NZENZE '
+un_list_type: DRC
+reference_number: CDi.049
+listed_on: '2026-07-14'
+gender: Male
+comments1: 'Gender: Male. As a leader of M23 (CDe.006), JOHN IMANI NZENZE is involved
+  in planning, promulgating and supporting the armed group’s activities. INTERPOL-UN
+  Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+nationalities:
+- value: Democratic Republic of the Congo
+designations:
+- values:
+  - Colonel
+  - 'M23 intelligence chief (CDe.006) '
+list_type:
+  value:
+  - "\n        "
+  - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n      "
+aliases:
+addresses:
+- state_province: North Kivu
+  country: Democratic Republic of the Congo
+date_of_birth:
+  type_of_date: EXACT
+  date: '1978-08-06'
+documents:
+- type_of_document: Passport
+  number: OP0204168
+  issuing_country: Democratic Republic of the Congo
+- type_of_document: Passport
+  number: " OB0072391"
+  issuing_country: Democratic Republic of the Congo
+- type_of_document: National Identification Number
+  number: '1 1978 8 0137555 3 27 '
+  issuing_country: Rwanda

@@ -1,0 +1,44 @@
+---
+dataid: '111108'
+versionnum: '1'
+first_name: QUDRATULLAH
+second_name: JAMAL
+un_list_type: Taliban
+reference_number: TAi.047
+listed_on: '2001-01-25'
+comments1: Member of Taliban Supreme Council and member of Taliban Cultural Commission
+  as at 2010 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+nationalities:
+- value: Afghanistan
+designations:
+- values:
+  - Minister of Information under the Taliban regime (1996-2001)
+list_type:
+  value:
+  - "\n        "
+  - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n        "
+  - "\n      "
+aliases:
+- quality: Good
+  alias_name: Haji Sahib
+addresses:
+- city: Kabul
+  country: Afghanistan
+date_of_birth:
+  type_of_date: APPROXIMATELY
+  year: 1963
+place_of_birth:
+  city: Gardez
+  state_province: Paktia Province
+  country: Afghanistan
+documents:
+- type_of_document: Passport
+  number: D00010126
+  issuing_country: Afghanistan

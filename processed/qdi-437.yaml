@@ -1,0 +1,46 @@
+---
+dataid: '6909348'
+versionnum: '1'
+first_name: 'SAMI '
+second_name: 'JASIM '
+third_name: 'MUHAMMAD JAATA '
+fourth_name: AL-JABURI
+un_list_type: Al-Qaida
+reference_number: QDi.437
+listed_on: '2026-03-26'
+comments1: 'Assumed multiples roles within ISIL (Da’esh) listed as Al-Qaida in Iraq
+  (QDe.115), including overseeing ISIL’s finances, material affairs and sources of
+  revenue. He was also a member of the so-called Delegated Committee, which is the
+  decision-making body of ISIL (Da’esh). He also participated in several terrorist
+  operations against security forces while ISIL was controlling territory and was
+  involved in the smuggling of oil derivates. Mother’s name: A’ishah Hasan. Gender:
+  Male, Physical description: eye colour: black; hair colour: black; Photo available
+  for inclusion in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security
+  Council Special Notice:'
+nationalities:
+- value: Iraq
+list_type:
+  value:
+  - "\n        "
+  - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n      "
+aliases:
+- quality: Good
+  alias_name: MUSTAFA ADNAN AL-AZIZ
+- quality: Good
+  alias_name: MUSTAFA ADNAN AL-AZEEZ
+- quality: Low
+  alias_name: SAMI AL-AJUZ
+- quality: Low
+  alias_name: HAJJI HAMID
+addresses:
+- country: Iraq
+date_of_birth:
+  type_of_date: EXACT
+  date: '1974-07-01'
+place_of_birth:
+  country: Iraq
+documents:
