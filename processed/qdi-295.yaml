@@ -9,8 +9,8 @@ reference_number: QDi.295
 listed_on: '2011-08-12'
 comments1: Senior member of Jemaah Islamiyah (QDe.092) directly involved in obtaining
   funding for terrorist attacks. Sentenced in Indonesia to five years in prison on
-  29 Jun. 2010. Father’s name is Mohamad Iqbal Abdurrahman (QDi.086) INTERPOL-UN Security
-  Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  29 Jun. 2010. Father’s name is Mohamad Iqbal Abdurrahman (QDi.086). INTERPOL-UN
+  Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-290638
 nationalities:
 - value: Indonesia
 list_type:
@@ -19,6 +19,7 @@ list_type:
   - "\n      "
 last_day_updated:
   value:
+  - "\n        "
   - "\n        "
   - "\n        "
   - "\n      "
@@ -59,3 +60,7 @@ documents:
   number: '3219222002.2181558'
 - type_of_document: National Identification Number
   number: '2181558'
+- type_of_document: Passport
+  number: 'S335026 '
+  issuing_country: Indonesia
+  note: forged Indonesian passport

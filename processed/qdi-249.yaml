@@ -6,10 +6,11 @@ second_name: DJOUADI
 un_list_type: Al-Qaida
 reference_number: QDi.249
 listed_on: '2008-07-03'
-comments1: Reportedly deceased as of February 2022. Belonged to the leadership of
-  the Organization of Al-Qaida in the Islamic Maghreb (listed under permanent reference
-  number QDe.014). Located in Northern Mali as of Jun. 2008. Mother’s name is Zohra
-  Fares. Father’s name is Mohamed INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+comments1: Located in Northern Mali as of Jun. 2008. Reportedly killed on 25 February
+  2022 in Timbuktu, Mali. Belonged to the leadership of the Organization of Al-Qaida
+  in the Islamic Maghreb (listed under permanent reference number QDe.014). Mother’s
+  name is Zohra Fares. Father’s name is Mohamed. INTERPOL-UN Security Council Special
+  Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2003-33116
 nationalities:
 - value: Algeria
 list_type:
@@ -18,6 +19,7 @@ list_type:
   - "\n      "
 last_day_updated:
   value:
+  - "\n        "
   - "\n        "
   - "\n        "
   - "\n        "
