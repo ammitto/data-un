@@ -10,7 +10,7 @@ reference_number: TAi.027
 listed_on: '2001-02-23'
 comments1: Taliban member responsible for Jawzjan Province in Northern Afghanistan
   until 2008. Involved in drug trafficking. Height 178 cm. Photo available for inclusion
-  in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security Council
+  in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council
   Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25909
 nationalities:
 - value: Afghanistan
@@ -23,6 +23,7 @@ list_type:
   - "\n      "
 last_day_updated:
   value:
+  - "\n        "
   - "\n        "
   - "\n        "
   - "\n        "
@@ -58,3 +59,5 @@ documents:
   issuing_country: Afghanistan
   note: Name in Latin script, Abdul Salam Hanafi, name in original script; عبدالسلام
     حنفي
+- type_of_document: Passport
+  number: P03078281
