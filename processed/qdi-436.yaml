@@ -1,5 +1,5 @@
 ---
-dataid: '6909632'
+dataid: '6909642'
 versionnum: '1'
 first_name: ABUBAKAR
 second_name: SWALLEH
@@ -8,7 +8,7 @@ reference_number: QDi.436
 listed_on: '2025-06-16'
 comments1: 'Abubakar Swalleh provides financial, material, or technological support
   for, or financial or other services to, or in support of, ISIL (listed as Al-Qaida
-  in Iraq (QDe.115). He acted, since 2018, as an ISIL facilitator who provides financial
+  in Iraq (QDe.115)). He acted, since 2018, as an ISIL facilitator who provides financial
   and logistic support including recruitment for ISIL in East and Southern Africa.
   Phone number: +963936016952. Gender: Male. Photo available for inclusion in the
   INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special
@@ -22,13 +22,14 @@ list_type:
 last_day_updated:
   value:
   - "\n        "
+  - "\n        "
   - "\n      "
 aliases:
 - quality: Good
   alias_name: ABUBAKER SWALEH
 - quality: Good
   alias_name: TOM KIYURIGE
-- quality: Low
+- quality: Good
   alias_name: ISAAC MUPETA
 addresses:
 - city: Luzira Prison, Luzira, Kampala
@@ -46,3 +47,8 @@ documents:
 - type_of_document: National Identification Number
   number: CM920231090NZA
   issuing_country: Uganda
+- type_of_document: National Identification Number
+  number: Z15105123
+  issuing_country: Zambia
+  note: fraudulently acquired under the name Isaac Mupeta, born 9 May 1993 in Lusaka,
+    Zambia, registration number 102523/29/1
