@@ -1,4 +1,3 @@
----
 dataid: '6908654'
 versionnum: '1'
 first_name: RI
@@ -13,8 +12,7 @@ designations:
 - values:
   - Vice Chairman of the Workers’ Party of Korea (WPK) Central Military Commission
   - 'Former Secretary of the Worker’s Party and Member of the Political Bureau '
-  - Former Alternate Member of the Political Bureau of the Workers’ Party of Korea
-    and First Vice Director of the Munitions Industry Department
+  - Former Alternate Member of the Political Bureau of the Workers’ Party of Korea and First Vice Director of the Munitions Industry Department
 list_type:
   value:
   - "\n        "

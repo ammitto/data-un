@@ -1,4 +1,3 @@
----
 dataid: '110408'
 versionnum: '1'
 first_name: QASEM
@@ -23,8 +22,7 @@ last_day_updated:
   - "\n      "
 aliases:
 - quality: Good
-  alias_name: Qasim Soleimani; Qasem Sulaimani; Qasim Sulaimani; Qasim Sulaymani;
-    Qasem Sulaymani; Kasim Soleimani; Kasim Sulaimani; Kasim Sulaymani
+  alias_name: Qasim Soleimani; Qasem Sulaimani; Qasim Sulaimani; Qasim Sulaymani; Qasem Sulaymani; Kasim Soleimani; Kasim Sulaimani; Kasim Sulaymani
 - quality: Low
   alias_name: Haj Qasem; Haji Qassem; Sardar Soleimani
 addresses:

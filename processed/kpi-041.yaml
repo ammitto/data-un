@@ -1,4 +1,3 @@
----
 dataid: '6908581'
 versionnum: '1'
 first_name: CHO
@@ -10,8 +9,9 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - "Vice Director of the Organization and Guidance Department, which directs\nkey
-    personnel appointments for the Workers’ Party of Korea and the DPRK’s military "
+  - |-
+    Vice Director of the Organization and Guidance Department, which directs
+    key personnel appointments for the Workers’ Party of Korea and the DPRK’s military 
 list_type:
   value:
   - "\n        "

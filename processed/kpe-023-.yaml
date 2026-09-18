@@ -1,15 +1,10 @@
----
 dataid: '6908499'
 versionnum: '1'
 first_name: DAEDONG CREDIT BANK (DCB)
 un_list_type: DPRK
 reference_number: 'KPe.023 '
 listed_on: '2016-03-02'
-comments1: 'SWIFT: DCBKKPPY. Daedong Credit Bank has provided financial services to
-  the Korea Mining Development Trading Corporation (KOMID) and Tanchon Commercial
-  Bank. Since at least 2007, DCB has facilitated hundreds of financial transactions
-  worth millions of dollars on behalf of KOMID and Tanchon Commercial Bank. In some
-  cases, DCB has knowingly facilitated transactions by using deceptive financial practices.'
+comments1: 'SWIFT: DCBKKPPY. Daedong Credit Bank has provided financial services to the Korea Mining Development Trading Corporation (KOMID) and Tanchon Commercial Bank. Since at least 2007, DCB has facilitated hundreds of financial transactions worth millions of dollars on behalf of KOMID and Tanchon Commercial Bank. In some cases, DCB has knowingly facilitated transactions by using deceptive financial practices.'
 list_type:
   value:
   - "\n        "

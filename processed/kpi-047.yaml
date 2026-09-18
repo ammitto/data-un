@@ -1,4 +1,3 @@
----
 dataid: '6908587'
 versionnum: '1'
 first_name: MIN
@@ -11,9 +10,10 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - "Member of the Worker’s Party of Korea’s Organization and Guidance\nDepartment,
-    which directs key personnel appointments for the Workers’ Party of Korea\nand
-    the DPRK’s military "
+  - |-
+    Member of the Worker’s Party of Korea’s Organization and Guidance
+    Department, which directs key personnel appointments for the Workers’ Party of Korea
+    and the DPRK’s military 
 list_type:
   value:
   - "\n        "
