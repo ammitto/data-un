@@ -1,3 +1,4 @@
+---
 dataid: '6908524'
 versionnum: '1'
 first_name: OFFICE 39
@@ -27,7 +28,8 @@ aliases:
 - quality: a.k.a.
   alias_name: Division 39
 addresses:
-- street: Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town (Korean-Dong), Chung Ward, Pyongyang
+- street: Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town (Korean-Dong),
+    Chung Ward, Pyongyang
   country: Democratic People's Republic of Korea
 - street: " Chung-Guyok (Central District), Sosong Street, Kyongrim-Dong, Pyongyang"
   country: Democratic People's Republic of Korea

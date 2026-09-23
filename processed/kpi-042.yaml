@@ -1,3 +1,4 @@
+---
 dataid: '6908582'
 versionnum: '1'
 first_name: CHOE
@@ -11,10 +12,8 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - |-
-    First Vice Director of the Workers' Party of Korea Propaganda and Agitation
-    Department, which controls all DPRK media and is used by the government to control
-    the public 
+  - "First Vice Director of the Workers' Party of Korea Propaganda and Agitation\nDepartment,
+    which controls all DPRK media and is used by the government to control\nthe public "
 list_type:
   value:
   - "\n        "

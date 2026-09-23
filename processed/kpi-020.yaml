@@ -1,3 +1,4 @@
+---
 dataid: '6908508'
 versionnum: '1'
 first_name: KANG
@@ -9,7 +10,8 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - 'Former Korea Mining Development Trading Corporation (KOMID) Representative in Syria '
+  - 'Former Korea Mining Development Trading Corporation (KOMID) Representative in
+    Syria '
 list_type:
   value:
   - "\n        "

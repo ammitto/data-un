@@ -1,3 +1,4 @@
+---
 dataid: '6908586'
 versionnum: '1'
 first_name: KIM
@@ -10,9 +11,8 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - |-
-    Vietnam Representative for Tanchon Commercial Bank, which is the main DPRK
-    financial entity for weapons and missile-related sales 
+  - "Vietnam Representative for Tanchon Commercial Bank, which is the main DPRK\nfinancial
+    entity for weapons and missile-related sales "
 list_type:
   value:
   - "\n        "

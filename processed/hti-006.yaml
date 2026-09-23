@@ -1,3 +1,4 @@
+---
 dataid: '6909386'
 versionnum: '1'
 first_name: PROPHANE
@@ -10,7 +11,8 @@ nationalities:
 - value: Haiti
 designations:
 - values:
-  - Former member of the Haitian Parliament, involved in weapons trafficking and using violence to secure political gain.
+  - Former member of the Haitian Parliament, involved in weapons trafficking and using
+    violence to secure political gain.
 list_type:
   value:
   - "\n        "

@@ -1,3 +1,4 @@
+---
 dataid: '6908502'
 versionnum: '1'
 first_name: HYON
@@ -9,9 +10,8 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - |-
-    Department Director for Scientific Development at the National Aerospace
-    Development Administration 
+  - "Department Director for Scientific Development at the National Aerospace\nDevelopment
+    Administration "
 list_type:
   value:
   - "\n        "

@@ -1,3 +1,4 @@
+---
 dataid: '6908515'
 versionnum: '1'
 first_name: YU
@@ -9,9 +10,7 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - |-
-    Director of the National Aerospace Development Administration
-                
+  - "Director of the National Aerospace Development Administration\n            "
 list_type:
   value:
   - "\n        "

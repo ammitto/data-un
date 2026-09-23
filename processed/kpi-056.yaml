@@ -1,3 +1,4 @@
+---
 dataid: '6908615'
 versionnum: '1'
 first_name: JANG
@@ -9,7 +10,8 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - Jang Song Chol is a Korea Mining Development Corporation (KOMID) representative overseas
+  - Jang Song Chol is a Korea Mining Development Corporation (KOMID) representative
+    overseas
 list_type:
   value:
   - "\n        "

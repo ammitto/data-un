@@ -1,3 +1,4 @@
+---
 dataid: '110409'
 versionnum: '1'
 first_name: HOSEIN
@@ -20,7 +21,8 @@ last_day_updated:
   - "\n      "
 aliases:
 - quality: Good
-  alias_name: Husain Salimi; Hosain Salimi; Hussain Salimi; Hosein Saleemi; Husain Saleemi; Hosain Saleemi; Hussain Saleemi; Hossein Salimi; Hossein Saleemi
+  alias_name: Husain Salimi; Hosain Salimi; Hussain Salimi; Hosein Saleemi; Husain
+    Saleemi; Hosain Saleemi; Hussain Saleemi; Hossein Salimi; Hossein Saleemi
 addresses:
 documents:
 - type_of_document: Passport

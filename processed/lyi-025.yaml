@@ -1,3 +1,4 @@
+---
 dataid: '6908706'
 versionnum: '1'
 first_name: Mohammed
@@ -7,12 +8,14 @@ fourth_name: Kashlaf
 un_list_type: Libya
 reference_number: LYi.025
 listed_on: '2018-06-07'
-comments1: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)
+comments1: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,
+  Asset Freeze)
 nationalities:
 - value: Libya
 designations:
 - values:
-  - Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery Guard of Zawiya’s refinery
+  - Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery Guard of
+    Zawiya’s refinery
 list_type:
   value:
   - "\n        "

@@ -1,3 +1,4 @@
+---
 dataid: '6908512'
 versionnum: '1'
 first_name: KO
@@ -9,10 +10,7 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - |-
-    Tanchon Commercial
-                    Bank official
-                    
+  - "Tanchon Commercial\n                Bank official\n                "
 list_type:
   value:
   - "\n        "

@@ -1,3 +1,4 @@
+---
 dataid: '6908004'
 versionnum: '1'
 first_name: LEODOMIR
@@ -6,7 +7,8 @@ un_list_type: DRC
 reference_number: CDi.013
 listed_on: '2010-12-01'
 gender: Male
-comments1: FDLR-FOCA Chief of Staff, in charge of administration. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+comments1: FDLR-FOCA Chief of Staff, in charge of administration. INTERPOL-UN Security
+  Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 nationalities:
 - value: Rwanda
 list_type:

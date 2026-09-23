@@ -1,10 +1,22 @@
+---
 dataid: '690761'
 versionnum: '1'
 first_name: GREEN PINE ASSOCIATED CORPORATION
 un_list_type: DPRK
 reference_number: KPe.010
 listed_on: '2012-05-02'
-comments1: 'Green Pine Associated Corporation (“Green Pine”) has taken over many of the activities of the Korea Mining Development Trading Corporation (KOMID). KOMID was designated by the Committee in April 2009 and is the DPRK''s primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons. Green Pine is also responsible for approximately half of the arms and related materiel exported by the DPRK. Green Pine has been identified for sanctions for exporting arms or related material from North Korea. Green Pine specializes in the production of maritime military craft and armaments, such as submarines, military boats and missile systems, and has exported torpedoes and technical assistance to Iranian defence-related firms. Telephone number: +850-2-18111(ext. 8327). Facsimile number: +850-2-3814685 and +850-2-3813372. Email addresses: pac@silibank.com and kndic@co.chesin.com.'
+comments1: 'Green Pine Associated Corporation (“Green Pine”) has taken over many of
+  the activities of the Korea Mining Development Trading Corporation (KOMID). KOMID
+  was designated by the Committee in April 2009 and is the DPRK''s primary arms dealer
+  and main exporter of goods and equipment related to ballistic missiles and conventional
+  weapons. Green Pine is also responsible for approximately half of the arms and related
+  materiel exported by the DPRK. Green Pine has been identified for sanctions for
+  exporting arms or related material from North Korea. Green Pine specializes in the
+  production of maritime military craft and armaments, such as submarines, military
+  boats and missile systems, and has exported torpedoes and technical assistance to
+  Iranian defence-related firms. Telephone number: +850-2-18111(ext. 8327). Facsimile
+  number: +850-2-3814685 and +850-2-3813372. Email addresses: pac@silibank.com and
+  kndic@co.chesin.com.'
 list_type:
   value:
   - "\n        "
@@ -41,6 +53,7 @@ addresses:
 - street: Nungrado
   city: Pyongyang
   country: Democratic People's Republic of Korea
-- street: Rakrang No. 1 Rakrang District Pyongyang Korea, Chilgol-1 dong, Mangyongdae District
+- street: Rakrang No. 1 Rakrang District Pyongyang Korea, Chilgol-1 dong, Mangyongdae
+    District
   city: Pyongyang
   country: Democratic People's Republic of Korea

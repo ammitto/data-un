@@ -1,3 +1,4 @@
+---
 dataid: '6908589'
 versionnum: '1'
 first_name: PAK
@@ -5,14 +6,15 @@ second_name: HAN SE
 un_list_type: DPRK
 reference_number: KPi.049
 listed_on: '2017-06-02'
-comments1: Directs the activities of Korea Mining Development Corporation, the DPRK’s premier arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.
+comments1: Directs the activities of Korea Mining Development Corporation, the DPRK’s
+  premier arms dealer and main exporter of goods and equipment related to ballistic
+  missiles and conventional weapons.
 nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - |-
-    Vice Chairman of the Second Economic Committee, which oversees the
-    production of the DPRK’s ballistic missiles 
+  - "Vice Chairman of the Second Economic Committee, which oversees the\nproduction
+    of the DPRK’s ballistic missiles "
 list_type:
   value:
   - "\n        "

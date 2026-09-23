@@ -1,3 +1,4 @@
+---
 dataid: '110413'
 versionnum: '1'
 first_name: M. JAVAD
@@ -21,7 +22,8 @@ last_day_updated:
   - "\n      "
 aliases:
 - quality: Good
-  alias_name: Mohammed Sabet; Mohammad Sabet b) M. Javad Kareemi Sabet; M. Jawad Kareemi Sabet; M. Jawad Karimi Sabet
+  alias_name: Mohammed Sabet; Mohammad Sabet b) M. Javad Kareemi Sabet; M. Jawad Kareemi
+    Sabet; M. Jawad Karimi Sabet
 addresses:
 date_of_birth:
   type_of_date: EXACT

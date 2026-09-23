@@ -1,3 +1,4 @@
+---
 dataid: '6908506'
 versionnum: '1'
 first_name: JON
@@ -5,7 +6,9 @@ second_name: MYONG GUK
 un_list_type: DPRK
 reference_number: KPi.018
 listed_on: '2016-03-02'
-comments1: 'Pursuant to Resolution 2371(2017) the Security Council added the following information: New AKA: Jon Yong Sang with date of birth 25 August 1976 and diplomatic passport number 836110035, which expires on 1 January 2020.'
+comments1: 'Pursuant to Resolution 2371(2017) the Security Council added the following
+  information: New AKA: Jon Yong Sang with date of birth 25 August 1976 and diplomatic
+  passport number 836110035, which expires on 1 January 2020.'
 nationalities:
 - value: Democratic People's Republic of Korea
 designations:

@@ -1,3 +1,4 @@
+---
 dataid: '6908643'
 versionnum: '1'
 first_name: KIM
@@ -10,7 +11,8 @@ nationalities:
 - value: Democratic People's Republic of Korea
 designations:
 - values:
-  - A leading official guiding the DPRK’s WMD development efforts. Serving as Deputy Director of the Workers’ Party of Korea Munitions Industry Department
+  - A leading official guiding the DPRK’s WMD development efforts. Serving as Deputy
+    Director of the Workers’ Party of Korea Munitions Industry Department
 list_type:
   value:
   - "\n        "
