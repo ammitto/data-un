@@ -1,7 +1,7 @@
 ---
 dataid: '6908877'
 versionnum: '1'
-first_name: KHATIBA AL-TAWHID WAL-JIHAD (KTJ)
+first_name: KHATIBA JAMA`AT AL-TAWHID WAL-JIHAD (KTJ)
 un_list_type: Al-Qaida
 reference_number: QDe.168
 listed_on: '2022-03-07'
@@ -18,11 +18,15 @@ list_type:
   value:
   - "\n        "
   - "\n      "
+last_day_updated:
+  value:
+  - "\n        "
+  - "\n      "
 aliases:
 - quality: a.k.a.
   alias_name: JANNAT OSHIKLARI
 - quality: a.k.a.
   alias_name: Jama`at al-Tawhid wal-Jihad
-- quality: f.k.a.
-  alias_name: JANNAT OSHIKLARI
+- quality: a.k.a.
+  alias_name: Katiba al-Tawhid wal-Jihad
 addresses:
