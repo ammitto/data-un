@@ -1,9 +1,9 @@
 ---
 source: un
 count: 1010
-fetched_at: '2026-10-09T16:11:35Z'
+fetched_at: '2026-10-10T12:50:56Z'
 schema: ammitto:sources:un:v1
-pruned: 1
+pruned: 0
 files:
 - cde-001.yaml
 - cde-002.yaml
