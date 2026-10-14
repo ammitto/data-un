@@ -13,22 +13,20 @@ nationalities:
 - value: Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Mohammad Yahya Aziz
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1961-03-12'
 place_of_birth:
-  city: Lahore
+- city: Lahore
   state_province: Punjab Province
   country: Pakistan
 documents:

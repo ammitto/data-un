@@ -12,17 +12,15 @@ nationalities:
 - value: Algeria
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2007-09-07'
+  - '2008-04-07'
+  - '2010-01-25'
+  - '2011-05-16'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Kalad Belkasam
@@ -61,10 +59,10 @@ aliases:
 addresses:
 - country: Algeria
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1973-09-28'
 place_of_birth:
-  city: Tiaret
+- city: Tiaret
   country: Algeria
 documents:
 - type_of_document: National Identification Number

@@ -15,20 +15,15 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: ABU OMAR AL SARRAF
 addresses:
 - country: Iraq
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1970-09-01'
 place_of_birth:
-  country: Iraq
+- country: Iraq
 documents:

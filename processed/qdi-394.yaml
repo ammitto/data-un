@@ -14,12 +14,10 @@ nationalities:
 - value: State of Palestine
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Hussein Mohammed Hussein Aljeithni
@@ -37,10 +35,10 @@ addresses:
 - city: Gaza Strip
   country: State of Palestine
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1977-05-03'
 place_of_birth:
-  city: Nuseirat Refugee Camp
+- city: Nuseirat Refugee Camp
   state_province: Gaza Strip
   country: State of Palestine
 documents:

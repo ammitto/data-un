@@ -19,12 +19,7 @@ designations:
                     (CDe.001).
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: Mzee Kajaju
@@ -41,6 +36,7 @@ addresses:
   country: Democratic Republic of the Congo
   note: Last known location
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1977
+place_of_birth:
 documents:

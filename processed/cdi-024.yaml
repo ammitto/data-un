@@ -17,12 +17,10 @@ designations:
   - FDLR-FOCA Brigadier General
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Low
   alias_name: Colonel Omega
@@ -38,10 +36,12 @@ addresses:
   country: Democratic Republic of the Congo
   note: As of June 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1964-01-01'
+- type_of_date: APPROXIMATELY
+  year: 1964
 place_of_birth:
-  city: Gaseke
+- city: Gaseke
   state_province: Gisenyi Province
   country: Rwanda
 documents:

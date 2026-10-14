@@ -13,12 +13,10 @@ nationalities:
 - value: Russian Federation
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Zurab Iraklievich Margoshvili
@@ -42,10 +40,10 @@ aliases:
   alias_name: Sedoy
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1970-01-15'
 place_of_birth:
-  city: Grozny
+- city: Grozny
   state_province: Chechen Republic
   country: Russian Federation
 documents:

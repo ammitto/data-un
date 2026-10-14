@@ -12,12 +12,10 @@ comments1: 'SWIFT: DCBKKPPY. Daedong Credit Bank has provided financial services
   cases, DCB has knowingly facilitated transactions by using deceptive financial practices.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 - quality: a.k.a.
   alias_name: DCB

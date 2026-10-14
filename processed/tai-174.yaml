@@ -12,12 +12,10 @@ comments1: Key commander for Taliban military council involved in fundraising fr
   Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2019-01-30'
 aliases:
 - quality: Good
   alias_name: Sayed Mohammed Hashan
@@ -32,11 +30,18 @@ addresses:
   state_province: Baluchistan Province
   country: Pakistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1960
+- type_of_date: EXACT
+  year: 1962
+- type_of_date: APPROXIMATELY
+  year: 1965
 place_of_birth:
-  state_province: Kandahar Province
+- state_province: Kandahar Province
   country: Afghanistan
+- city: Pishin
+  state_province: Baluchistan Province
+  country: Pakistan
 documents:
 - type_of_document: National Identification Number
   number: '5430312277059'

@@ -9,12 +9,10 @@ comments1: 'Ship manager of DPRK oil products tanker YU SON, which is believed t
   have been involved in ship-to-ship transfer operations for oil. IMO number: 5988369.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 addresses:
 - street: Kumsong 3-dong, Mangyongdae-guyok

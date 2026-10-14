@@ -22,12 +22,7 @@ designations:
                     (intelligence agency)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Mutlaq Ali Aamer Al Marrani
@@ -36,9 +31,9 @@ aliases:
 addresses:
 - country: Yemen
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1984-01-01'
 place_of_birth:
-  city: Al-Jawf
+- city: Al-Jawf
   country: Yemen
 documents:

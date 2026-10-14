@@ -16,16 +16,13 @@ designations:
   - 'Representative for Ilsim International Bank '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Ch’oe Ch’un-yo’ng
 addresses:
+date_of_birth:
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '654410078 '

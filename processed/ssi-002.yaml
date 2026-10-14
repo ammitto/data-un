@@ -17,12 +17,10 @@ designations:
   - Chief of General Staff, SPLA in Opposition
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-11-03'
 aliases:
 - quality: Good
   alias_name: Simon Gatwich Dual
@@ -48,9 +46,17 @@ addresses:
 - state_province: Jonglei State
   country: South Sudan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1953
 place_of_birth:
-  city: Akobo, Jonglei State
+- city: Akobo, Jonglei State
   country: Sudan
+- city: Akobo, Jonglei State
+  country: South Sudan
+- city: Uror County
+  state_province: Jonglei State
+  country: Sudan
+- city: Uror County
+  state_province: Jonglei State
+  country: South Sudan
 documents:

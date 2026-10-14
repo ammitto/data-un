@@ -15,14 +15,12 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
+  - '2021-11-15'
+  - '2026-08-18'
 aliases:
 - quality: Good
   alias_name: Mohammad Jibril Abdurrahman
@@ -49,10 +47,16 @@ addresses:
   state_province: Banten
   country: Indonesia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1984-05-28'
+- type_of_date: EXACT
+  date: '1979-12-03'
+- type_of_date: EXACT
+  date: '1979-03-03'
+- type_of_date: EXACT
+  date: '1980-08-08'
 place_of_birth:
-  city: East Lombok
+- city: East Lombok
   state_province: West Nusa Tenggara
   country: Indonesia
 documents:

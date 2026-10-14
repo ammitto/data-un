@@ -17,15 +17,13 @@ designations:
   - Head of external intelligence agency.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-06-27'
+  - '2016-04-01'
+  - '2020-02-25'
+  - '2022-07-18'
 aliases:
 - quality: Good
   alias_name: Dorda Abuzed OE
@@ -35,8 +33,9 @@ addresses:
 - country: Libya
   note: Believed status/location:deceased
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1944-04-04'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: FK117RK0

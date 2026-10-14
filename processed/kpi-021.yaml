@@ -14,19 +14,18 @@ designations:
   - Tanchon Commercial Bank Representative
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2017-06-01'
 aliases:
 - quality: Good
   alias_name: Kim Chung Chong
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-11-07'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '199421147'

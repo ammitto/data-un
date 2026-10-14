@@ -14,14 +14,12 @@ nationalities:
 - value: Libya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-12-13'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Low
   alias_name: Adam
@@ -34,10 +32,10 @@ addresses:
   city: Tripoli
   country: Libya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1969
 place_of_birth:
-  city: Tripoli
+- city: Tripoli
   country: Libya
 documents:
 - type_of_document: Passport

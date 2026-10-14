@@ -18,12 +18,10 @@ nationalities:
 - value: Trinidad and Tobago
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-11-08'
 aliases:
 - quality: Low
   alias_name: Asadullah
@@ -47,10 +45,10 @@ addresses:
   country: Trinidad and Tobago
   note: alternative location as at Sep. 2011
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1986-02-22'
 place_of_birth:
-  city: Mount Hope
+- city: Mount Hope
   country: Trinidad and Tobago
 documents:
 - type_of_document: Passport

@@ -16,17 +16,15 @@ nationalities:
 - value: Egypt
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2005-09-09'
+  - '2007-12-21'
+  - '2011-05-16'
+  - '2017-03-29'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Low
   alias_name: Mera’i
@@ -36,9 +34,9 @@ addresses:
   country: Italy
   note: Domicile
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1972-01-02'
 place_of_birth:
-  city: El Gharbia Governorate
+- city: El Gharbia Governorate
   country: Egypt
 documents:

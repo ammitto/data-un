@@ -9,8 +9,7 @@ comments1: 'e-mail: mouvementdu23mars1@gmail.com INTERPOL-UN Security Council Sp
   Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: a.k.a.
   alias_name: Mouvement du 23 mars

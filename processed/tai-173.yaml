@@ -13,12 +13,7 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Haji Abdul Basir
@@ -35,10 +30,14 @@ addresses:
   state_province: Baluchistan Province
   country: Pakistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1965
+- type_of_date: EXACT
+  year: 1960
+- type_of_date: EXACT
+  year: 1963
 place_of_birth:
-  state_province: Baluchistan Province
+- state_province: Baluchistan Province
   country: Pakistan
 documents:
 - type_of_document: Passport

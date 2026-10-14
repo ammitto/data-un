@@ -21,8 +21,7 @@ comments1: 'The Ministry of Atomic Energy Industry was created in 2013 for the p
   April 9, 2014.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: a.k.a.
   alias_name: MAEI

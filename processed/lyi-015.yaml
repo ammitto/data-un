@@ -14,24 +14,22 @@ designations:
   - Commander Special Forces
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-03-14'
+  - '2012-04-02'
+  - '2015-03-26'
+  - '2022-01-28'
+  - '2023-11-29'
 aliases:
 addresses:
 - country: Türkiye
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1973-05-27'
 place_of_birth:
-  city: Tripoli
+- city: Tripoli
   country: Libya
 documents:
 - type_of_document: Passport

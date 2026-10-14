@@ -13,17 +13,13 @@ designations:
   - Representative for Korea United Development Bank
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Kim Mun-ch’o’l
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1957-03-25'
+place_of_birth:
 documents:

@@ -16,12 +16,7 @@ designations:
   - 'Commander and military leader of Twirwaneho (CDe.011) '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: SEBANYANA
@@ -30,10 +25,10 @@ addresses:
   state_province: South Kivu
   country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1975
 place_of_birth:
-  city: Kalunyo Village, Kamombo Localities
+- city: Kalunyo Village, Kamombo Localities
   state_province: South Kivu
   country: Democratic Republic of the Congo
 documents:

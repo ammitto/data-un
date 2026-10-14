@@ -8,8 +8,7 @@ listed_on: '2006-12-23'
 comments1: 'Provider for PFEP - Natanz. [Old Reference # E.37.A.3]'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: a.k.a.
   alias_name: Kalaye Electric

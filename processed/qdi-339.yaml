@@ -16,14 +16,12 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-12-06'
+  - '2023-10-30'
+  - '2023-12-14'
 aliases:
 - quality: Good
   alias_name: "‘Abd al-Rahman Muhammad Mustafa Shaykhlari"
@@ -51,10 +49,12 @@ aliases:
   alias_name: Abu Zayna
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1959
+- type_of_date: EXACT
+  year: 1957
 place_of_birth:
-  city: Mosul
+- city: Mosul
   state_province: Ninawa Province
   country: Iraq
 documents:

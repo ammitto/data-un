@@ -9,8 +9,7 @@ comments1: 'Daesong Bank is owned and controlled by Office 39 of the Korea Worke
   Party. SWIFT/BIC: KDBKKPPY'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: a.k.a.
   alias_name: Choson Taesong Unhaeng

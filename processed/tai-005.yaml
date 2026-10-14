@@ -18,15 +18,13 @@ designations:
   - Minister of Finance under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-09'
+  - '2007-09-21'
+  - '2011-11-29'
 aliases:
 - quality: Good
   alias_name: Mohammad Taher Anwari
@@ -38,10 +36,10 @@ aliases:
   alias_name: Haji Mudir
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1961
 place_of_birth:
-  city: Zurmat District
+- city: Zurmat District
   state_province: Paktia Province
   country: Afghanistan
 documents:

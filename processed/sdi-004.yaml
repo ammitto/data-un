@@ -19,12 +19,10 @@ designations:
     Commander
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2018-03-14'
 aliases:
 - quality: Good
   alias_name: General Gibril Abdul Kareem Barey
@@ -37,10 +35,10 @@ addresses:
   country: Sudan
   note: Resides in Tine, on the Sudanese side of the border with Chad
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1967-01-01'
 place_of_birth:
-  city: El-Fasher
+- city: El-Fasher
   state_province: North Darfur
 documents:
 - type_of_document: National Identification Number

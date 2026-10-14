@@ -17,12 +17,10 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-05-27'
 aliases:
 - quality: Good
   alias_name: Hajji Abdelnasser
@@ -38,8 +36,8 @@ aliases:
   alias_name: Mullah Khuwayt
 addresses:
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Tall 'Afar
+- city: Tall 'Afar
   country: Iraq
 documents:

@@ -9,8 +9,7 @@ comments1: The Strategic Rocket Force of the Korean People’s Army is in charge
   all DPRK ballistic missile programmes and is responsible for SCUD and NODONG launches
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: a.k.a.
   alias_name: Strategic Rocket Force

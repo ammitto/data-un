@@ -18,13 +18,11 @@ designations:
     network
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2018-09-17'
+  - '2020-02-25'
 aliases:
 - quality: Low
   alias_name: Al-Dabachi
@@ -42,8 +40,9 @@ addresses:
 - city: Zawiya
   country: Libya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1988-05-07'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: LY53FP76

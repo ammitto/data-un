@@ -20,14 +20,12 @@ nationalities:
 - value: Tunisia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-09-14'
+  - '2019-05-01'
+  - '2021-11-15'
 aliases:
 - quality: Low
   alias_name: Abou Omar Al Tounisi
@@ -42,10 +40,10 @@ addresses:
 - country: Libya
   note: previously located in
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1982-05-03'
 place_of_birth:
-  city: Tunis
+- city: Tunis
   country: Tunisia
 documents:
 - type_of_document: Passport

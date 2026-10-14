@@ -20,12 +20,10 @@ nationalities:
 - value: Libya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-11-29'
 aliases:
 - quality: Good
   alias_name: Osama Milad
@@ -41,9 +39,9 @@ addresses:
 - state_province: Zawiyah
   country: Libya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1976-04-02'
 place_of_birth:
-  city: Tripoli
+- city: Tripoli
   country: Libya
 documents:

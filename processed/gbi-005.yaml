@@ -27,21 +27,16 @@ designations:
   - Chief of Staff of the Armed Forces
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: António Indjai
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1955-01-20'
 place_of_birth:
-  city: Encheia
+- city: Encheia
   state_province: Sector de Bissorá, Região de Oio
   country: Guinea-Bissau
 documents:

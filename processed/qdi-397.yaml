@@ -15,20 +15,18 @@ nationalities:
 - value: Russian Federation
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Salman Bulgarskiy
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1977-03-27'
 place_of_birth:
-  state_province: Naberezhnye Chelny, Republic of Tatarstan
+- state_province: Naberezhnye Chelny, Republic of Tatarstan
   country: Russian Federation
 documents:

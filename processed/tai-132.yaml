@@ -17,25 +17,23 @@ designations:
     Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2006-07-25'
+  - '2007-04-23'
+  - '2007-09-21'
+  - '2011-11-29'
 aliases:
 - quality: Low
   alias_name: Najib Ullah
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1958
 place_of_birth:
-  city: Zere Kohi area, Shindand District
+- city: Zere Kohi area, Shindand District
   state_province: Farah Province
   country: Afghanistan
 documents:

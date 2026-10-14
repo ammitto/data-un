@@ -19,13 +19,11 @@ designations:
   - Former Captain, CAR Naval Forces
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2018-04-26'
+  - '2019-03-01'
 aliases:
 - quality: Good
   alias_name: Eugene Ngaikosset
@@ -45,8 +43,9 @@ addresses:
 - city: Bangui
   country: Central African Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1967-10-08'
+place_of_birth:
 documents:
 - type_of_document: National Identification Number
   number: |-

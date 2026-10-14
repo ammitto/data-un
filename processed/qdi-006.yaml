@@ -18,18 +18,16 @@ nationalities:
 - value: Egypt
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2007-07-02'
+  - '2007-07-18'
+  - '2007-08-13'
+  - '2010-12-16'
+  - '2015-05-22'
+  - '2020-11-24'
+  - '2025-03-11'
 aliases:
 - quality: Good
   alias_name: Ayman Al-Zawahari
@@ -63,10 +61,10 @@ aliases:
   alias_name: Abu Mohammed
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1951-06-19'
 place_of_birth:
-  city: Giza
+- city: Giza
   country: Egypt
 documents:
 - type_of_document: Passport

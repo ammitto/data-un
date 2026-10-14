@@ -16,16 +16,14 @@ designations:
   - Minister of Water, Sanitation and Electricity under the Taliban regime (1996-2001)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2026-03-10'
+  - '2026-04-28'
 aliases:
 - quality: Good
   alias_name: MOHAMMAD EISA SANI
@@ -33,10 +31,12 @@ addresses:
 - city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1958
+- type_of_date: EXACT
+  date: '1957-02-22'
 place_of_birth:
-  city: Mial area, Spin Boldak District
+- city: Mial area, Spin Boldak District
   state_province: Kandahar Province
   country: Afghanistan
 documents:

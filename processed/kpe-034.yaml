@@ -10,8 +10,7 @@ comments1: 'Ilsim International Bank is affiliated with the DPRK military and ha
   Bank has attempted to evade United Nations sanctions. SWIFT: ILSIKPPY'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - city: Pyongyang

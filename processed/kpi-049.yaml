@@ -17,17 +17,14 @@ designations:
     of the DPRK’s ballistic missiles "
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Kang Myong Chol
 addresses:
 - country: Democratic People's Republic of Korea
+date_of_birth:
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '290410121 '

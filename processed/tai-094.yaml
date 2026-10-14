@@ -16,15 +16,13 @@ designations:
   - Governor of Helmand Province under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2012-02-13'
 aliases:
 - quality: Good
   alias_name: Haji Mullah Sahib
@@ -32,10 +30,13 @@ aliases:
   alias_name: Zakir
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1953
 place_of_birth:
-  city: Baghran District
+- city: Baghran District
+  state_province: Helmand Province
+  country: Afghanistan
+- city: Now Zad District
   state_province: Helmand Province
   country: Afghanistan
 documents:

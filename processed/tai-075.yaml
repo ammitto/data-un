@@ -17,22 +17,20 @@ designations:
   - Minister of Repatriation under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2013-12-31'
+  - '2014-05-16'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Zardalu Darra village, Kalafgan District
+- city: Zardalu Darra village, Kalafgan District
   state_province: Takhar Province
   country: Afghanistan
 documents:

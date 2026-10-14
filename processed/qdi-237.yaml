@@ -14,12 +14,7 @@ nationalities:
 - value: Kuwait
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Jaber Al-Jalamah
@@ -39,10 +34,10 @@ addresses:
 - country: Kuwait
   note: residence as at March 2009 and at December 2013
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1959-09-24'
 place_of_birth:
-  state_province: Al-Khitan area
+- state_province: Al-Khitan area
   country: Kuwait
 documents:
 - type_of_document: Passport

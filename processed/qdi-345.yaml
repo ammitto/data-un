@@ -15,12 +15,10 @@ nationalities:
 - value: Georgia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Tarkhan Tayumurazovich Batyrashvili
@@ -50,10 +48,12 @@ addresses:
 - country: Syrian Arab Republic
   note: located in as at Dec. 2014
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1986-01-11'
+- type_of_date: EXACT
+  year: 1982
 place_of_birth:
-  city: Akhmeta, Village Birkiani
+- city: Akhmeta, Village Birkiani
   country: Georgia
 documents:
 - type_of_document: Passport

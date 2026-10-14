@@ -20,12 +20,10 @@ designations:
     Council in resolution 1747 (2007) (designated under IRi.039).
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Sayed Akbar Tahmaesebi; Syed Akber Tahmaesebi
@@ -33,8 +31,9 @@ aliases:
   alias_name: Ali Akber Tabatabaei; Ali Akber Tahmaesebi; Ali Akbar Tahmaesebi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1967
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '9003213'

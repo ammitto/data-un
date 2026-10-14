@@ -15,13 +15,11 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2022-11-08'
+  - '2023-02-02'
 aliases:
 - quality: Good
   alias_name: Bahrun Naim
@@ -39,9 +37,9 @@ addresses:
 - city: Raqqa
   country: Syrian Arab Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1983-09-06'
 place_of_birth:
-  city: Surakarta
+- city: Surakarta
   country: Indonesia
 documents:

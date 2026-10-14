@@ -12,12 +12,7 @@ nationalities:
 - value: Kenya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Sheikh Ahmed Iman Ali
@@ -29,8 +24,10 @@ aliases:
   alias_name: Abu Zinira
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1973
+- type_of_date: APPROXIMATELY
+  year: 1974
 place_of_birth:
-  country: Kenya
+- country: Kenya
 documents:

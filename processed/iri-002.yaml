@@ -12,19 +12,17 @@ designations:
   - Head of the Pilot Fuel Enrichment Plant (PFEP) (Natanz)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1957-04-23'
 place_of_birth:
-  city: Ardebil
+- city: Ardebil
   country: Iran (Islamic Republic of)
 documents:
 - type_of_document: Passport

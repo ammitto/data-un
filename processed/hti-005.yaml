@@ -14,21 +14,16 @@ designations:
   - Leader of Kraze Barye gang
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - city: 64, Soisson, Tabarre 49, Port-au-Prince
   country: Haiti
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1986-03-27'
 place_of_birth:
-  city: Port-au-Prince
+- city: Port-au-Prince
   country: Haiti
 documents:
 - type_of_document: National Identification Number

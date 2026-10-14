@@ -19,13 +19,11 @@ designations:
   - Paramount Chief of the Mahamid Tribe in North Darfur
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2017-10-17'
+  - '2018-03-14'
 aliases:
 - quality: Low
   alias_name: "(Sheikh) Musa Hilal"
@@ -53,8 +51,11 @@ addresses:
   note: Resides in Kabkabiya and the city of Kutum, Northern Darfur and has resided
     in Khartoum.
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1964-01-01'
+- type_of_date: EXACT
+  year: 1959
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: Diplomatic Passport D014433

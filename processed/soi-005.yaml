@@ -11,12 +11,7 @@ nationalities:
 - value: Somalia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Fuad Mohamed Khalif
@@ -46,4 +41,6 @@ addresses:
 - city: Mogadishu
   country: Somalia
 - country: Somalia
+date_of_birth:
+place_of_birth:
 documents:

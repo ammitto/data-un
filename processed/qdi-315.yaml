@@ -15,13 +15,11 @@ nationalities:
 - value: Mauritania
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Hamada Ould Mohamed Lemine Ould Mohamed el Khairy
@@ -35,10 +33,10 @@ addresses:
 - city: Gao
   country: Mali
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1970
 place_of_birth:
-  city: Nouakchott
+- city: Nouakchott
   country: Mauritania
 documents:
 - type_of_document: Passport

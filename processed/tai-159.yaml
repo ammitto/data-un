@@ -20,13 +20,11 @@ designations:
     regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2013-12-31'
+  - '2014-02-11'
 aliases:
 - quality: Good
   alias_name: Ahmed Jan Kuchi
@@ -34,10 +32,10 @@ aliases:
   alias_name: Ahmed Jan Zadran
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1963
 place_of_birth:
-  city: Barlach Village, Qareh Bagh District
+- city: Barlach Village, Qareh Bagh District
   state_province: Ghazni Province
   country: Afghanistan
 documents:

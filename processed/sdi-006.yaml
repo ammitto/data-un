@@ -16,19 +16,14 @@ designations:
   - 'Rapid Support Forces (RSF) Major General and Head of RSF Operations '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-01-01'
 place_of_birth:
-  city: Kadiqali
+- city: Kadiqali
   state_province: " South Darfur"
   country: Sudan
 documents:

@@ -14,12 +14,10 @@ nationalities:
 - value: Libya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Husayn al-Salihin Salih al-Sha‘iri
@@ -30,10 +28,10 @@ aliases:
 addresses:
 - country: Libya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1975
 place_of_birth:
-  city: Derna
+- city: Derna
   country: Libya
 documents:
 - type_of_document: Passport

@@ -20,26 +20,25 @@ designations:
   - 'Political Advisor of Mullah Mohammed Omar  '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2005-12-20'
+  - '2007-07-09'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2026-03-10'
+  - '2026-04-13'
 aliases:
 addresses:
 - city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Pashmul village, Panjwai District
+- city: Pashmul village, Panjwai District
   state_province: Kandahar Province
   country: Afghanistan
 documents:

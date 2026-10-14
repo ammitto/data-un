@@ -15,14 +15,12 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2015-10-14'
+  - '2020-11-24'
+  - '2021-04-06'
 aliases:
 - quality: Good
   alias_name: Abu Bakar Baasyir
@@ -35,10 +33,10 @@ aliases:
 addresses:
 - country: Indonesia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1938-08-17'
 place_of_birth:
-  city: Jombang
+- city: Jombang
   state_province: East Java
   country: Indonesia
 documents:

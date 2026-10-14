@@ -18,19 +18,14 @@ designations:
   - 'Commander of the Houthi’s Fifth Military Region '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - country: Yemen
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1977
 place_of_birth:
-  state_province: Muhatta Directorate, Hajjah Province
+- state_province: Muhatta Directorate, Hajjah Province
   country: Yemen
 documents:

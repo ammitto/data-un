@@ -16,12 +16,10 @@ nationalities:
 - value: United Kingdom of Great Britain and Northern Ireland
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Nasir Muthana
@@ -39,10 +37,10 @@ addresses:
 - country: United Kingdom of Great Britain and Northern Ireland
   note: previous address until Nov. 2013
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1994-04-29'
 place_of_birth:
-  city: Heath
+- city: Heath
   state_province: Cardiff
   country: United Kingdom of Great Britain and Northern Ireland
 documents:

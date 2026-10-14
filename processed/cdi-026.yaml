@@ -17,12 +17,10 @@ designations:
   - Former FDLR-FOCA Deputy Commander
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Good
   alias_name: Deogratias Bigaruka Izabayo
@@ -36,10 +34,14 @@ aliases:
   alias_name: Jules Mateso Mlamba
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-01-01'
+- type_of_date: EXACT
+  date: '1966-08-28'
+- type_of_date: APPROXIMATELY
+  year: 1967
 place_of_birth:
-  city: Mugusa
+- city: Mugusa
   state_province: Butare
   country: Rwanda
 documents:

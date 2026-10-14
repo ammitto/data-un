@@ -19,19 +19,15 @@ designations:
   - 'M23 intelligence chief (CDe.006) '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - state_province: North Kivu
   country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-08-06'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: OP0204168

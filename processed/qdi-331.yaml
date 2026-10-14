@@ -15,21 +15,19 @@ nationalities:
 - value: Norway
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Low
   alias_name: Muslim Abu Abdurrahman
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-10-19'
 place_of_birth:
-  city: Oslo
+- city: Oslo
   country: Norway
 documents:

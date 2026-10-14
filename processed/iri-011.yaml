@@ -14,15 +14,14 @@ designations:
     components.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1959-06-07'
+place_of_birth:
 documents:

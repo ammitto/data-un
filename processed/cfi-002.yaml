@@ -19,14 +19,12 @@ designations:
     Democratic Achievements
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-11-04'
+  - '2019-03-01'
+  - '2019-09-06'
 aliases:
 - quality: Good
   alias_name: Nureldine Adam
@@ -43,11 +41,21 @@ addresses:
   country: Central African Republic
 - country: Sudan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1970
+- type_of_date: EXACT
+  year: 1969
+- type_of_date: EXACT
+  year: 1971
+- type_of_date: EXACT
+  date: '1970-01-01'
+- type_of_date: EXACT
+  date: '1971-01-01'
 place_of_birth:
-  city: Ndele
+- city: Ndele
   country: Central African Republic
+- city: Algenana
+  country: Sudan
 documents:
 - type_of_document: Passport
   number: D00001184

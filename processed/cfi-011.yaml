@@ -16,12 +16,7 @@ designations:
   - Deputy, Lord’s Resistance Army
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Salim Saleh Kony
@@ -41,6 +36,11 @@ addresses:
     yet to be determined
 - country: Central African Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1992
+- type_of_date: EXACT
+  year: 1991
+- type_of_date: EXACT
+  year: 1993
+place_of_birth:
 documents:

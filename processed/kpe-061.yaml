@@ -16,12 +16,10 @@ comments1: 'Registered owner of DPRK tanker CHON MA SAN. DPRK-flagged CHON MA SA
   a ship-to-ship transfer operation. IMO number: 5936312.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 addresses:
 - street: Sochang-dong, Chung-guyok

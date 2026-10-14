@@ -14,18 +14,16 @@ nationalities:
 - value: Algeria
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2006-04-12'
+  - '2008-04-07'
+  - '2009-06-03'
+  - '2010-01-25'
+  - '2010-12-23'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Abdelhalim Remadna
@@ -34,9 +32,9 @@ aliases:
 addresses:
 - country: Algeria
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-04-02'
 place_of_birth:
-  city: Biskra
+- city: Biskra
   country: Algeria
 documents:

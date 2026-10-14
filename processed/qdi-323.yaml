@@ -17,14 +17,12 @@ nationalities:
 - value: Algeria
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-12-06'
+  - '2023-10-30'
+  - '2023-12-14'
 aliases:
 - quality: Good
   alias_name: Said Mohamed Arif
@@ -52,9 +50,13 @@ addresses:
 - street: No. 12 Rue Lyonnais, Ain Turk, Oran
   country: Algeria
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1964-06-25'
+- type_of_date: EXACT
+  date: '1969-12-05'
+- type_of_date: EXACT
+  date: '1965-05-12'
 place_of_birth:
-  city: Oran
+- city: Oran
   country: Algeria
 documents:

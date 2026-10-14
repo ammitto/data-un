@@ -23,17 +23,16 @@ designations:
                     representative
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-06-29'
 aliases:
 - quality: Low
   alias_name: Choe Sok Min
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-07-25'
+place_of_birth:
 documents:

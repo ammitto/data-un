@@ -14,12 +14,10 @@ nationalities:
 - value: Russian Federation
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
 aliases:
 - quality: Low
   alias_name: 'Amir Khazmat (original script: Амир Хазмат)'
@@ -31,10 +29,10 @@ addresses:
   state_province: Republic of Chechnya
   country: Russian Federation
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1974-10-22'
 place_of_birth:
-  city: Kitaevka, Novoselitskiy District
+- city: Kitaevka, Novoselitskiy District
   state_province: Stavropol Region
   country: Russian Federation
 documents:

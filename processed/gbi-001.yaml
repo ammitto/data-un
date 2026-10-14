@@ -20,19 +20,15 @@ designations:
   - Chief of Staff of the Air Force
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Papa Camará
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1964-05-11'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: AAID00437

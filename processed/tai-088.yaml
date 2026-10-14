@@ -14,15 +14,13 @@ designations:
   - Governor of Baghlan Province under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2013-04-22'
 aliases:
 - quality: Low
   alias_name: Mullah Jabbar
@@ -30,9 +28,9 @@ aliases:
   alias_name: Muawin Jabbar
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1958
 place_of_birth:
-  state_province: Zabul Province
+- state_province: Zabul Province
   country: Afghanistan
 documents:

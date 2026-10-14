@@ -17,16 +17,14 @@ designations:
     Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2006-07-25'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2012-05-18'
 aliases:
 - quality: Good
   alias_name: Abdul Hai Hazem
@@ -35,10 +33,10 @@ addresses:
   state_province: Kabul Province
   country: Afghanistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1971
 place_of_birth:
-  city: Pashawal Yargatoo village, Andar District
+- city: Pashawal Yargatoo village, Andar District
   state_province: Ghazni Province
   country: Afghanistan
 documents:

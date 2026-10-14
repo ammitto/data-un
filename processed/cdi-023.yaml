@@ -16,12 +16,10 @@ designations:
   - 'FDLR-FOCA Colonel '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Good
   alias_name: Fred Irakeza
@@ -30,9 +28,13 @@ addresses:
   country: Democratic Republic of the Congo
   note: As of June 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1967
 place_of_birth:
-  city: Murama, Kigali
+- city: Murama, Kigali
+  country: Rwanda
+- city: Rubungo, Kigali
+  country: Rwanda
+- city: Kinyinya, Kigali
   country: Rwanda
 documents:

@@ -9,14 +9,12 @@ comments1: Active in northern Iraq. Associated with Al-Qaida in Iraq (QDe.115) I
   Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2009-01-30'
+  - '2011-12-13'
+  - '2020-11-24'
 aliases:
 addresses:
 - city: Ein el-Hilweh camp

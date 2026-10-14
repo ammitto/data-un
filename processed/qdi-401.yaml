@@ -14,13 +14,11 @@ nationalities:
 - value: Yemen
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Ghalib Abdallah al-Zaydi
@@ -30,10 +28,12 @@ aliases:
   alias_name: Ghalib al Zaydi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1975
+- type_of_date: EXACT
+  year: 1970
 place_of_birth:
-  city: Raqqah Region
+- city: Raqqah Region
   state_province: Marib Governorate
   country: Yemen
 documents:

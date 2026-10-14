@@ -19,12 +19,10 @@ designations:
   - Former Governor, Northern Bahr el-Ghazal State
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2019-06-25'
 aliases:
 - quality: Good
   alias_name: Paul Malong Awan Anei
@@ -34,11 +32,19 @@ aliases:
   alias_name: Bol Malong
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1962
+- type_of_date: EXACT
+  date: '1960-12-04'
+- type_of_date: EXACT
+  date: '1960-04-12'
+- type_of_date: EXACT
+  date: '1962-01-01'
 place_of_birth:
-  city: Malualkon
+- city: Malualkon
   country: South Sudan
+- city: Kotido
+  country: Uganda
 documents:
 - type_of_document: Passport
   number: S00004370

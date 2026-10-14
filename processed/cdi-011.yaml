@@ -14,12 +14,7 @@ nationalities:
 - value: Democratic Republic of the Congo
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Douglas Iruta Mpamo
@@ -30,10 +25,16 @@ addresses:
   country: Rwanda
   note: As of June 2011.
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1965-12-28'
+- type_of_date: EXACT
+  date: '1965-12-29'
 place_of_birth:
-  city: Bashali
+- city: Bashali
   state_province: Masisi
+  country: Democratic Republic of the Congo
+- city: Goma
+  country: Democratic Republic of the Congo
+- city: Uvira
   country: Democratic Republic of the Congo
 documents:

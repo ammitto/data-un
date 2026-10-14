@@ -19,14 +19,12 @@ designations:
   - Tanchon Commercial Bank (TCB) official
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-03-02'
+  - '2022-07-26'
+  - '2023-06-29'
 aliases:
 - quality: Good
   alias_name: Ra Kyung-Su
@@ -40,8 +38,9 @@ aliases:
   alias_name: Ra Kyong-Su
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1954-06-04'
+place_of_birth:
 documents:
 - type_of_document: 'Numéro de passeport '
   number: '645120196'

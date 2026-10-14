@@ -13,17 +13,16 @@ designations:
   - Deputy Commander of IRGC
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Mortaza Rezaie; Mortaza Rezai; Morteza Rezai
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1956
+place_of_birth:
 documents:

@@ -11,12 +11,7 @@ comments1: Co-owner of Haji Khairullah Haji Sattar Money Exchange (TAe.010) and 
   is Hajji ‘Abd-al-Manaf INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Haji Abdul Sattar Barakzai
@@ -43,10 +38,16 @@ addresses:
   state_province: Kandahar Province
   country: Afghanistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1964
 place_of_birth:
-  city: Mirmandaw village, Nahr-e Saraj District
+- city: Mirmandaw village, Nahr-e Saraj District
+  state_province: Helmand Province
+  country: Afghanistan
+- city: Qilla Abdullah
+  state_province: Baluchistan Province
+  country: Pakistan
+- city: Mirmadaw village, Gereshk District
   state_province: Helmand Province
   country: Afghanistan
 documents:

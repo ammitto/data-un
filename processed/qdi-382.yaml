@@ -15,13 +15,11 @@ nationalities:
 - value: Qatar
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2021-03-23'
 aliases:
 - quality: Good
   alias_name: Sa'd bin Sa'd Muhammad Shiryan al-Ka'bi
@@ -43,8 +41,9 @@ addresses:
 - city: Umm Salal
   country: Qatar
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1972-02-15'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '00966737'

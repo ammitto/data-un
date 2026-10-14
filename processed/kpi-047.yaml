@@ -16,12 +16,7 @@ designations:
     the DPRK’s military "
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Min Pyo’ng-ch’o’l
@@ -32,6 +27,7 @@ aliases:
 addresses:
 - country: Democratic People's Republic of Korea
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1948-08-10'
+place_of_birth:
 documents:

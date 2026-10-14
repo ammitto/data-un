@@ -10,12 +10,10 @@ comments1: 'Registered owner of the DPRK tanker NAM SAN 8, believed to have been
   IMO number: 5787684.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 addresses:
 - street: Kumsong 3-dong, Mangyongdae-guyok

@@ -15,14 +15,12 @@ nationalities:
 - value: Libya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-12-13'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Abu Al-Ward
@@ -36,10 +34,10 @@ addresses:
 - city: Bab Ben Ghasheer, Tripoli
   country: Libya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1963
 place_of_birth:
-  city: Tripoli
+- city: Tripoli
   country: Libya
 documents:
 - type_of_document: Passport

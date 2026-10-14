@@ -14,14 +14,12 @@ nationalities:
 - value: Algeria
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
+  - '2023-02-02'
 aliases:
 - quality: Good
   alias_name: Yahia Abou el Hoummam
@@ -30,10 +28,10 @@ aliases:
 addresses:
 - country: Mali
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-05-09'
 place_of_birth:
-  city: Rouiba
+- city: Rouiba
   state_province: Algiers
   country: Algeria
 documents:

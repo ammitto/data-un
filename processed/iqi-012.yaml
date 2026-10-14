@@ -12,18 +12,17 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1946
+- type_of_date: EXACT
+  year: 1960
+- type_of_date: EXACT
+  year: 1949
 place_of_birth:
-  city: Salah al-Din or al-Awja near Tikrit
+- city: Salah al-Din or al-Awja near Tikrit
   country: Iraq
 documents:

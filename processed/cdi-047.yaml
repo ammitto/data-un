@@ -19,12 +19,7 @@ designations:
     (ADF) (CDe.001) '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: LUMISA, MUHAMAD
@@ -41,9 +36,9 @@ aliases:
 addresses:
 - country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Kampala District
+- city: Kampala District
   state_province: " Central Region"
   country: Uganda
 documents:

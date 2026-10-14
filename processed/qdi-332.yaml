@@ -17,14 +17,12 @@ nationalities:
 - value: Saudi Arabia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-12-06'
+  - '2020-09-10'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Barahim Suliman H. al Hblian
@@ -34,10 +32,10 @@ aliases:
   alias_name: Abu-Jabal
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1984-12-17'
 place_of_birth:
-  city: Buraidah
+- city: Buraidah
   country: Saudi Arabia
 documents:
 - type_of_document: Passport

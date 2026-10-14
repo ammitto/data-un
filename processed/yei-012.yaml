@@ -19,12 +19,7 @@ designations:
                     Forces
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: Ahmad 'Ali al-Hamzi
@@ -37,9 +32,9 @@ aliases:
 addresses:
 - country: Yemen
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1985
 place_of_birth:
-  city: Sana'a
+- city: Sana'a
   country: Yemen
 documents:

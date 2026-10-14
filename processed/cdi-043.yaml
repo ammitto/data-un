@@ -33,20 +33,17 @@ designations:
   - founder and leader for MAI-MAI YAKUTUMBA
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: YAKUTUMBA
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1970
+- type_of_date: EXACT
+  year: 1972
 place_of_birth:
-  city: Lunbondja, Fizi Territory, South Kivu
+- city: Lunbondja, Fizi Territory, South Kivu
   country: Democratic Republic of the Congo
 documents:

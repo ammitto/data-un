@@ -16,13 +16,11 @@ nationalities:
 - value: Malaysia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2023-10-30'
+  - '2023-12-14'
 aliases:
 - quality: Low
   alias_name: Mohd Radi Bin Udin
@@ -60,10 +58,10 @@ addresses:
 - country: Syrian Arab Republic
   note: location since 2014
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-06-03'
 place_of_birth:
-  city: Negri Sembilan
+- city: Negri Sembilan
   country: Malaysia
 documents:
 - type_of_document: Passport

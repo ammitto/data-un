@@ -24,13 +24,11 @@ nationalities:
 - value: Egypt
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Muhammad Jamal Abdo Al-Kashif
@@ -63,10 +61,12 @@ aliases:
 addresses:
 - country: Egypt
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1964-01-01'
+- type_of_date: EXACT
+  date: '1964-02-01'
 place_of_birth:
-  city: Cairo
+- city: Cairo
   country: Egypt
 documents:
 - type_of_document: Passport

@@ -10,12 +10,7 @@ comments1: Tsang Yung Yuan has coordinated DPRK coal exports with a DPRK broker 
   in a third country, and he has a history of other sanctions evasion activities.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Neil Tsang
@@ -23,8 +18,9 @@ aliases:
   alias_name: Yun Yuan Tsang
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1957-10-20'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '302001581'

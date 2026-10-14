@@ -15,12 +15,9 @@ designations:
     violence to secure political gain.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
+date_of_birth:
+place_of_birth:
 documents:

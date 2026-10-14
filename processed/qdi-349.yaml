@@ -13,12 +13,10 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Low
   alias_name: Pak Zahra
@@ -26,10 +24,10 @@ aliases:
   alias_name: Abu Zahra
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1975-04-05'
 place_of_birth:
-  country: Indonesia
+- country: Indonesia
 documents:
 - type_of_document: Passport
   number: A2062513

@@ -12,13 +12,11 @@ nationalities:
 - value: Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Mahmood, Sultan Bashiruddin
@@ -31,6 +29,23 @@ addresses:
   city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1937
+- type_of_date: EXACT
+  year: 1938
+- type_of_date: EXACT
+  year: 1939
+- type_of_date: EXACT
+  year: 1940
+- type_of_date: EXACT
+  year: 1941
+- type_of_date: EXACT
+  year: 1942
+- type_of_date: EXACT
+  year: 1943
+- type_of_date: EXACT
+  year: 1944
+- type_of_date: EXACT
+  year: 1945
+place_of_birth:
 documents:

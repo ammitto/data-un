@@ -15,12 +15,10 @@ nationalities:
 - value: Trinidad and Tobago
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-04-01'
 aliases:
 - quality: Low
   alias_name: Abu Jihad TNT
@@ -38,10 +36,10 @@ addresses:
 - country: United States of America
   note: previous location- January 1991-2008
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1967-07-04'
 place_of_birth:
-  state_province: Rio Claro
+- state_province: Rio Claro
   country: Trinidad and Tobago
 documents:
 - type_of_document: Passport

@@ -15,16 +15,14 @@ designations:
   - Minister of Information under the Taliban regime (1996-2001)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2026-03-10'
 aliases:
 - quality: Good
   alias_name: Haji Sahib
@@ -32,10 +30,10 @@ addresses:
 - city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1963
 place_of_birth:
-  city: Gardez
+- city: Gardez
   state_province: Paktia Province
   country: Afghanistan
 documents:

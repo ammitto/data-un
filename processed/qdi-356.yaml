@@ -16,12 +16,10 @@ nationalities:
 - value: United Kingdom of Great Britain and Northern Ireland
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Low
   alias_name: Umm Layth
@@ -31,10 +29,10 @@ addresses:
 - country: United Kingdom of Great Britain and Northern Ireland
   note: previous address
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1994-05-11'
 place_of_birth:
-  city: Glasgow
+- city: Glasgow
   state_province: Scotland
   country: United Kingdom of Great Britain and Northern Ireland
 documents:

@@ -9,14 +9,12 @@ comments1: Active in China, South Asia and Central Asia INTERPOL-UN Security Cou
   Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2008-10-03'
+  - '2011-12-13'
+  - '2020-11-24'
 aliases:
 - quality: a.k.a.
   alias_name: The Eastern Turkistan Islamic Party

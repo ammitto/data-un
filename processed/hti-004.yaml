@@ -14,19 +14,14 @@ designations:
   - 'Leader of 400 Mawozo gang '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: LANMO SAN JOU
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1993-02-28'
 place_of_birth:
-  country: Haiti
+- country: Haiti
 documents:

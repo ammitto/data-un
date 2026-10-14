@@ -14,25 +14,23 @@ nationalities:
 - value: Morocco
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2007-09-07'
+  - '2010-12-23'
+  - '2019-12-06'
 aliases:
 - quality: Good
   alias_name: Mounir el Moutassadeq
 addresses:
 - note: In prison in Germany
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1974-04-03'
 place_of_birth:
-  city: Marrakesh
+- city: Marrakesh
   country: Morocco
 documents:
 - type_of_document: Passport

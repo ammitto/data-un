@@ -13,17 +13,13 @@ designations:
   - 'Chairman of the Second Economic Committee (SEC) '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Jo Chun Ryong
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1960-04-04'
+place_of_birth:
 documents:

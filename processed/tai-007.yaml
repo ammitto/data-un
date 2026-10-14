@@ -16,19 +16,17 @@ designations:
   - Minister of Agriculture under the Taliban regime (1996-2001)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2012-02-13'
+  - '2012-05-18'
+  - '2013-04-22'
+  - '2026-03-10'
+  - '2026-04-28'
 aliases:
 - quality: Good
   alias_name: Abdul Latif Mansoor
@@ -39,10 +37,15 @@ addresses:
   city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1968
+- type_of_date: EXACT
+  date: '1967-11-12'
 place_of_birth:
-  city: Zurmat District
+- city: Zurmat District
+  state_province: Paktia Province
+  country: Afghanistan
+- city: Garda Saray District
   state_province: Paktia Province
   country: Afghanistan
 documents:

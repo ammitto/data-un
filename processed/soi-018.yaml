@@ -19,12 +19,7 @@ designations:
   - 'Deputy leader of Al-Shabaab '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Abukar Ali Aden
@@ -34,6 +29,11 @@ aliases:
   alias_name: Sheikh Abukar
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1972
+- type_of_date: EXACT
+  year: 1971
+- type_of_date: EXACT
+  year: 1973
+place_of_birth:
 documents:

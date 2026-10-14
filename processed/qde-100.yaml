@@ -11,15 +11,13 @@ comments1: Associated with the Islamic International Brigade (IIB) (QDe.099), th
   Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2006-07-25'
+  - '2011-12-13'
+  - '2020-11-24'
+  - '2022-11-08'
 aliases:
 - quality: a.k.a.
   alias_name: Riyadus-Salikhin Reconnaissance and Sabotage Battalion

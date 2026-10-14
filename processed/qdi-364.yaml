@@ -17,12 +17,10 @@ nationalities:
 - value: Russian Federation
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Low
   alias_name: Abu Jihad
@@ -36,10 +34,10 @@ addresses:
 - country: Iraq
   note: possible alternative location as at Aug. 2015
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1983-09-29'
 place_of_birth:
-  city: Ust-Dzheguta
+- city: Ust-Dzheguta
   state_province: Republic of Karachayevo- Cherkessia
   country: Russian Federation
 documents:

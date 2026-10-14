@@ -16,12 +16,10 @@ designations:
   - Huthi group second-in-command
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-11-20'
 aliases:
 - quality: Good
   alias_name: Abu Ali al Hakim
@@ -38,9 +36,12 @@ addresses:
   state_province: Sa’dah Governorate
   country: Yemen
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1985
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Dahyan
+- city: Dahyan
+  country: Yemen
+- state_province: Sa'dah Governorate
   country: Yemen
 documents:

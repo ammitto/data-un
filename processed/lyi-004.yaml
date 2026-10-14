@@ -16,16 +16,16 @@ designations:
   - Libyan Ambassador to Chad
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-09-26'
+  - '2015-03-26'
 aliases:
 - quality: Good
   alias_name: Akrin Saleh Akrin (أقرين صالح أقرين)
 addresses:
 - country: Egypt
+date_of_birth:
+place_of_birth:
 documents:

@@ -13,20 +13,18 @@ designations:
   - Chief of IRGC Joint Staff
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Ali Akbar Ahmedian
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1961
 place_of_birth:
-  city: Kerman
+- city: Kerman
   country: Iran (Islamic Republic of)
 documents:

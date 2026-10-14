@@ -17,16 +17,14 @@ nationalities:
 - value: Algeria
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2008-04-07'
+  - '2011-12-13'
+  - '2019-12-06'
+  - '2023-10-30'
+  - '2023-12-14'
 aliases:
 - quality: Good
   alias_name: Bilal
@@ -40,9 +38,9 @@ addresses:
 - city: Sidi Argis village, Oum El-Bouaghi
   country: Algeria
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1965-10-12'
 place_of_birth:
-  city: Oum el Bouaghi
+- city: Oum el Bouaghi
   country: Algeria
 documents:

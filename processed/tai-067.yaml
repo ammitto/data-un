@@ -22,22 +22,20 @@ designations:
     regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2016-09-07'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1963
 place_of_birth:
-  city: Qala-e-Abbas, Shah Mazar area, Baraki Barak District
+- city: Qala-e-Abbas, Shah Mazar area, Baraki Barak District
   state_province: Logar Province
   country: Afghanistan
 documents:

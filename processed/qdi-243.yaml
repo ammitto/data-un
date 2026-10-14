@@ -14,15 +14,13 @@ nationalities:
 - value: Philippines
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2009-06-03'
+  - '2011-12-13'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Abubakar Abdillah
@@ -31,10 +29,10 @@ aliases:
 addresses:
 - country: Philippines
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1963-11-04'
 place_of_birth:
-  city: Arco, Lamitan
+- city: Arco, Lamitan
   state_province: Basilan
   country: Philippines
 documents:

@@ -14,23 +14,21 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2014-05-14'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 addresses:
 - country: Indonesia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1964-08-11'
 place_of_birth:
-  city: Makassar
+- city: Makassar
   state_province: South Sulawesi
   country: Indonesia
 documents:

@@ -14,15 +14,13 @@ comments1: 'Other possible date of birth: 1979. He is a cousin of Ghazy Fezza Hi
   Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2015-12-10'
+  - '2016-01-15'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Akram Turki Al-Hishan
@@ -35,6 +33,9 @@ addresses:
   country: Syrian Arab Republic
 - country: Iraq
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1974
+- type_of_date: EXACT
+  year: 1975
+place_of_birth:
 documents:

@@ -12,12 +12,7 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Rukan Abdal-Ghaffur Sulayman al-Majid
@@ -27,9 +22,9 @@ aliases:
   alias_name: Rukan Abd al-Ghaffur al-Majid Al-Tikriti Abu Walid
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1956
 place_of_birth:
-  city: Tikrit
+- city: Tikrit
   country: Iraq
 documents:

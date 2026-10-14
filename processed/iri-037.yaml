@@ -12,14 +12,14 @@ designations:
   - Manager of the Natanz Enrichment Facilities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Syed Jaber Safdari
 addresses:
+date_of_birth:
+place_of_birth:
 documents:

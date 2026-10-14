@@ -14,14 +14,12 @@ nationalities:
 - value: France
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-06-24'
+  - '2021-11-15'
+  - '2026-08-18'
 aliases:
 - quality: Good
   alias_name: Boubakeur el-Hakim
@@ -39,9 +37,9 @@ addresses:
 - country: Syrian Arab Republic
   note: as at Sep. 2015
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1983-08-01'
 place_of_birth:
-  city: Paris
+- city: Paris
   country: France
 documents:

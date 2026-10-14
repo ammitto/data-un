@@ -16,12 +16,10 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Umar Mahmud Rahim al-Kubaysi
@@ -46,10 +44,12 @@ addresses:
   state_province: Al-Anbar Province
   country: Iraq
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1967-06-16'
+- type_of_date: EXACT
+  date: '1967-01-01'
 place_of_birth:
-  city: Al-Qaim
+- city: Al-Qaim
   state_province: Al-Anbar Province
   country: Iraq
 documents:

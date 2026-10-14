@@ -16,17 +16,16 @@ designations:
     Organization (AIO).
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1952-12-31'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: I0005159

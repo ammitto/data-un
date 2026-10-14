@@ -17,13 +17,11 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2023-10-30'
+  - '2024-12-02'
 aliases:
 - quality: Good
   alias_name: Salim Mustafa Muhammad Mansur Al-Ifri
@@ -45,10 +43,15 @@ addresses:
   country: Iraq
   note: previous address
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1962-02-20'
+- type_of_date: EXACT
+  year: 1959
 place_of_birth:
-  city: Baghdad
+- city: Baghdad
+  country: Iraq
+- city: Tel Afar
+  state_province: " Nineveh Province"
   country: Iraq
 documents:
 - type_of_document: Passport

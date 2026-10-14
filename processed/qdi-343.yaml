@@ -16,13 +16,11 @@ nationalities:
 - value: Jordan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
+  - '2021-03-23'
 aliases:
 - quality: Good
   alias_name: Ashraf Muhammad Yusif 'Uthman 'Abd-al-Salam
@@ -38,10 +36,10 @@ addresses:
 - country: Syrian Arab Republic
   note: located in as at Dec. 2014
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1984
 place_of_birth:
-  country: Iraq
+- country: Iraq
 documents:
 - type_of_document: Passport
   number: K048787

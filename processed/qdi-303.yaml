@@ -14,12 +14,10 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Fazel Rahim; Fazil Rahim
@@ -33,10 +31,16 @@ addresses:
   country: Afghanistan
   note: previous address
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1974-01-05'
+- type_of_date: EXACT
+  year: 1977
+- type_of_date: EXACT
+  year: 1975
+- type_of_date: EXACT
+  date: '1973-01-24'
 place_of_birth:
-  city: Kabul
+- city: Kabul
   country: Afghanistan
 documents:
 - type_of_document: Passport

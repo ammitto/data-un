@@ -15,13 +15,11 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2024-04-25'
+  - '2026-09-04'
 aliases:
 - quality: Good
   alias_name: Dr. Shahab al Muhajir
@@ -46,10 +44,12 @@ addresses:
   country: Afghanistan
   note: previous
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1994-10-28'
+- type_of_date: EXACT
+  date: '1990-05-24'
 place_of_birth:
-  city: Mir Bacha, Kot District
+- city: Mir Bacha, Kot District
   state_province: Kabul Province
   country: Afghanistan
 documents:

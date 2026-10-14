@@ -16,14 +16,12 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2013-07-24'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Shaykh Aminullah
@@ -44,9 +42,13 @@ addresses:
   state_province: Peshawar
   country: Pakistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1967
+- type_of_date: APPROXIMATELY
+  year: 1961
+- type_of_date: APPROXIMATELY
+  year: 1973
 place_of_birth:
-  state_province: Shunkrai village, Sarkani District, Konar Province
+- state_province: Shunkrai village, Sarkani District, Konar Province
   country: Afghanistan
 documents:

@@ -19,12 +19,7 @@ designations:
                     and operations in Kenya and Somalia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Ma’alim Ayman
@@ -42,8 +37,10 @@ addresses:
   state_province: " Lower Juba Region"
   country: Somalia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1973
+- type_of_date: EXACT
+  year: 1983
 place_of_birth:
-  country: Kenya
+- country: Kenya
 documents:

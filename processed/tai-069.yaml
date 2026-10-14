@@ -17,17 +17,15 @@ designations:
   - Deputy Minister of Public Works under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2012-05-18'
+  - '2012-08-13'
 aliases:
 - quality: Good
   alias_name: Rostam Nuristani
@@ -35,10 +33,10 @@ aliases:
   alias_name: Hanafi Sahib
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1963
 place_of_birth:
-  city: Dara Kolum, Do Aab District
+- city: Dara Kolum, Do Aab District
   state_province: Nuristan Province
   country: Afghanistan
 documents:

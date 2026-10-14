@@ -15,18 +15,16 @@ nationalities:
 - value: Egypt
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2007-06-07'
+  - '2011-05-16'
+  - '2019-05-01'
+  - '2021-11-15'
+  - '2025-10-06'
+  - '2025-10-21'
 aliases:
 - quality: Good
   alias_name: Es Sayed, Kader
@@ -34,8 +32,8 @@ aliases:
   alias_name: Abdel Khader Mahmoud Mohamed el Sayed
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1962-12-26'
 place_of_birth:
-  country: Egypt
+- country: Egypt
 documents:

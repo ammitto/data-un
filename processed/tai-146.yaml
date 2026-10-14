@@ -15,15 +15,13 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-07-29'
+  - '2012-05-18'
+  - '2013-06-27'
+  - '2014-02-11'
 aliases:
 - quality: Good
   alias_name: Dr. Alim Ghair
@@ -40,9 +38,9 @@ aliases:
 addresses:
 - country: Pakistan
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Neka District
+- city: Neka District
   state_province: Paktika Province
   country: Afghanistan
 documents:

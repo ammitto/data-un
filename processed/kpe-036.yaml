@@ -10,13 +10,11 @@ comments1: Singwang Economics and Trading General Corporation is a DPRK firm for
   missile programs by mining natural resources and selling those resources abroad.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
+  - '2022-09-14'
 aliases:
 addresses:
 - country: Democratic People's Republic of Korea

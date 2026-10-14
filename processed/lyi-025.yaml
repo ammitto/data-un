@@ -18,14 +18,12 @@ designations:
     Zawiya’s refinery
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2018-09-17'
+  - '2020-02-25'
+  - '2023-11-29'
 aliases:
 - quality: Good
   alias_name: Kashlaf
@@ -39,10 +37,10 @@ addresses:
 - city: Zawiya
   country: Libya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1985-12-02'
 place_of_birth:
-  city: Zawiya
+- city: Zawiya
   country: Libya
 documents:
 - type_of_document: Passport

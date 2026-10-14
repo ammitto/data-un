@@ -19,14 +19,12 @@ nationalities:
 - value: Russian Federation
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2015-12-10'
+  - '2015-12-30'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Akhmad Shishani
@@ -42,10 +40,10 @@ addresses:
 - country: Iraq
   note: possible alternative location as at Aug. 2015
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1980-07-04'
 place_of_birth:
-  city: Vedeno Village, Vedenskiy District
+- city: Vedeno Village, Vedenskiy District
   state_province: Republic of Chechnya
   country: Russian Federation
 documents:

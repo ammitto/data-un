@@ -14,15 +14,13 @@ nationalities:
 - value: United States of America
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-11-30'
+  - '2019-05-01'
+  - '2021-11-15'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Anwar al-Aulaqi
@@ -38,10 +36,12 @@ aliases:
   alias_name: Anwar Nasser Abdulla Aulaqi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1971-04-21'
+- type_of_date: EXACT
+  date: '1971-04-22'
 place_of_birth:
-  city: Las Cruces
+- city: Las Cruces
   state_province: New Mexico
   country: United States of America
 documents:

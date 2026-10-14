@@ -19,12 +19,7 @@ designations:
   - 'Designation: Senior Al-Shabaab leader'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: ABDUKADIR
@@ -39,8 +34,8 @@ aliases:
 addresses:
 - country: Somalia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1985
 place_of_birth:
-  country: Somalia
+- country: Somalia
 documents:

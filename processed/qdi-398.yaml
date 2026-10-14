@@ -17,14 +17,12 @@ nationalities:
 - value: Russian Federation
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2017-08-09'
+  - '2019-05-01'
+  - '2021-11-15'
 aliases:
 - quality: Low
   alias_name: 'Abu Muhammad (original script: Абу Мухаммад)'
@@ -34,10 +32,10 @@ aliases:
   alias_name: 'Muhamadmuhtar (original script: Мухамадмухтар)'
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1981-03-09'
 place_of_birth:
-  city: Iki-Burul Village
+- city: Iki-Burul Village
   state_province: Iki-Burulskiy District, Republic of Kalmykia
   country: Russian Federation
 documents:

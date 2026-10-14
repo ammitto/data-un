@@ -15,12 +15,10 @@ nationalities:
 - value: Jordan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Ayyad Nazmi Salih Khalil
@@ -40,10 +38,10 @@ addresses:
 - country: Syrian Arab Republic
   note: Coastal area of. Location as of April 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1974
 place_of_birth:
-  country: Syrian Arab Republic
+- country: Syrian Arab Republic
 documents:
 - type_of_document: Passport
   number: Jordan 654781

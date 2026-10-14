@@ -12,12 +12,7 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Aiman Sabawi Ibrahim Hasan Al-Tikriti
@@ -35,9 +30,11 @@ addresses:
   state_province: " Baghdad"
   country: Iraq
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1971-10-21'
 place_of_birth:
-  city: Baghdad
+- city: Baghdad
+  country: Iraq
+- city: Al-Owja
   country: Iraq
 documents:

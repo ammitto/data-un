@@ -20,18 +20,16 @@ designations:
   - 'Consular Department, Ministry of Foreign Affairs under the Taliban regime  (1996-2001) '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-07'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2012-08-13'
+  - '2026-03-10'
+  - '2026-04-28'
 aliases:
 - quality: Good
   alias_name: Abdul Baqi
@@ -42,9 +40,14 @@ addresses:
   city: near Kabul Education University, Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
+- type_of_date: EXACT
+  date: '1967-01-01'
 place_of_birth:
-  city: Jalalabad City
+- city: Jalalabad City
+  state_province: Nangarhar Province
+  country: Afghanistan
+- city: Shinwar District
   state_province: Nangarhar Province
   country: Afghanistan
 documents:

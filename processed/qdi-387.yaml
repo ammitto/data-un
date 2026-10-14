@@ -15,12 +15,10 @@ nationalities:
 - value: Egypt
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Muhammad Hameida Saleh
@@ -31,9 +29,11 @@ aliases:
 addresses:
 - country: Egypt
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1988-09-22'
+- type_of_date: EXACT
+  date: '1989-09-22'
 place_of_birth:
-  city: Alexandria
+- city: Alexandria
   country: Egypt
 documents:

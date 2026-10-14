@@ -19,20 +19,18 @@ designations:
   - Deputy Minister of Education under the Taliban regime (1996-2001)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2007-09-27'
+  - '2008-02-01'
+  - '2011-11-29'
+  - '2026-03-10'
+  - '2026-04-28'
+  - '2026-08-27'
 aliases:
 - quality: Good
   alias_name: Abdussalam Hanifi
@@ -44,11 +42,16 @@ addresses:
 - city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1968
+- type_of_date: EXACT
+  date: '1969-01-01'
 place_of_birth:
-  city: Darzab District
+- city: Darzab District
   state_province: Faryab Province
+  country: Afghanistan
+- city: Qush Tepa District
+  state_province: Jawzjan Province
   country: Afghanistan
 documents:
 - type_of_document: Passport

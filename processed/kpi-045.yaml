@@ -16,12 +16,7 @@ designations:
     military
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Kim Kyong Ok
@@ -29,6 +24,9 @@ addresses:
 - city: Pyongyang
   country: Democratic People's Republic of Korea
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1937
+- type_of_date: EXACT
+  year: 1938
+place_of_birth:
 documents:

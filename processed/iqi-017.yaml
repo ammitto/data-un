@@ -12,12 +12,7 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Hassan Al-Tikriti
@@ -25,9 +20,9 @@ aliases:
   alias_name: Hamid Raja-Shalah Hassum Al-Tikriti
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1950
 place_of_birth:
-  city: Bayji, Salah al-Din Governorate
+- city: Bayji, Salah al-Din Governorate
   country: Iraq
 documents:

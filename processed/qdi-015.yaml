@@ -12,14 +12,12 @@ nationalities:
 - value: Mauritania
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2007-06-01'
+  - '2011-06-10'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Abu Hafs the Mauritanian
@@ -29,8 +27,8 @@ aliases:
   alias_name: Mafouz Walad Al-Walid
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1975-01-01'
 place_of_birth:
-  country: Mauritania
+- country: Mauritania
 documents:

@@ -14,14 +14,12 @@ nationalities:
 - value: Qatar
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2021-03-23'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Abd-al-Latif Abdallah Salih al-Kawari
@@ -37,8 +35,9 @@ addresses:
 - city: 'Al Kharaitiyat '
   country: Qatar
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1973-09-28'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '01020802 '

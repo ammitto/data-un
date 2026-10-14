@@ -12,13 +12,11 @@ nationalities:
 - value: Libya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Abd-al-Hamid Muhammad Abd-al-Hamid Al-Masli
@@ -47,9 +45,11 @@ aliases:
 addresses:
 - note: Reportedly located in Waziristan, Federally Administered Tribal Areas, Pakistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1976
 place_of_birth:
-  state_province: Darnah
+- state_province: Darnah
+  country: Libya
+- state_province: Danar
   country: Libya
 documents:

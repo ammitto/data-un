@@ -10,13 +10,11 @@ comments1: Associated with The Organization of Al-Qaida in the Islamic Maghreb, 
   region. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
+  - '2026-08-18'
 aliases:
 addresses:
 - country: Mali

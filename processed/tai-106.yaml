@@ -18,18 +18,16 @@ designations:
   - Governor of Samangan Province under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2012-06-01'
+  - '2012-08-13'
+  - '2013-04-22'
+  - '2013-12-31'
+  - '2016-09-07'
 aliases:
 - quality: Good
   alias_name: Mohammad Shafiq Ahmadi
@@ -37,9 +35,12 @@ aliases:
   alias_name: Mullah Shafiqullah
 addresses:
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Charmistan village, Tirin Kot District
+- city: Charmistan village, Tirin Kot District
   state_province: Uruzgan Province
+  country: Afghanistan
+- city: Marghi village, Nawa District
+  state_province: Ghazni Province
   country: Afghanistan
 documents:

@@ -15,13 +15,11 @@ nationalities:
 - value: France
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-06-24'
+  - '2021-11-15'
 aliases:
 - quality: Low
   alias_name: Abou Abdallah al Faransi
@@ -29,10 +27,10 @@ addresses:
 - country: Syrian Arab Republic
   note: as at Sep. 2015
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1992-03-17'
 place_of_birth:
-  city: Saint Aubin les Elbeuf, Normandy
+- city: Saint Aubin les Elbeuf, Normandy
   country: France
 documents:
 - type_of_document: National Identification Number

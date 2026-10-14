@@ -15,13 +15,11 @@ designations:
   - Huthi military commander
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-11-20'
+  - '2016-08-26'
 aliases:
 - quality: Good
   alias_name: Abd-al-Khaliq al-Huthi
@@ -35,6 +33,7 @@ aliases:
   alias_name: Abu-Yunus
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1984
+place_of_birth:
 documents:

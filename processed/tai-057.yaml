@@ -20,16 +20,14 @@ designations:
     Interior under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-09'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2013-12-31'
 aliases:
 - quality: Good
   alias_name: Sayed Mohammad Azim Agha
@@ -37,10 +35,12 @@ aliases:
   alias_name: Agha Saheb
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1966
+- type_of_date: APPROXIMATELY
+  year: 1969
 place_of_birth:
-  city: Panjwai District
+- city: Panjwai District
   state_province: Kandahar Province
   country: Afghanistan
 documents:

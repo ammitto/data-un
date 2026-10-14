@@ -16,17 +16,16 @@ designations:
   - Served as DPRK Ambassador to Egypt
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-06-30'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1954-07-28'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '563410091'

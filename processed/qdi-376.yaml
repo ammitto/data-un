@@ -14,23 +14,21 @@ nationalities:
 - value: France
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-06-24'
+  - '2021-11-15'
+  - '2026-08-18'
 aliases:
 addresses:
 - city: Al Mukalla
   state_province: Hadramawt province
   country: Yemen
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1982-08-26'
 place_of_birth:
-  city: Paris, 20th district
+- city: Paris, 20th district
   country: France
 documents:

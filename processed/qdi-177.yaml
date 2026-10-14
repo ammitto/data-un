@@ -15,19 +15,17 @@ nationalities:
 - value: Tunisia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2005-12-20'
+  - '2007-10-17'
+  - '2009-08-10'
+  - '2011-12-13'
+  - '2016-02-23'
+  - '2019-12-06'
+  - '2023-10-30'
+  - '2023-12-19'
 aliases:
 - quality: Good
   alias_name: Al-Habib ben Ahmad ben al-Tayib al-Lubiri
@@ -37,10 +35,10 @@ addresses:
   country: Tunisia
 - country: Afghanistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1961-11-17'
 place_of_birth:
-  city: Manzal Tmim
+- city: Manzal Tmim
   state_province: Nabul
   country: Tunisia
 documents:

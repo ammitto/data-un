@@ -16,14 +16,12 @@ nationalities:
 - value: Uzbekistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2018-07-17'
+  - '2019-05-01'
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Alhaj Qari Ayub Bashar
@@ -35,6 +33,13 @@ addresses:
   state_province: Federal Administered Tribal Areas
   country: Pakistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1966
+- type_of_date: EXACT
+  year: 1964
+- type_of_date: EXACT
+  year: 1969
+- type_of_date: EXACT
+  year: 1971
+place_of_birth:
 documents:

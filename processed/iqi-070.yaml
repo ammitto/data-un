@@ -10,19 +10,14 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - country: Iraq
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1965
 place_of_birth:
-  city: Al-Dur
+- city: Al-Dur
   country: Iraq
 documents:

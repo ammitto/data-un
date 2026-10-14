@@ -12,14 +12,12 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-08-13'
+  - '2013-12-31'
+  - '2014-02-11'
 aliases:
 - quality: Good
   alias_name: Haji Agha Jan Alizai
@@ -37,10 +35,18 @@ aliases:
   alias_name: Agha Jan Alizai اغا جان عالیزی
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1963-10-15'
+- type_of_date: EXACT
+  date: '1973-02-14'
+- type_of_date: EXACT
+  year: 1967
+- type_of_date: APPROXIMATELY
+  year: 1957
 place_of_birth:
-  city: Yatimchai village, Musa Qala District
+- city: Yatimchai village, Musa Qala District
   state_province: Helmand Province
+  country: Afghanistan
+- state_province: Kandahar Province
   country: Afghanistan
 documents:

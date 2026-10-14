@@ -12,16 +12,14 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2011-05-16'
+  - '2011-06-10'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Rahman, Mohamad Iqbal
@@ -40,10 +38,13 @@ addresses:
   city: Tangerang
   country: Indonesia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1957-08-17'
 place_of_birth:
-  city: Korleko-Lombok Timur
+- city: Korleko-Lombok Timur
+  country: Indonesia
+- city: Tirpas-Selong Village
+  state_province: East Lombok
   country: Indonesia
 documents:
 - type_of_document: National Identification Number

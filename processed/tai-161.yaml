@@ -13,12 +13,10 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-02-11'
 aliases:
 - quality: Good
   alias_name: Bakhta Gul
@@ -30,10 +28,10 @@ addresses:
 - street: Miram Shah, North Waziristan, Federally Administered Tribal Areas
   country: Pakistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1980
 place_of_birth:
-  city: Aki Village, Zadran District
+- city: Aki Village, Zadran District
   state_province: Paktiya Province
   country: Afghanistan
 documents:

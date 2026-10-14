@@ -11,15 +11,13 @@ comments1: Arrested in Indonesia in 2021. Was the acting Jemaah Islamiyah (JI, Q
   Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-12-12'
+  - '2019-05-01'
+  - '2022-11-08'
+  - '2023-02-02'
 aliases:
 - quality: Low
   alias_name: Abu Thoriq
@@ -39,10 +37,10 @@ aliases:
   alias_name: Toriquddin
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1960-08-16'
 place_of_birth:
-  city: Kudus
+- city: Kudus
   state_province: Central Java
   country: Indonesia
 documents:

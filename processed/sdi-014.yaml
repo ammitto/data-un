@@ -13,22 +13,17 @@ nationalities:
 - value: Colombia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - street: Calle 77 9 76 APT 302
   city: Bogota
   country: Colombia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1975-04-07'
 place_of_birth:
-  city: Bogota
+- city: Bogota
   country: Colombia
 documents:
 - type_of_document: Passport

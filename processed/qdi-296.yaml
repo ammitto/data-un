@@ -14,16 +14,14 @@ nationalities:
 - value: Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-05-10'
+  - '2013-10-17'
+  - '2020-11-24'
+  - '2022-11-08'
+  - '2023-02-02'
 aliases:
 - quality: Good
   alias_name: Mati-ur Rehman
@@ -51,10 +49,10 @@ aliases:
   alias_name: Hussain
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1977
 place_of_birth:
-  city: Chak number 36/DNB, Rajkan, Madina Colony
+- city: Chak number 36/DNB, Rajkan, Madina Colony
   state_province: Bahawalpur District, Punjab Province
   country: Pakistan
 documents:

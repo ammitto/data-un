@@ -20,12 +20,10 @@ designations:
   - 'Master-corporal of the Central African Armed Forces (FACA) '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-07-28'
 aliases:
 - quality: Good
   alias_name: Soussou Abib
@@ -34,8 +32,8 @@ addresses:
   country: Central African Republic
   note: Tel. +236 72198628
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1980-03-13'
 place_of_birth:
-  country: Central African Republic
+- country: Central African Republic
 documents:

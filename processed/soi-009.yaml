@@ -12,12 +12,7 @@ nationalities:
 - value: Ethiopia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Hassaan Hussein Adam
@@ -37,10 +32,10 @@ addresses:
 - city: Nairobi
   country: Kenya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1979-04-10'
 place_of_birth:
-  city: Garissa
+- city: Garissa
   country: Kenya
 documents:
 - type_of_document: Passport

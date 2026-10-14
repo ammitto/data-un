@@ -17,25 +17,29 @@ designations:
   - Governor of Kandahar Province under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2013-12-31'
+  - '2016-09-07'
 aliases:
 - quality: Good
   alias_name: Gud Mullah Mohammad Hassan
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1963
 place_of_birth:
-  city: Deh Rawud District
+- city: Deh Rawud District
+  state_province: Uruzgan Province
+  country: Afghanistan
+- city: Chora District
+  state_province: Uruzgan Province
+  country: Afghanistan
+- city: Charchino District
   state_province: Uruzgan Province
   country: Afghanistan
 documents:

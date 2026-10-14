@@ -24,13 +24,11 @@ designations:
                     Centrafricain (FDPC)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2020-05-05'
+  - '2020-07-28'
 aliases:
 - quality: Good
   alias_name: Abdoulaye Miskine
@@ -52,11 +50,17 @@ addresses:
   country: Chad
   note: since his arrest in November 2019
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1965-10-05'
+- type_of_date: EXACT
+  date: '1965-03-03'
 place_of_birth:
-  city: Ndïnaba
+- city: Ndïnaba
   country: Chad
+- state_province: Kobo
+  country: Central African Republic
+- state_province: Kabo
+  country: Central African Republic
 documents:
 - type_of_document: Passport
   number: CAR diplomatic passport no. 06FBO2262

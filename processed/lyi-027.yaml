@@ -18,19 +18,18 @@ designations:
   - 'Leader of armed militias '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-02-25'
 aliases:
 - quality: Good
   alias_name: Ibrahim Saeed Salem Awad Aissa Hamed Dawoud Al Jadhran
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1982-10-29'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: S/263963

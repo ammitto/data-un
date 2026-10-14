@@ -13,14 +13,12 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
+  - '2022-05-27'
+  - '2026-08-18'
 aliases:
 - quality: Good
   alias_name: Muhammad Achwan
@@ -38,10 +36,12 @@ addresses:
   state_province: Malang
   country: Indonesia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1948-05-04'
+- type_of_date: EXACT
+  date: '1946-05-04'
 place_of_birth:
-  city: Tulungagung
+- city: Tulungagung
   country: Indonesia
 documents:
 - type_of_document: National Identification Number

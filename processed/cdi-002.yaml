@@ -21,12 +21,10 @@ designations:
   - 'FARDC General '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Good
   alias_name: FRANK KAKORERE
@@ -38,4 +36,6 @@ addresses:
 - city: Kinshasa
   country: Democratic Republic of the Congo
   note: as of June 2016
+date_of_birth:
+place_of_birth:
 documents:

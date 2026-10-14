@@ -17,13 +17,11 @@ nationalities:
 - value: France
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-06-24'
+  - '2021-11-15'
 aliases:
 - quality: Low
   alias_name: Emilie Samra Konig
@@ -31,10 +29,10 @@ addresses:
 - country: Syrian Arab Republic
   note: located in since 2013
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1984-12-09'
 place_of_birth:
-  city: Ploemeur
+- city: Ploemeur
   country: France
 documents:
 - type_of_document: Passport

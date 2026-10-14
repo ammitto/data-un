@@ -13,12 +13,7 @@ nationalities:
 - value: United States of America
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Abu Maansuur Al-Amriki
@@ -33,10 +28,10 @@ aliases:
 addresses:
 - country: Somalia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1986-05-06'
 place_of_birth:
-  city: Alabama
+- city: Alabama
   country: United States of America
 documents:
 - type_of_document: Passport

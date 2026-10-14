@@ -15,18 +15,16 @@ nationalities:
 - value: Egypt
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2010-12-16'
+  - '2013-07-24'
+  - '2017-02-15'
+  - '2019-03-29'
+  - '2019-05-01'
+  - '2022-11-08'
+  - '2026-08-13'
 aliases:
 - quality: Good
   alias_name: Sayf-Al Adl
@@ -50,9 +48,11 @@ aliases:
   alias_name: ABU KHALED AL-SAN’ANI
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1963-04-11'
+- type_of_date: EXACT
+  date: '1960-04-11'
 place_of_birth:
-  state_province: Monufia Governate
+- state_province: Monufia Governate
   country: Egypt
 documents:

@@ -19,12 +19,10 @@ designations:
   - Senior official in Konar Province during the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2013-05-31'
 aliases:
 - quality: Good
   alias_name: Fazl Rabbi
@@ -34,10 +32,18 @@ aliases:
   alias_name: Faisal Rabbi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1972
+- type_of_date: EXACT
+  year: 1975
 place_of_birth:
-  city: Kohe Safi District
+- city: Kohe Safi District
   state_province: Parwan Province
+  country: Afghanistan
+- state_province: Kapisa Province
+  country: Afghanistan
+- state_province: Nangarhar Province
+  country: Afghanistan
+- state_province: Kabul Province
   country: Afghanistan
 documents:

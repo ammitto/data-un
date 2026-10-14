@@ -27,12 +27,10 @@ designations:
     (3R) "
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-02-22'
 aliases:
 - quality: Good
   alias_name: Sidiki
@@ -49,10 +47,10 @@ addresses:
   state_province: Ouham-Pendé prefecture
   country: Central African Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1962-07-20'
 place_of_birth:
-  state_province: Bocaranga
+- state_province: Bocaranga
   country: Central African Republic
 documents:
 - type_of_document: Passport

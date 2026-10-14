@@ -20,13 +20,11 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-11-29'
+  - '2012-06-01'
 aliases:
 - quality: Good
   alias_name: Haji Faizullah Noor
@@ -49,10 +47,21 @@ addresses:
   state_province: Kandahar Province
   country: Afghanistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1966
+- type_of_date: EXACT
+  year: 1961
+- type_of_date: BETWEEN
+- type_of_date: EXACT
+  year: 1962
 place_of_birth:
-  city: Lowy Kariz, Spin Boldak District
+- city: Lowy Kariz, Spin Boldak District
   state_province: Kandahar Province
   country: Afghanistan
+- city: Kadanay, Spin Boldak District
+  state_province: Kandahar Province
+  country: Afghanistan
+- city: Chaman
+  state_province: Baluchistan Province
+  country: Pakistan
 documents:

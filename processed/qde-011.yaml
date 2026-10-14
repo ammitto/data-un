@@ -9,14 +9,12 @@ comments1: Members in Afghanistan merged with Al-Qaida (QDe.004) in Nov. 2007 IN
   Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2009-03-05'
+  - '2011-12-13'
+  - '2020-11-24'
 aliases:
 - quality: a.k.a.
   alias_name: LIFG

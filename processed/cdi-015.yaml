@@ -19,12 +19,10 @@ designations:
   - Commander, Allied Democratic Forces
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Low
   alias_name: Professor Musharaf
@@ -54,10 +52,12 @@ addresses:
 - street: 'Reportedly in prison in Uganda '
   note: as of September 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1965
+- type_of_date: EXACT
+  date: '1964-01-01'
 place_of_birth:
-  city: Ntoke Village, Ntenjeru Sub County
+- city: Ntoke Village, Ntenjeru Sub County
   state_province: Kayunga District
   country: Uganda
 documents:

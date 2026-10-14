@@ -26,12 +26,10 @@ designations:
   - Chief of Defence Forces
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2018-11-21'
 aliases:
 - quality: Good
   alias_name: Gabriel Jok
@@ -46,11 +44,13 @@ addresses:
   state_province: Western Bahr El Ghazal
   country: South Sudan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-01-01'
 place_of_birth:
-  city: Bor
+- city: Bor
   country: Sudan
+- city: Bor
+  country: South Sudan
 documents:
 - type_of_document: Passport
   number: D00008623

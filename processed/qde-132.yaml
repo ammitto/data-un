@@ -10,13 +10,11 @@ comments1: Tehrik-e Taliban is based in the tribal areas along the Afghanistan/P
   Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2015-06-15'
+  - '2020-11-24'
 aliases:
 - quality: a.k.a.
   alias_name: Tehrik-I-Taliban Pakistan

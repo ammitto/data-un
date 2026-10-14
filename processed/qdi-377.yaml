@@ -13,12 +13,10 @@ nationalities:
 - value: Saudi Arabia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: "'Ali Manahi 'Ali al-Mahaydali al-'Utaybi"
@@ -26,9 +24,9 @@ aliases:
   alias_name: Ghassan al-Tajiki
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1984-05-19'
 place_of_birth:
-  city: al-Duwadmi
+- city: al-Duwadmi
   country: Saudi Arabia
 documents:

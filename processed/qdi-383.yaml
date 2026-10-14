@@ -13,12 +13,10 @@ nationalities:
 - value: Morocco
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
 aliases:
 - quality: Low
   alias_name: Abu Ismail
@@ -27,10 +25,10 @@ aliases:
 addresses:
 - country: Turkey
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1993-02-26'
 place_of_birth:
-  country: Morocco
+- country: Morocco
 documents:
 - type_of_document: Passport
   number: UZ6430184

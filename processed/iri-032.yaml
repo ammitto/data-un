@@ -14,14 +14,14 @@ designations:
     Natanz.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Abas Rashidi; Abbas Rashedi; Abas Rashedi
 addresses:
+date_of_birth:
+place_of_birth:
 documents:

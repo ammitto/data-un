@@ -15,12 +15,10 @@ designations:
   - Commander of Qods force
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Qasim Soleimani; Qasem Sulaimani; Qasim Sulaimani; Qasim Sulaymani;
@@ -29,10 +27,10 @@ aliases:
   alias_name: Haj Qasem; Haji Qassem; Sardar Soleimani
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1957-03-11'
 place_of_birth:
-  city: Qom
+- city: Qom
   country: Iran (Islamic Republic of)
 documents:
 - type_of_document: Passport

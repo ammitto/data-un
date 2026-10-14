@@ -14,13 +14,11 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2022-11-08'
+  - '2023-02-02'
 aliases:
 - quality: Good
   alias_name: Oman Rahman
@@ -43,9 +41,9 @@ addresses:
   state_province: Nusa Kambangan Island
   country: Indonesia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1972-01-05'
 place_of_birth:
-  city: Sumedang
+- city: Sumedang
   country: Indonesia
 documents:

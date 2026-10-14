@@ -17,12 +17,10 @@ nationalities:
 - value: Democratic Republic of the Congo
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Good
   alias_name: Kawa Panga
@@ -44,9 +42,9 @@ addresses:
 - country: Uganda
   note: as of May 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1973-08-20'
 place_of_birth:
-  city: Bunia
+- city: Bunia
   country: Democratic Republic of the Congo
 documents:

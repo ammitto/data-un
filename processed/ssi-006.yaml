@@ -13,12 +13,7 @@ comments1: |-
   ethnicity. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Peter Gatdet Yaka
@@ -34,5 +29,6 @@ aliases:
   alias_name: Peter Gatdeet Yaka
 addresses:
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
+place_of_birth:
 documents:

@@ -13,21 +13,19 @@ comments1: Key commander in the Haqqani Network (TAe.012) under Sirajuddin Jalla
   Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2013-04-22'
 aliases:
 - quality: Good
   alias_name: Abdul Aziz Mahsud
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1969
 place_of_birth:
-  city: Sheykhan Village, Pirkowti Area, Orgun District
+- city: Sheykhan Village, Pirkowti Area, Orgun District
   state_province: Paktika Province
   country: Afghanistan
 documents:

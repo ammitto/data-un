@@ -15,12 +15,10 @@ designations:
   - Leader of a transnational trafficking network
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2018-09-17'
 aliases:
 - quality: Good
   alias_name: Ermias Ghermay, Guro
@@ -31,8 +29,8 @@ aliases:
 addresses:
 - note: 'Known address: Tripoli, Tarig sure no. 51, likely moved to Sabratha in 2015.'
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1980
 place_of_birth:
-  country: Eritrea
+- country: Eritrea
 documents:

@@ -13,12 +13,10 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Angga Dimas Persada
@@ -28,10 +26,10 @@ aliases:
   alias_name: Angga Dimas Prasondha
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1985-03-04'
 place_of_birth:
-  city: Jakarta
+- city: Jakarta
   country: Indonesia
 documents:
 - type_of_document: Passport

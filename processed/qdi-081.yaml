@@ -14,17 +14,15 @@ nationalities:
 - value: Yemen
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2006-07-25'
+  - '2007-07-02'
+  - '2007-07-27'
+  - '2010-12-23'
+  - '2019-12-06'
 aliases:
 - quality: Good
   alias_name: Binalsheidah, Ramzi Mohamed Abdullah
@@ -50,12 +48,16 @@ aliases:
   alias_name: Ramzi Omar
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1972-05-01'
+- type_of_date: EXACT
+  date: '1973-09-16'
 place_of_birth:
-  city: Gheil Bawazir
+- city: Gheil Bawazir
   state_province: Hadramawt
   country: Yemen
+- city: Khartoum
+  country: Sudan
 documents:
 - type_of_document: Passport
   number: '00085243'

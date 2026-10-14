@@ -17,12 +17,7 @@ designations:
   - Brigadier General
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Colonel Baudoin NGARUYE
@@ -30,10 +25,15 @@ addresses:
 - city: Rubavu / Mudende
   country: Rwanda
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-04-01'
+- type_of_date: EXACT
+  year: 1978
 place_of_birth:
-  city: Bibwe
+- city: Bibwe
+  country: Democratic Republic of the Congo
+- city: Lusamambo
+  state_province: Lubero territory
   country: Democratic Republic of the Congo
 documents:
 - type_of_document: National Identification Number

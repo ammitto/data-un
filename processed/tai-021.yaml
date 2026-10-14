@@ -19,15 +19,13 @@ designations:
   - Head of Ariana Afghan Airlines under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2013-12-31'
 aliases:
 - quality: Good
   alias_name: Allahdad
@@ -37,10 +35,12 @@ aliases:
   alias_name: Akhund
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1953
+- type_of_date: APPROXIMATELY
+  year: 1960
 place_of_birth:
-  city: Kadani village, Spin Boldak District
+- city: Kadani village, Spin Boldak District
   state_province: Kandahar Province
   country: Afghanistan
 documents:

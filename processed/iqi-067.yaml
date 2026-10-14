@@ -12,16 +12,14 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - country: Iraq
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1980-12-19'
+- type_of_date: EXACT
+  date: '1980-01-19'
+place_of_birth:
 documents:

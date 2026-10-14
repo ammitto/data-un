@@ -12,12 +12,7 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Umar Sabawi Ibrahim Hasan Al-Tikriti
@@ -36,6 +31,7 @@ addresses:
   country: Syrian Arab Republic
 - country: Yemen
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1970
+place_of_birth:
 documents:

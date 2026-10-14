@@ -13,20 +13,18 @@ designations:
   - Commander of Bassij resistance force
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Mohammed Hijazi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1959
 place_of_birth:
-  city: Isfahan
+- city: Isfahan
   country: Iran (Islamic Republic of)
 documents:

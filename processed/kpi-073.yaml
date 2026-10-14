@@ -14,12 +14,7 @@ designations:
   - Pak Bong Nam is an overseas Ilsim International Bank representative
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Lui Wai Ming
@@ -29,6 +24,7 @@ aliases:
   alias_name: Pak Pong-nam
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-05-06'
+place_of_birth:
 documents:

@@ -21,19 +21,15 @@ designations:
   - Head of the Armed Forces Military Hospital
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: Namam
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1953-02-27'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: SA0002264

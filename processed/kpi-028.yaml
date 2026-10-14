@@ -13,16 +13,15 @@ designations:
   - "Director of the National Aerospace Development Administration\n            "
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 addresses:
 - country: Democratic People's Republic of Korea
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1959-08-08'
+place_of_birth:
 documents:

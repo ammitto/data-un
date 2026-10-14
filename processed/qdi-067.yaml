@@ -15,19 +15,17 @@ nationalities:
 - value: United Kingdom of Great Britain and Northern Ireland
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2006-07-25'
+  - '2008-03-14'
+  - '2010-10-21'
+  - '2014-08-04'
+  - '2019-12-06'
+  - '2020-03-18'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Mustafa Kamel Mustafa
@@ -48,9 +46,9 @@ aliases:
 addresses:
 - country: United States of America
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1958-04-15'
 place_of_birth:
-  city: Alexandria
+- city: Alexandria
   country: Egypt
 documents:

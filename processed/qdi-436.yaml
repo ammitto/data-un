@@ -17,13 +17,11 @@ nationalities:
 - value: Uganda
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2026-08-14'
+  - '2026-09-04'
 aliases:
 - quality: Good
   alias_name: ABUBAKER SWALEH
@@ -35,10 +33,12 @@ addresses:
 - city: Luzira Prison, Luzira, Kampala
   country: Uganda
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1992-01-13'
+- type_of_date: EXACT
+  date: '1993-03-16'
 place_of_birth:
-  city: Mengo
+- city: Mengo
   country: Uganda
 documents:
 - type_of_document: Passport

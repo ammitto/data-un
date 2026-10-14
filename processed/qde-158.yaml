@@ -11,13 +11,11 @@ comments1: Associated with Al-Nusrah Front for the People of the Levant (formerl
   Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2023-10-30'
+  - '2023-12-19'
 aliases:
 - quality: a.k.a.
   alias_name: Khataib al-Imam al-Bukhari

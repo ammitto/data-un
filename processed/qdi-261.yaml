@@ -14,16 +14,14 @@ nationalities:
 - value: Türkiye
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-12-13'
+  - '2019-12-06'
+  - '2023-10-30'
+  - '2023-12-14'
+  - '2026-08-13'
 aliases:
 - quality: Low
   alias_name: Talha
@@ -41,10 +39,10 @@ addresses:
   state_province: 34862 Kartal İstanbul
   country: Türkiye
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-11-04'
 place_of_birth:
-  city: Bayburt
+- city: Bayburt
   country: Türkiye
 documents:
 - type_of_document: Passport

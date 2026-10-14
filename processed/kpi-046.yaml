@@ -15,18 +15,14 @@ designations:
     entity for weapons and missile-related sales "
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - country: Viet Nam
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-08-18'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '745310111'

@@ -18,19 +18,17 @@ designations:
     Forces
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-04-02'
+  - '2013-09-04'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1942
 place_of_birth:
-  city: Sirte
+- city: Sirte
   country: Libya
 documents:

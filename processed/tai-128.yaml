@@ -17,18 +17,16 @@ designations:
   - Military Attache, Taliban Embassy, Islamabad, Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2006-07-25'
+  - '2007-04-23'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2012-08-13'
 aliases:
 - quality: Good
   alias_name: Abdul Qadir
@@ -40,10 +38,13 @@ aliases:
   alias_name: Abdul Qadir Basir
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1964
 place_of_birth:
-  city: Surkh Rod District
+- city: Surkh Rod District
+  state_province: Nangarhar Province
+  country: Afghanistan
+- city: Hisarak District
   state_province: Nangarhar Province
   country: Afghanistan
 documents:

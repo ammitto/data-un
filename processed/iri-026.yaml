@@ -18,18 +18,24 @@ designations:
   - Head of State Anti-Smuggling Headquarters
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1949-02-11'
+- type_of_date: EXACT
+  date: '1952-02-11'
+- type_of_date: EXACT
+  date: '1953-02-11'
+- type_of_date: EXACT
+  date: '1961-02-11'
 place_of_birth:
-  city: Najaf
+- city: Najaf
   country: Iraq
+- city: Tehran
+  country: Iran (Islamic Republic of)
 documents:

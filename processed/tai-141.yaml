@@ -18,25 +18,23 @@ designations:
     Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2006-07-25'
+  - '2007-09-21'
+  - '2008-10-03'
+  - '2011-11-29'
 aliases:
 - quality: Good
   alias_name: al-Hammad
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1972
 place_of_birth:
-  city: Darweshan village, Hazar Juft area, Garmser District
+- city: Darweshan village, Hazar Juft area, Garmser District
   state_province: Helmand Province
   country: Afghanistan
 documents:

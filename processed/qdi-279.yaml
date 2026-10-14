@@ -18,15 +18,13 @@ nationalities:
 - value: Algeria
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-04-15'
+  - '2019-12-06'
+  - '2023-10-30'
+  - '2023-12-14'
 aliases:
 - quality: Low
   alias_name: Abdelali Abou Dher (عبد العالي ابو ذر)
@@ -37,10 +35,10 @@ addresses:
 - city: Cité Djenane Mabrouk, Algiers
   country: Algeria
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-12-19'
 place_of_birth:
-  city: Hussein Dey
+- city: Hussein Dey
   state_province: Algiers
   country: Algeria
 documents:

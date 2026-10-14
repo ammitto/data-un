@@ -19,19 +19,17 @@ designations:
   - FDLR Executive Secretary
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1963-07-24'
 place_of_birth:
-  city: Ndusu / Ruhengeri
+- city: Ndusu / Ruhengeri
   state_province: Northern Province
   country: Rwanda
 documents:

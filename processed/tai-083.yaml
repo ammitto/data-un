@@ -20,16 +20,14 @@ designations:
     regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2012-02-13'
+  - '2012-05-18'
+  - '2013-12-31'
 aliases:
 - quality: Good
   alias_name: Ehsanullah Sarfadi
@@ -37,9 +35,9 @@ aliases:
   alias_name: Ehsanullah Sarfida
 addresses:
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Khatak village, Gelan District
+- city: Khatak village, Gelan District
   state_province: Ghazni Province
   country: Afghanistan
 documents:

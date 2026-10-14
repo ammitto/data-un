@@ -13,12 +13,7 @@ nationalities:
 - value: Somalia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: AL-TURKI, Hassan
@@ -35,9 +30,9 @@ aliases:
 addresses:
 - country: Somalia
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1944
 place_of_birth:
-  state_province: Ogaden Region
+- state_province: Ogaden Region
   country: Ethiopia
 documents:

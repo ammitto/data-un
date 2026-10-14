@@ -22,12 +22,10 @@ designations:
     Renaissance de Centrafrique (FPRC)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-07-28'
 aliases:
 - quality: Good
   alias_name: Haroun Geye
@@ -39,8 +37,11 @@ addresses:
 - city: Bangui
   country: Central African Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1968-01-30'
+- type_of_date: EXACT
+  date: '1969-01-30'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: Central African Republic number O00065772

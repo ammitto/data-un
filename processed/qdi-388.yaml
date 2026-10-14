@@ -13,20 +13,18 @@ nationalities:
 - value: France
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
 aliases:
 addresses:
 - country: Syrian Arab Republic
   note: as at Sep. 2015
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1980-07-06'
 place_of_birth:
-  city: Bourg la Reine
+- city: Bourg la Reine
   country: France
 documents:

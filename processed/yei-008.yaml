@@ -19,21 +19,16 @@ designations:
   - 'Major General, Houthi Chief of General Staff '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: Mohammad Al-Ghamari
 addresses:
 - country: Yemen
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1979
 place_of_birth:
-  state_province: Izla Dhaen, Wahha District, Hajjar Governorate
+- state_province: Izla Dhaen, Wahha District, Hajjar Governorate
   country: Yemen
 documents:

@@ -11,12 +11,7 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Dr. Adib Sha’ban
@@ -24,6 +19,7 @@ aliases:
   alias_name: Adib Shaban
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1952
+place_of_birth:
 documents:

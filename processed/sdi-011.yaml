@@ -15,12 +15,7 @@ designations:
   - Procurement Director of the Rapid Support Forces
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: ALGONEY HAMDAN DAGALO
@@ -30,10 +25,10 @@ addresses:
 - city: Dubai
   country: United Arab Emirates
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1990-08-07'
 place_of_birth:
-  city: Nayala North
+- city: Nayala North
   country: Sudan
 documents:
 - type_of_document: Passport

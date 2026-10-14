@@ -19,15 +19,13 @@ designations:
   - Na'ib Amir (Deputy Commander) (1996-2001)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2013-04-22'
+  - '2026-03-10'
+  - '2026-04-28'
+  - '2026-07-30'
 aliases:
 - quality: Good
   alias_name: Siraj Haqqani
@@ -45,11 +43,23 @@ addresses:
 - city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
+- type_of_date: EXACT
+  date: '1981-12-30'
 place_of_birth:
-  city: Danda, Miramshah
+- city: Danda, Miramshah
   state_province: North Waziristan
   country: Pakistan
+- state_province: Khost province
+  country: Afghanistan
+- city: Neka district
+  state_province: Paktika province
+  country: Afghanistan
+- city: Srana village, Garda Saray district
+  state_province: Paktia province
+  country: Afghanistan
+- city: Paktia
+  country: Afghanistan
 documents:
 - type_of_document: Passport
   number: P00032260

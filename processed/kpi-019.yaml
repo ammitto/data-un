@@ -12,13 +12,11 @@ nationalities:
 - value: Democratic People's Republic of Korea
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
+  - '2023-06-29'
 aliases:
 - quality: Good
   alias_name: Jiang Wen-ji
@@ -27,8 +25,9 @@ aliases:
 addresses:
 - country: Democratic People's Republic of Korea
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1963-02-09'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: 'PS 472330208 '

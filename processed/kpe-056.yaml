@@ -9,12 +9,10 @@ comments1: 'Registered owner of CHON MYONG 1, a DPRK-flagged vessel that conduct
   ship-to-ship transfer of fuel in late December 2017. IMO number: 5571322.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 - quality: a.k.a.
   alias_name: CHON MYONG SHIPPING COMPANY LIMITED

@@ -20,13 +20,11 @@ designations:
   - FDLR President
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
+  - '2020-02-25'
 aliases:
 - quality: Low
   alias_name: Dr. Ignace
@@ -34,9 +32,11 @@ addresses:
 - country: Germany
   note: in prison
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1963-05-14'
 place_of_birth:
-  city: Butera
+- city: Butera
+  country: Rwanda
+- city: Ngoma, Butare
   country: Rwanda
 documents:

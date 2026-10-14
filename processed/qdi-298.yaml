@@ -15,14 +15,12 @@ nationalities:
 - value: Mauritania
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
+  - '2023-10-30'
+  - '2023-12-14'
 aliases:
 - quality: Good
   alias_name: Abdarrahmane ould Mohamed el Houcein ould Mohamed Salem
@@ -45,8 +43,8 @@ aliases:
 addresses:
 - country: Mauritania
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1981
 place_of_birth:
-  country: Saudi Arabia
+- country: Saudi Arabia
 documents:

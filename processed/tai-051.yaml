@@ -20,26 +20,26 @@ designations:
   - Spokesperson of the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2013-12-31'
+  - '2014-05-16'
 aliases:
 - quality: Good
   alias_name: Abdul Haq son of M. Anwar Khan (عبد الحق ولد محمد انور خان)
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1973
 place_of_birth:
-  city: Shinkalai village, Nad-e-Ali District
+- city: Shinkalai village, Nad-e-Ali District
   state_province: Helmand Province
+  country: Afghanistan
+- state_province: Zabul Province
   country: Afghanistan
 documents:
 - type_of_document: Passport

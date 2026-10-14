@@ -19,17 +19,16 @@ designations:
     programme
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2018-02-15'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1968-06-25'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '654310175 '

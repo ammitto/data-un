@@ -19,18 +19,16 @@ designations:
     Minister.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2012-04-02'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1952
 place_of_birth:
-  city: Jalo
+- city: Jalo
   country: Libya
 documents:

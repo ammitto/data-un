@@ -17,17 +17,16 @@ designations:
   - Director in the General Bureau of Atomic Energy (GBAE)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-06-29'
 aliases:
 - quality: Good
   alias_name: HWANG SOK HA
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1943-09-26'
+place_of_birth:
 documents:

@@ -14,14 +14,14 @@ designations:
     Mine
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Ghasim Soleymani; Ghasem Sulaymani; Ghasem Solaymani
 addresses:
+date_of_birth:
+place_of_birth:
 documents:

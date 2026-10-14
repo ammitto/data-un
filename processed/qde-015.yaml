@@ -9,16 +9,14 @@ comments1: Headquarters was in Kandahar, Afghanistan as at 2001. Wafa was a comp
   of Al-Qaida (QDe.004) in 2001. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-03-21'
+  - '2019-12-06'
+  - '2020-09-10'
+  - '2022-11-08'
+  - '2026-08-18'
 aliases:
 - quality: a.k.a.
   alias_name: Al Wafa

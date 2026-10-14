@@ -16,13 +16,11 @@ comments1: Senior Taliban member as at 2011 with financial duties, including rai
   Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-05-18'
+  - '2013-06-27'
 aliases:
 - quality: Good
   alias_name: Mohammed Aman
@@ -36,10 +34,10 @@ aliases:
   alias_name: Sanaullah
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1970
 place_of_birth:
-  city: Bande Tumur Village, Maiwand District
+- city: Bande Tumur Village, Maiwand District
   state_province: Kandahar Province
   country: Afghanistan
 documents:

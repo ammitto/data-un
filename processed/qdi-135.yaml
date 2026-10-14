@@ -14,17 +14,15 @@ nationalities:
 - value: India
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2006-03-21'
+  - '2006-07-25'
+  - '2007-07-02'
+  - '2010-03-11'
+  - '2016-08-22'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Dawood Ebrahim
@@ -81,10 +79,10 @@ addresses:
 - street: Palatial bungalow in the hilly area of Noorabad in Karachi
   country: Pakistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1955-12-26'
 place_of_birth:
-  city: Kher, Ratnagiri, Maharashtra
+- city: Kher, Ratnagiri, Maharashtra
   country: India
 documents:
 - type_of_document: Passport

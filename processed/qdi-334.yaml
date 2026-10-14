@@ -13,13 +13,11 @@ nationalities:
 - value: Qatar
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2017-02-15'
+  - '2021-03-23'
 aliases:
 - quality: Good
   alias_name: Abd al-Rahman bin 'Amir al-Na'imi
@@ -45,10 +43,10 @@ addresses:
 - city: Al-Waab
   country: Qatar
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1954
 place_of_birth:
-  city: Doha
+- city: Doha
   country: Qatar
 documents:
 - type_of_document: Passport

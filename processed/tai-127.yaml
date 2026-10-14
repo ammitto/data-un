@@ -16,16 +16,14 @@ designations:
   - Third Secretary, Taliban Embassy, Islamabad, Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2006-07-25'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2016-09-07'
 aliases:
 - quality: Good
   alias_name: Jan Agha Ahmadzai
@@ -33,10 +31,10 @@ aliases:
   alias_name: Zahid Ahmadzai
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1971
 place_of_birth:
-  state_province: Logar Province
+- state_province: Logar Province
   country: Afghanistan
 documents:
 - type_of_document: Passport

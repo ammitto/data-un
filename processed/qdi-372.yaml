@@ -13,22 +13,24 @@ nationalities:
 - value: Tajikistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
+  - '2025-08-22'
 aliases:
 addresses:
 - country: Afghanistan
   note: Kunar and Nuristan provinces and border areas of Zebok district, Badakhshan
     province
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1975-05-14'
+- type_of_date: APPROXIMATELY
+  year: 1975
 place_of_birth:
-  state_province: Varzob area
+- state_province: Varzob area
+  country: Tajikistan
+- city: Dushanbe
   country: Tajikistan
 documents:

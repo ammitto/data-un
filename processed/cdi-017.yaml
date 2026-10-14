@@ -19,20 +19,20 @@ designations:
   - Former FDLR Vice President
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Good
   alias_name: IO Musoni
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1961-04-06'
+- type_of_date: EXACT
+  date: '1961-06-04'
 place_of_birth:
-  city: Mugambazi, Kigali
+- city: Mugambazi, Kigali
   country: Rwanda
 documents:

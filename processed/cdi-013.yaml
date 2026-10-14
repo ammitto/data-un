@@ -13,12 +13,7 @@ nationalities:
 - value: Rwanda
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Manzi Leon
@@ -30,9 +25,14 @@ addresses:
   country: Democratic Republic of the Congo
   note: As of June 2011.
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1954
+- type_of_date: EXACT
+  year: 1953
 place_of_birth:
-  city: Kigali
+- city: Kigali
+  country: Rwanda
+- city: Rushashi
+  state_province: Northern Province
   country: Rwanda
 documents:

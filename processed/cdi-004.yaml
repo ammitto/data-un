@@ -15,12 +15,10 @@ designations:
   - 'Former M23 Deputy Commander '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Good
   alias_name: Colonel Innocent KAINA
@@ -30,9 +28,9 @@ addresses:
 - country: Uganda
   note: as of early 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
 place_of_birth:
-  city: Bunagana
+- city: Bunagana
   state_province: Rutshuru territory
   country: Democratic Republic of the Congo
 documents:

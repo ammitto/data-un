@@ -14,21 +14,19 @@ designations:
   - Former Representative of the Foreign Trade Bank
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-06-29'
 aliases:
 - quality: Good
   alias_name: Chang-Su Han
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-11-07'
 place_of_birth:
-  city: Pyongyang
+- city: Pyongyang
   country: Democratic People's Republic of Korea
 documents:
 - type_of_document: Passport

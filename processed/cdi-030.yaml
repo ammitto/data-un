@@ -26,14 +26,12 @@ nationalities:
 - value: Democratic Republic of the Congo
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
+  - '2020-08-19'
+  - '2023-03-01'
 aliases:
 - quality: Good
   alias_name: Bosco Ntaganda
@@ -55,8 +53,8 @@ addresses:
 - country: Belgium
   note: As of 14 December 2022
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Bigogwe
+- city: Bigogwe
   country: Rwanda
 documents:

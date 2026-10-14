@@ -16,19 +16,18 @@ designations:
     Conversion Facility (UCF) at Esfahan.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Hamid Reza Mohajerani Araghi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1977-09-09'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: 'Diplomatic Passport: Z30321794'

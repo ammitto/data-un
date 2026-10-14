@@ -13,15 +13,13 @@ nationalities:
 - value: Central African Republic
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-11-04'
+  - '2018-02-16'
+  - '2019-03-01'
+  - '2020-07-28'
 aliases:
 - quality: Good
   alias_name: Bozize Yangouvonda
@@ -33,11 +31,15 @@ addresses:
   country: Central African Republic
   note: since his return from Uganda in December 2019
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1946-10-14'
+- type_of_date: EXACT
+  date: '1948-12-16'
 place_of_birth:
-  city: Mouila
+- city: Mouila
   country: Gabon
+- city: Izo
+  country: South Sudan
 documents:
 - type_of_document: Passport
   number: D00002264

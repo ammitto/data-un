@@ -22,12 +22,10 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-05-16'
 aliases:
 - quality: Good
   alias_name: Qari Saifullah
@@ -42,10 +40,10 @@ addresses:
   state_province: Baluchistan Province
   country: Pakistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1964
 place_of_birth:
-  city: Daraz Village, Jaldak wa Tarnak District
+- city: Daraz Village, Jaldak wa Tarnak District
   state_province: Zabul Province
   country: Afghanistan
 documents:

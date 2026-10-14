@@ -17,12 +17,10 @@ designations:
   - Former Kandahar Province Deputy Taliban Governor
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2011-11-29'
 aliases:
 - quality: Low
   alias_name: Amir Abdullah Sahib
@@ -30,9 +28,9 @@ addresses:
 - city: Karachi
   country: Pakistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1972
 place_of_birth:
-  state_province: Paktika Province
+- state_province: Paktika Province
   country: Afghanistan
 documents:

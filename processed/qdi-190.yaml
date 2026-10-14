@@ -12,15 +12,13 @@ nationalities:
 - value: Morocco
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2007-12-21'
+  - '2011-12-13'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Low
   alias_name: Rachid
@@ -30,10 +28,10 @@ addresses:
   state_province: Cremona
   country: Italy
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-04-23'
 place_of_birth:
-  city: Casablanca
+- city: Casablanca
   country: Morocco
 documents:
 - type_of_document: Passport

@@ -16,12 +16,7 @@ designations:
   - Deputy, Lord’s Resistance Army
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Ali Lalobo
@@ -56,6 +51,13 @@ addresses:
   note: a territory on the border of Sudan and South Sudan whose final status has
     yet to be determined
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1994
+- type_of_date: EXACT
+  year: 1993
+- type_of_date: EXACT
+  year: 1995
+- type_of_date: EXACT
+  year: 1992
+place_of_birth:
 documents:

@@ -15,14 +15,11 @@ designations:
   - 'Commander for the North Darfur section of the Rapid Support Forces '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: ABU NASHUK
 addresses:
+date_of_birth:
+place_of_birth:
 documents:

@@ -16,12 +16,10 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-10-30'
 aliases:
 - quality: Low
   alias_name: Abu Walid al Indunisi
@@ -53,8 +51,8 @@ addresses:
 - country: Syrian Arab Republic
   note: location since 2015
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-10-11'
 place_of_birth:
-  country: Indonesia
+- country: Indonesia
 documents:

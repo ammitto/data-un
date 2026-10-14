@@ -17,13 +17,11 @@ nationalities:
 - value: Saudi Arabia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-04-15'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Othman al-Ghamdi
@@ -46,10 +44,10 @@ aliases:
 addresses:
 - country: Yemen
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1979-05-27'
 place_of_birth:
-  country: Saudi Arabia
+- country: Saudi Arabia
 documents:
 - type_of_document: National Identification Number
   number: '1089516791'

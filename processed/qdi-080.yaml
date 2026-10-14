@@ -14,18 +14,16 @@ nationalities:
 - value: Germany
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2005-09-09'
+  - '2007-07-02'
+  - '2010-12-23'
+  - '2014-09-09'
+  - '2019-05-01'
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Zouheir Al Maghribi
@@ -39,10 +37,10 @@ addresses:
   country: Germany
   note: formerly resident at
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1975-07-15'
 place_of_birth:
-  city: Haselünne
+- city: Haselünne
   state_province: Lower Saxony
   country: Germany
 documents:

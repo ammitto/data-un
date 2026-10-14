@@ -28,20 +28,15 @@ designations:
   - Deputy Commander of operations and intelligence for M23
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: TIGER ONE
 addresses:
 - country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1974-10-10'
 place_of_birth:
-  country: Democratic Republic of the Congo
+- country: Democratic Republic of the Congo
 documents:

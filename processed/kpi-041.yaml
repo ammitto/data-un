@@ -14,18 +14,17 @@ designations:
     personnel appointments for the Workers’ Party of Korea and the DPRK’s military "
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 - quality: Good
   alias_name: Jo Yon Jun
 addresses:
 - country: Democratic People's Republic of Korea
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1937-09-28'
+place_of_birth:
 documents:

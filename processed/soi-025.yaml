@@ -18,12 +18,7 @@ designations:
   - 'Leader (Wali) of the Al-Shabaab group in Diinsor '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: MA’D UMUROW
@@ -41,8 +36,8 @@ addresses:
 - street: Buur Hakaba District, Bay Region
   country: Somalia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1976
 place_of_birth:
-  country: Somalia
+- country: Somalia
 documents:

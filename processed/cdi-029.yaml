@@ -20,12 +20,10 @@ designations:
     group
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-08-19'
 aliases:
 addresses:
 - city: Goma
@@ -33,9 +31,9 @@ addresses:
   country: Democratic Republic of the Congo
   note: "(in prison)"
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1976-04-04'
 place_of_birth:
-  state_province: Walikale in Walikale territory
+- state_province: Walikale in Walikale territory
   country: Democratic Republic of the Congo
 documents:

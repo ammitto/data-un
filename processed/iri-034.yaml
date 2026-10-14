@@ -14,18 +14,17 @@ designations:
     1747 (2007) (designated under IRe.046).
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Mohammed Sabet; Mohammad Sabet b) M. Javad Kareemi Sabet; M. Jawad Kareemi
     Sabet; M. Jawad Karimi Sabet
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1973-07-25'
+place_of_birth:
 documents:

@@ -24,12 +24,7 @@ designations:
   - 'Founder and leader of the Unité pour la Paix en Centrafrique (UPC) '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Ali Darassa Mahamat
@@ -43,10 +38,10 @@ aliases:
   alias_name: Général Ali Darassa
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-09-22'
 place_of_birth:
-  city: Kabo, Ouham Prefecture
+- city: Kabo, Ouham Prefecture
   country: Central African Republic
 documents:
 - type_of_document: National Identification Number

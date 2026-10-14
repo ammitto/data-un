@@ -9,13 +9,11 @@ comments1: 'Ship manager and commercial manager of the YUK TUNG, which conducted
   transfer of refined petroleum product. IMO number: 5987860.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2020-05-11'
+  - '2022-07-26'
 aliases:
 addresses:
 - street: '80 Raffles Place, #17-22 UOB Plaza'

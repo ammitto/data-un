@@ -16,18 +16,16 @@ nationalities:
 - value: Libya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2009-06-03'
+  - '2009-09-01'
+  - '2011-12-13'
+  - '2017-03-21'
+  - '2020-11-24'
+  - '2022-11-08'
+  - '2023-06-02'
 aliases:
 - quality: Low
   alias_name: F’raji di Singapore
@@ -53,9 +51,13 @@ aliases:
   alias_name: Merai Zoghbai
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-04-04'
+- type_of_date: EXACT
+  date: '1960-04-04'
+- type_of_date: EXACT
+  date: '1960-06-04'
 place_of_birth:
-  city: Bengasi
+- city: Bengasi
   country: Libya
 documents:

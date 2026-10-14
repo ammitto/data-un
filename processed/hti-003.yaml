@@ -14,19 +14,14 @@ designations:
   - Main leader of Grand Ravine gang
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: TI LAPLI
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1982-06-11'
 place_of_birth:
-  country: Haiti
+- country: Haiti
 documents:

@@ -16,14 +16,12 @@ nationalities:
 - value: Saudi Arabia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2021-11-15'
+  - '2025-03-11'
 aliases:
 - quality: Good
   alias_name: Abdul Mohsen Abdullah Ibrahim Al-Sharikh
@@ -31,9 +29,9 @@ aliases:
   alias_name: Sanafi al Nasr
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1985-07-13'
 place_of_birth:
-  city: Saqra
+- city: Saqra
   country: Saudi Arabia
 documents:

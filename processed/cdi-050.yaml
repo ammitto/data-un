@@ -21,12 +21,7 @@ designations:
   - Commander of FDLR-FOCA (CDe.005)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: SIRKOOF
@@ -37,10 +32,13 @@ aliases:
 addresses:
 - country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1969
 place_of_birth:
-  city: Karago municipality
+- city: Karago municipality
   state_province: Gisenyi prefecture
+  country: Rwanda
+- city: Nyabihu District
+  state_province: Western province
   country: Rwanda
 documents:

@@ -11,8 +11,7 @@ comments1: |-
   related materiel. [Old Reference # E.29.I.10]
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: a.k.a.
   alias_name: MODLEX

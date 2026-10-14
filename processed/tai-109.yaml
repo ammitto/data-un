@@ -20,16 +20,14 @@ designations:
     regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2010-04-12'
+  - '2011-11-29'
+  - '2012-06-01'
 aliases:
 - quality: Good
   alias_name: Ahmad Jan Akhunzada
@@ -37,9 +35,12 @@ aliases:
   alias_name: Ahmad Jan Akhund Zada
 addresses:
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Lablan village, Dehrawood District
+- city: Lablan village, Dehrawood District
   state_province: Uruzgan Province
+  country: Afghanistan
+- city: Zurmat District
+  state_province: Paktia Province
   country: Afghanistan
 documents:

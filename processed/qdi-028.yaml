@@ -13,15 +13,13 @@ nationalities:
 - value: United Republic of Tanzania
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2007-07-27'
+  - '2010-10-21'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Ahmad, Abu Bakr
@@ -68,9 +66,15 @@ aliases:
 addresses:
 - country: United States of America
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1974-03-14'
+- type_of_date: EXACT
+  date: '1974-04-13'
+- type_of_date: EXACT
+  date: '1974-04-14'
+- type_of_date: EXACT
+  date: '1970-08-01'
 place_of_birth:
-  city: Zanzibar
+- city: Zanzibar
   country: United Republic of Tanzania
 documents:

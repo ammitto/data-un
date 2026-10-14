@@ -18,14 +18,12 @@ nationalities:
 - value: Saudi Arabia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-12-06'
+  - '2020-09-10'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Tarad Aljarba
@@ -33,10 +31,10 @@ aliases:
   alias_name: Abu-Muhammad al-Shimali
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1979-11-20'
 place_of_birth:
-  country: Iraq
+- country: Iraq
 documents:
 - type_of_document: Passport
   number: E704088

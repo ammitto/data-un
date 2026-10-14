@@ -21,16 +21,14 @@ designations:
   - Education Minister under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2008-02-01'
+  - '2011-11-29'
 aliases:
 - quality: Good
   alias_name: Sayed Ghias
@@ -40,10 +38,10 @@ aliases:
   alias_name: Sayyed Ghayasudin
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1961
 place_of_birth:
-  city: Kohistan District
+- city: Kohistan District
   state_province: Faryab Province
   country: Afghanistan
 documents:

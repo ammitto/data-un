@@ -14,15 +14,13 @@ nationalities:
 - value: Algeria
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2009-03-24'
+  - '2012-11-15'
+  - '2021-11-15'
+  - '2026-08-18'
 aliases:
 - quality: Good
   alias_name: Abd El Illah
@@ -37,10 +35,10 @@ aliases:
 addresses:
 - country: Algeria
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1967-01-17'
 place_of_birth:
-  city: Anser
+- city: Anser
   state_province: Wilaya (province) of Jijel
   country: Algeria
 documents:

@@ -14,24 +14,25 @@ designations:
   - Governor of Ghazni Province under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2012-02-13'
+  - '2013-12-31'
 aliases:
 - quality: Good
   alias_name: Doost Mohammad
 addresses:
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  city: Nawi Deh village, Daman District
+- city: Nawi Deh village, Daman District
+  state_province: Kandahar Province
+  country: Afghanistan
+- city: Marghankecha village, Daman District
   state_province: Kandahar Province
   country: Afghanistan
 documents:

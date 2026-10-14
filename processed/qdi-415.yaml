@@ -14,13 +14,11 @@ comments1: Reportedly Deceased. Former spokesperson of the Mouvement pour l’Un
   Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2022-11-08'
+  - '2023-02-02'
 aliases:
 - quality: Good
   alias_name: Lahbib Idrissi ould Sidi Abdi ould Said ould El Bachir
@@ -39,8 +37,8 @@ addresses:
   state_province: Gao Region
   country: Mali
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1973-02-16'
 place_of_birth:
-  city: Laayoune
+- city: Laayoune
 documents:

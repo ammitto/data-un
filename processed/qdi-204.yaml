@@ -20,16 +20,14 @@ nationalities:
 - value: Philippines
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2017-10-04'
+  - '2019-12-06'
+  - '2022-11-08'
+  - '2023-02-02'
+  - '2026-08-18'
 aliases:
 - quality: Good
   alias_name: Isnilon Hapilun
@@ -49,10 +47,12 @@ addresses:
   country: Philippines
   note: location since 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-03-18'
+- type_of_date: EXACT
+  date: '1967-03-10'
 place_of_birth:
-  city: Bulanza, Lantawan
+- city: Bulanza, Lantawan
   state_province: Basilan
   country: Philippines
 documents:

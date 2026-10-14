@@ -11,12 +11,7 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Muhammad Yunis Al-Ahmed
@@ -41,9 +36,9 @@ addresses:
 - city: Al-Hasaka
   country: Syrian Arab Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1949
 place_of_birth:
-  city: Al-Mowall, Mosul
+- city: Al-Mowall, Mosul
   country: Iraq
 documents:

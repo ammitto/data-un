@@ -22,17 +22,13 @@ designations:
   - Tanchon Commercial Bank (TCB) official
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-09-01'
+place_of_birth:
 documents:
 - type_of_document: 'Numéro de passeport '
   number: PS381420397

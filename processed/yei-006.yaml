@@ -29,12 +29,10 @@ designations:
   - Brigadier
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-04-05'
 aliases:
 - quality: Low
   alias_name: Abu Saqar Zabin
@@ -44,10 +42,10 @@ addresses:
 - city: Sana’a
   country: Yemen
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1986-02-05'
 place_of_birth:
-  city: Razih District, Sa’dah Governorate
+- city: Razih District, Sa’dah Governorate
   country: Yemen
 documents:
 - type_of_document: National Identification Number

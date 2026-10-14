@@ -16,12 +16,10 @@ designations:
   - 'President of Tanchon Commercial Bank '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 - quality: Good
   alias_name: Kim Chin-So’k
@@ -39,8 +37,11 @@ aliases:
   alias_name: Kim Hyok Chol
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1964
+- type_of_date: EXACT
+  date: '1962-08-28'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '290320764'

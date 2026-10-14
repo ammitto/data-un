@@ -16,19 +16,15 @@ nationalities:
 - value: Democratic Republic of the Congo
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Jérôme Kakwavu
 - quality: Low
   alias_name: Commandant Jérôme
 addresses:
+date_of_birth:
 place_of_birth:
-  city: Goma
+- city: Goma
   country: Democratic Republic of the Congo
 documents:

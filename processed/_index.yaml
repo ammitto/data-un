@@ -1,9 +1,9 @@
 ---
 source: un
 count: 1010
-fetched_at: '2026-10-13T14:28:00Z'
+fetched_at: '2026-10-14T12:13:10Z'
 schema: ammitto:sources:un:v1
-pruned: 0
+pruned: 12
 files:
 - cde-001.yaml
 - cde-002.yaml
@@ -319,7 +319,7 @@ files:
 - kpe-020.yaml
 - kpe-021.yaml
 - kpe-022.yaml
-- kpe-023-.yaml
+- kpe-023.yaml
 - kpe-024.yaml
 - kpe-025.yaml
 - kpe-026.yaml
@@ -329,7 +329,7 @@ files:
 - kpe-030.yaml
 - kpe-031.yaml
 - kpe-032.yaml
-- kpe-033-.yaml
+- kpe-033.yaml
 - kpe-034.yaml
 - kpe-035.yaml
 - kpe-036.yaml
@@ -337,22 +337,22 @@ files:
 - kpe-038.yaml
 - kpe-039.yaml
 - kpe-040.yaml
-- kpe-041-.yaml
-- kpe-042-.yaml
+- kpe-041.yaml
+- kpe-042.yaml
 - kpe-043.yaml
-- kpe-044-.yaml
-- kpe-045-.yaml
-- kpe-046-.yaml
+- kpe-044.yaml
+- kpe-045.yaml
+- kpe-046.yaml
 - kpe-047.yaml
 - kpe-048.yaml
 - kpe-049.yaml
 - kpe-050.yaml
-- kpe-051-.yaml
-- kpe-052-.yaml
-- kpe-053-.yaml
+- kpe-051.yaml
+- kpe-052.yaml
+- kpe-053.yaml
 - kpe-054.yaml
-- kpe-055-.yaml
-- kpe-056-.yaml
+- kpe-055.yaml
+- kpe-056.yaml
 - kpe-057.yaml
 - kpe-058.yaml
 - kpe-059.yaml

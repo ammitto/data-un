@@ -12,15 +12,13 @@ nationalities:
 - value: Yemen
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2006-07-25'
+  - '2011-06-10'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Abdelmajid Al-Zindani
@@ -33,10 +31,10 @@ addresses:
   city: Sana'a
   country: Yemen
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1950
 place_of_birth:
-  country: Yemen
+- country: Yemen
 documents:
 - type_of_document: Passport
   number: A005487

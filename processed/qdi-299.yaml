@@ -20,16 +20,14 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-07-20'
+  - '2015-12-10'
+  - '2020-11-24'
+  - '2021-11-15'
+  - '2025-03-11'
 aliases:
 - quality: Good
   alias_name: Dr. Ibrahim ‘Awwad Ibrahim ’Ali al-Badri al-Samarrai’
@@ -44,10 +42,10 @@ addresses:
 - country: Iraq
 - country: Syrian Arab Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1971
 place_of_birth:
-  country: Iraq
+- country: Iraq
 documents:
 - type_of_document: National Identification Number
   number: '0134852'

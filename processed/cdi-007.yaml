@@ -15,17 +15,16 @@ nationalities:
 - value: Democratic Republic of the Congo
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
+  - '2020-11-02'
 aliases:
 addresses:
 - country: Democratic Republic of the Congo
+date_of_birth:
 place_of_birth:
-  state_province: Ituri
+- state_province: Ituri
   country: Democratic Republic of the Congo
 documents:

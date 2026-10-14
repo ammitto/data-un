@@ -30,12 +30,7 @@ designations:
   - Senior leader of the Allied Democratic Forces (ADF) (CDe.001)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: AHMED MAHAMUD HASSAN ALIYANI
@@ -66,8 +61,11 @@ aliases:
 addresses:
 - country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1997-07-21'
+- type_of_date: EXACT
+  year: 1993
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: AB850901

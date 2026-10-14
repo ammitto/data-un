@@ -12,13 +12,11 @@ nationalities:
 - value: Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Muhammad Arif Qasmani
@@ -39,8 +37,8 @@ addresses:
   city: Karachi
   country: Pakistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1944
 place_of_birth:
-  country: Pakistan
+- country: Pakistan
 documents:

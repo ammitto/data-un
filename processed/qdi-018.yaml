@@ -8,14 +8,12 @@ listed_on: '2001-10-17'
 comments1: Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2013-06-26'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Abdul Manan
@@ -24,4 +22,6 @@ aliases:
 - quality: Low
   alias_name: Saiyid Abd al-Man
 addresses:
+date_of_birth:
+place_of_birth:
 documents:

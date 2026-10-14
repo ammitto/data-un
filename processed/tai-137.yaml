@@ -16,16 +16,14 @@ designations:
   - Consul General, Taliban Consulate General, Karachi, Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2006-07-25'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2011-11-29'
 aliases:
 - quality: Good
   alias_name: Rehmatullah
@@ -35,10 +33,10 @@ aliases:
   alias_name: Mullah Nasir
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1968
 place_of_birth:
-  city: Zurmat District
+- city: Zurmat District
   state_province: Paktia Province
   country: Afghanistan
 documents:

@@ -10,12 +10,10 @@ comments1: 'Ship manager and commercial manager of the Panama-flagged vessel KOT
   KUM UN SAN 3 on 9 December 2017. IMO number: 5982254.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 addresses:
 - city: Panama City

@@ -12,12 +12,7 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Yassir Sabawi Ibrahim Hasan Al-Tikriti
@@ -35,9 +30,9 @@ addresses:
 - city: Az Zabadani
   country: Syrian Arab Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1968-05-15'
 place_of_birth:
-  city: Al-Owja
+- city: Al-Owja
   country: Iraq
 documents:

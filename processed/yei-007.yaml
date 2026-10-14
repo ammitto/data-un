@@ -25,12 +25,7 @@ designations:
                     Houthis’ opponents
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: Saleh Mosfer Saleh al Shaer
@@ -47,7 +42,7 @@ aliases:
 addresses:
 - country: Yemen
 place_of_birth:
-  state_province: Al Safrah, Sa’dah Governorate
+- state_province: Al Safrah, Sa’dah Governorate
   country: Yemen
 documents:
 - type_of_document: Passport

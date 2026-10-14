@@ -12,13 +12,11 @@ nationalities:
 - value: Libya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
+  - '2025-03-11'
 aliases:
 - quality: Low
   alias_name: ABOU FARAI AL LIBI
@@ -27,9 +25,9 @@ aliases:
 addresses:
 - country: Libya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1959-06-26'
 place_of_birth:
-  city: Derna
+- city: Derna
   country: Libya
 documents:

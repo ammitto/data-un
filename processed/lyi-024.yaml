@@ -17,12 +17,10 @@ designations:
   - Leader of a transnational trafficking network
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2018-09-17'
 aliases:
 - quality: Good
   alias_name: Mus’ab Abu Qarin
@@ -34,10 +32,10 @@ aliases:
   alias_name: Al-Grein
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1983-01-19'
 place_of_birth:
-  city: Sabratha
+- city: Sabratha
   country: Libya
 documents:
 - type_of_document: Passport

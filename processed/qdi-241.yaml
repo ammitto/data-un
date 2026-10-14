@@ -15,14 +15,12 @@ nationalities:
 - value: Philippines
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-12-13'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Low
   alias_name: Abdul Khalil
@@ -41,10 +39,10 @@ addresses:
   city: Punta, Santa Ana, Manila
   country: Philippines
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-03-20'
 place_of_birth:
-  city: Gattaran
+- city: Gattaran
   state_province: Cagayan Province
   country: Philippines
 documents:

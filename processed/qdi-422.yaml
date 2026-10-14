@@ -14,12 +14,7 @@ nationalities:
 - value: Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: Masud Azhar
@@ -29,10 +24,12 @@ aliases:
   alias_name: Wali Adam Esah
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1968-07-10'
+- type_of_date: EXACT
+  date: '1968-06-10'
 place_of_birth:
-  city: Bahawalpur
+- city: Bahawalpur
   state_province: Punjab Province
   country: Pakistan
 documents:

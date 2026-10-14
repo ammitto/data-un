@@ -12,15 +12,13 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-04-17'
+  - '2021-11-15'
+  - '2022-05-27'
+  - '2025-10-06'
 aliases:
 - quality: Good
   alias_name: Zulkarnan
@@ -64,10 +62,10 @@ addresses:
   state_province: Lampung
   country: Indonesia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1963-04-19'
 place_of_birth:
-  city: Gebang village, Masaran
+- city: Gebang village, Masaran
   state_province: Sragen, Central Java
   country: Indonesia
 documents:

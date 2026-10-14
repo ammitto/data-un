@@ -10,12 +10,10 @@ comments1: 'Registered owner of DPRK tanker JI SONG 6, which is believed to  hav
   company also owns vessels JI SONG 8 and WOORY STAR. IMO number: 5878561.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 - quality: a.k.a.
   alias_name: PHYONGCHON SHIPPING AND MARINE

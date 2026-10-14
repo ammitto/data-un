@@ -16,12 +16,7 @@ nationalities:
 - value: Syrian Arab Republic
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Jamal Husayn Zayniyah
@@ -41,11 +36,17 @@ addresses:
   state_province: Bekaa
   country: Lebanon
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1972-08-17'
+- type_of_date: EXACT
+  date: '1972-01-01'
 place_of_birth:
-  city: Benghazi
+- city: Benghazi
   country: Libya
+- city: Al Tall
+  country: Syrian Arab Republic
+- city: Tell Mnin
+  country: Syrian Arab Republic
 documents:
 - type_of_document: Passport
   number: '3987189 '

@@ -13,12 +13,10 @@ comments1: 'A DPRK-flagged tanker, SAM MA 2 owned by Korea Samma Shipping Compan
   IMO number: 5145892.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 - quality: a.k.a.
   alias_name: Korea Samma SHPG CO

@@ -12,20 +12,15 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Ayad Futayyih Al-Rawi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1953
 place_of_birth:
-  city: Ramadi
+- city: Ramadi
   country: Iraq
 documents:

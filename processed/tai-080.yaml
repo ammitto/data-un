@@ -24,17 +24,15 @@ designations:
     Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2007-09-27'
+  - '2011-11-29'
+  - '2012-08-13'
 aliases:
 - quality: Good
   alias_name: Esmatullah Asem
@@ -44,10 +42,10 @@ aliases:
   alias_name: Sayed Esmatullah Asem
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1967
 place_of_birth:
-  city: Qalayi Shaikh, Chaparhar District
+- city: Qalayi Shaikh, Chaparhar District
   state_province: Nangarhar Province
   country: Afghanistan
 documents:

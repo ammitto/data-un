@@ -12,12 +12,7 @@ nationalities:
 - value: Somalia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: ALI, Sheikh Hassan Dahir Aweys
@@ -46,6 +41,7 @@ aliases:
 addresses:
 - country: Somalia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1935
+place_of_birth:
 documents:

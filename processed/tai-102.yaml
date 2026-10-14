@@ -19,18 +19,16 @@ designations:
   - Governor of Logar Province under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2007-09-27'
+  - '2008-02-01'
+  - '2012-02-13'
+  - '2013-12-31'
 aliases:
 - quality: Good
   alias_name: Ziaurrahman Madani
@@ -42,10 +40,13 @@ aliases:
   alias_name: Diya’ al-Rahman Madani
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1960
 place_of_birth:
-  city: Paliran village, Namakab District
+- city: Paliran village, Namakab District
+  state_province: Takhar Province
+  country: Afghanistan
+- city: Taluqan City
   state_province: Takhar Province
   country: Afghanistan
 documents:

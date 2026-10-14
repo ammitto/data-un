@@ -13,17 +13,16 @@ designations:
   - 'Former Minister of the Munitions Industry Department '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-08-16'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1945-10-29'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: 'PO381230469 '

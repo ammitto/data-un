@@ -17,14 +17,12 @@ nationalities:
 - value: Russian Federation
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2015-12-10'
+  - '2016-09-06'
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Ramzan Oduev
@@ -56,10 +54,10 @@ addresses:
 - country: Iraq
   note: possible alternative location as at Aug. 2015
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1965-11-11'
 place_of_birth:
-  city: Itum-Kale, Itum-Kalinskiy District
+- city: Itum-Kale, Itum-Kalinskiy District
   state_province: Republic of Chechnya
   country: Russian Federation
 documents:

@@ -12,14 +12,12 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
+  - '2023-11-14'
 aliases:
 - quality: Good
   alias_name: Sa'id Jan 'Abd-al-Salam
@@ -43,8 +41,11 @@ aliases:
   alias_name: Nangiali
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1981-02-05'
+- type_of_date: EXACT
+  date: '1971-12-31'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: |2-

@@ -16,22 +16,25 @@ designations:
   - Commander of Central Corps under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2012-02-13'
 aliases:
 - quality: Good
   alias_name: Mullah Abdul Rauf Aliza
 addresses:
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
+- type_of_date: APPROXIMATELY
+  year: 1970
 place_of_birth:
-  city: Azan village, Kajaki District
+- city: Azan village, Kajaki District
   state_province: Helmand Province
+  country: Afghanistan
+- city: Spin Boldak District
+  state_province: Kandahar Province
   country: Afghanistan
 documents:

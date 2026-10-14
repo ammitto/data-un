@@ -16,23 +16,21 @@ nationalities:
 - value: Tunisia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-04-10'
+  - '2004-11-26'
+  - '2005-09-09'
+  - '2005-12-20'
+  - '2006-07-31'
+  - '2007-06-07'
+  - '2010-12-23'
+  - '2014-11-24'
+  - '2016-02-23'
+  - '2019-12-06'
+  - '2020-05-07'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Mohamed Ben Belkacem Aouadi
@@ -43,10 +41,10 @@ addresses:
   city: Tunis
   country: Tunisia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1974-12-11'
 place_of_birth:
-  city: Tunis
+- city: Tunis
   country: Tunisia
 documents:
 - type_of_document: Passport

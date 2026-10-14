@@ -16,13 +16,11 @@ designations:
                     representative
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2023-06-29'
+  - '2023-09-29'
 aliases:
 - quality: Good
   alias_name: Ri Eun Song
@@ -30,6 +28,7 @@ aliases:
   alias_name: Ri Un Song
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-07-22'
+place_of_birth:
 documents:

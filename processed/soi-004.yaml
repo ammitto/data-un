@@ -12,12 +12,7 @@ nationalities:
 - value: Somalia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: ABU ZUBEYR, Muktar Abdirahman
@@ -37,9 +32,9 @@ aliases:
   alias_name: '"ZUBEYR, Abu"'
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1977-07-10'
 place_of_birth:
-  city: Hargeysa
+- city: Hargeysa
   country: Somalia
 documents:

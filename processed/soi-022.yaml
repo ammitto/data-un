@@ -13,12 +13,7 @@ nationalities:
 - value: Somalia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Cabdullahi Cusman Maxamed Caddow
@@ -32,4 +27,5 @@ aliases:
   alias_name: Eng. Ismail
 addresses:
 - country: Somalia
+place_of_birth:
 documents:

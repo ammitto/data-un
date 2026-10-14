@@ -16,26 +16,24 @@ designations:
   - Deputy Minister of Commerce under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2012-08-13'
+  - '2012-10-19'
+  - '2013-12-31'
 aliases:
 - quality: Good
   alias_name: Nik Mohammad
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1957
 place_of_birth:
-  city: Zangi Abad village, Panjwai District
+- city: Zangi Abad village, Panjwai District
   state_province: Kandahar Province
   country: Afghanistan
 documents:

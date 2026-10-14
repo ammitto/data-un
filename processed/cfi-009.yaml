@@ -20,12 +20,7 @@ designations:
   - 'Commander of the Lord’s Resistance Army '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Kony
@@ -55,9 +50,28 @@ addresses:
     yet to be determined). As of January 2015, 500 Lord’s Resistance Army elements
     were reportedly expelled from the Sudan."
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1959
+- type_of_date: EXACT
+  year: 1960
+- type_of_date: EXACT
+  year: 1961
+- type_of_date: EXACT
+  year: 1963
+- type_of_date: EXACT
+  date: '1964-09-18'
+- type_of_date: EXACT
+  year: 1965
+- type_of_date: EXACT
+- type_of_date: EXACT
+- type_of_date: EXACT
+  date: '1961-01-01'
+- type_of_date: EXACT
 place_of_birth:
-  city: Palaro Village, Palaro Parish, Omoro County, Gulu District
+- city: Palaro Village, Palaro Parish, Omoro County, Gulu District
+  country: Uganda
+- city: Odek, Omoro, Gulu
+  country: Uganda
+- city: Atyak
   country: Uganda
 documents:

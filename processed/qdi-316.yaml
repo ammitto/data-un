@@ -15,25 +15,23 @@ nationalities:
 - value: Mali
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-09-23'
+  - '2019-05-01'
+  - '2022-11-08'
+  - '2023-11-14'
 aliases:
 - quality: Good
   alias_name: Sidi Mohamed Arhali
 addresses:
 - country: Mali
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1958
 place_of_birth:
-  city: Abeibara
+- city: Abeibara
   state_province: Kidal Region
   country: Mali
 documents:

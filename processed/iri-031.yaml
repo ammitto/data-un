@@ -12,20 +12,18 @@ designations:
   - Head of the AEOI Esfahan Nuclear Technology Center
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Javad Rahigi; Jawad Rahigi; Jawad Rahiqi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1954-04-24'
 place_of_birth:
-  city: Marshad
+- city: Marshad
   country: Iran (Islamic Republic of)
 documents:

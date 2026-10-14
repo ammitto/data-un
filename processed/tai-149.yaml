@@ -18,15 +18,13 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-11-29'
+  - '2012-08-13'
+  - '2013-12-31'
+  - '2014-05-16'
 aliases:
 - quality: Good
   alias_name: Saleh Mohammad
@@ -35,10 +33,12 @@ addresses:
   state_province: Kandahar Province
   country: Afghanistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1962
+- type_of_date: EXACT
+  year: 1961
 place_of_birth:
-  city: Nalghan village, Panjwai District
+- city: Nalghan village, Panjwai District
   state_province: Kandahar Province
   country: Afghanistan
 documents:

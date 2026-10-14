@@ -16,13 +16,11 @@ nationalities:
 - value: Uganda
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2026-07-08'
+  - '2026-08-14'
 aliases:
 - quality: Low
   alias_name: NABAGGALA
@@ -35,10 +33,10 @@ aliases:
 addresses:
 - country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1989-02-23'
 place_of_birth:
-  country: Uganda
+- country: Uganda
 documents:
 - type_of_document: National Identification Number
   number: CF89095102DDAE

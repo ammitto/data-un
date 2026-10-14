@@ -17,17 +17,15 @@ designations:
   - Mayor of Kabul City under the Taliban regime (1996-2001)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2008-10-03'
+  - '2011-11-29'
+  - '2026-04-28'
+  - '2026-07-30'
 aliases:
 - quality: Good
   alias_name: HAMDULLAH NUMANI
@@ -35,11 +33,15 @@ addresses:
 - city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1968
+- type_of_date: EXACT
+  date: '1965-08-28'
 place_of_birth:
-  city: Sipayaw village, Andar District
+- city: Sipayaw village, Andar District
   state_province: Ghazni Province
+  country: Afghanistan
+- state_province: Ghazni
   country: Afghanistan
 documents:
 - type_of_document: Passport

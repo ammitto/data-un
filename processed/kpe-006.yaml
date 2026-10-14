@@ -10,8 +10,7 @@ comments1: A DPRK company based in Pyongyang that is subordinate to Korea Ryonbo
   in the development of WMD.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: a.k.a.
   alias_name: KOREA HYOKSIN EXPORT AND IMPORT CORPORATION

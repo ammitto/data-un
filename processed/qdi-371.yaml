@@ -13,12 +13,10 @@ nationalities:
 - value: Libya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Abdelbassed Azouz
@@ -30,10 +28,10 @@ addresses:
 - country: Libya
   note: last known location
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-02-07'
 place_of_birth:
-  city: Doma
+- city: Doma
   country: Libya
 documents:
 - type_of_document: Passport

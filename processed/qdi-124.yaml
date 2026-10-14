@@ -18,21 +18,19 @@ nationalities:
 - value: Malaysia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-05-03'
+  - '2008-02-01'
+  - '2009-08-10'
+  - '2010-01-25'
+  - '2011-05-16'
+  - '2016-10-11'
+  - '2017-09-22'
+  - '2019-05-01'
+  - '2022-11-08'
+  - '2023-07-21'
 aliases:
 - quality: Low
   alias_name: Joe
@@ -48,10 +46,10 @@ addresses:
     in prison since 2013 to
                         2019
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1964-01-20'
 place_of_birth:
-  city: Johor
+- city: Johor
   country: Malaysia
 documents:
 - type_of_document: Passport

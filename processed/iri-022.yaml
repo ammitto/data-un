@@ -18,17 +18,16 @@ designations:
     programme, Iran's long range ballistic missile currently in service.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1960
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: A0003039

@@ -20,18 +20,16 @@ designations:
     regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-09'
+  - '2007-09-21'
+  - '2012-02-13'
+  - '2012-08-13'
+  - '2013-04-22'
+  - '2013-12-31'
 aliases:
 - quality: Good
   alias_name: Mullah Naeem Barech
@@ -67,10 +65,22 @@ aliases:
   alias_name: Mawlawi Gul Mohammad
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1975
 place_of_birth:
-  city: Lakhi village, Hazarjuft Area, Garmsir District
+- city: Lakhi village, Hazarjuft Area, Garmsir District
+  state_province: Helmand Province
+  country: Afghanistan
+- city: Laki village, Garmsir District
+  state_province: Helmand Province
+  country: Afghanistan
+- city: Lakari village, Garmsir District
+  state_province: Helmand Province
+  country: Afghanistan
+- city: Darvishan, Garmsir District
+  state_province: Helmand Province
+  country: Afghanistan
+- city: De Luy Wiyalah village, Garmsir District
   state_province: Helmand Province
   country: Afghanistan
 documents:

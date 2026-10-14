@@ -18,12 +18,10 @@ nationalities:
 - value: Philippines
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-10-30'
 aliases:
 - quality: Low
   alias_name: Abdul Rahman
@@ -45,10 +43,10 @@ addresses:
 - country: Syrian Arab Republic
   note: location since 2015
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1990-03-03'
 place_of_birth:
-  city: Zamboanga City
+- city: Zamboanga City
   state_province: Zamboanga del Sur
   country: Philippines
 documents:

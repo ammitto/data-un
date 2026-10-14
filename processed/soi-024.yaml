@@ -22,12 +22,7 @@ designations:
   - 'Previously in charge of Zakat; member of Shura of Al-Shabaab '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: MOHAMED MIRE
@@ -37,9 +32,13 @@ addresses:
 - state_province: Qunyo Barrow
   country: Somalia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1962
+- type_of_date: EXACT
+  year: 1960
+- type_of_date: EXACT
+  year: 1955
 place_of_birth:
-  state_province: Kismayo
+- state_province: Kismayo
   country: Somalia
 documents:

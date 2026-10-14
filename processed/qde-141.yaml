@@ -12,13 +12,11 @@ comments1: Founded on 20 Aug. 2013 as result of a merger between Al Moulathamoun
   Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: a.k.a.
   alias_name: Les Sentinelles

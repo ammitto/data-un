@@ -14,12 +14,10 @@ nationalities:
 - value: Syrian Arab Republic
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Bassam Ahmad Husari
@@ -31,10 +29,18 @@ addresses:
 - country: Syrian Arab Republic
   note: Southern. Location as of July 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-01-01'
+- type_of_date: APPROXIMATELY
+  year: 1971
 place_of_birth:
-  city: Qalamun
+- city: Qalamun
   state_province: " Damascus Province"
+  country: Syrian Arab Republic
+- city: Ghutah
+  state_province: Damascus Province
+  country: Syrian Arab Republic
+- city: Tadamon
+  state_province: Rif Dimashq
   country: Syrian Arab Republic
 documents:

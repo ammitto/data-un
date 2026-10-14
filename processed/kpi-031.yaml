@@ -12,17 +12,13 @@ nationalities:
 - value: Democratic People's Republic of Korea
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Son Min
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1980-05-20'
+place_of_birth:
 documents:

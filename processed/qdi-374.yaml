@@ -13,14 +13,12 @@ nationalities:
 - value: Bosnia and Herzegovina
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-03-29'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Nusret Sulejman Imamovic
@@ -28,10 +26,12 @@ addresses:
 - country: Syrian Arab Republic
   note: location as at Sep. 2015
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1971-09-26'
+- type_of_date: EXACT
+  date: '1977-09-26'
 place_of_birth:
-  city: Miljanovci
+- city: Miljanovci
   state_province: Kalesija Municipality
   country: Bosnia and Herzegovina
 documents:

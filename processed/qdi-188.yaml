@@ -13,17 +13,15 @@ nationalities:
 - value: Tunisia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2007-06-07'
+  - '2009-08-10'
+  - '2009-09-01'
+  - '2011-12-13'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Faical Boughanmi
@@ -34,9 +32,9 @@ addresses:
   city: Cremona
   country: Italy
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-10-28'
 place_of_birth:
-  city: Tunis
+- city: Tunis
   country: Tunisia
 documents:

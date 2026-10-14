@@ -12,17 +12,13 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - city: Geneva
   country: Switzerland
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1981-04-18'
+place_of_birth:
 documents:

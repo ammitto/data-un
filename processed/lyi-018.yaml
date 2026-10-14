@@ -14,13 +14,11 @@ designations:
   - Director Military Intelligence
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2013-03-21'
+  - '2014-06-27'
 aliases:
 - quality: Good
   alias_name: Abdoullah Ould Ahmed
@@ -30,8 +28,8 @@ addresses:
 - country: Libya
   note: 'Believed status/location: in custody in Libya.'
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1949
 place_of_birth:
-  country: Sudan
+- country: Sudan
 documents:

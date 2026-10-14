@@ -15,13 +15,11 @@ nationalities:
 - value: Philippines
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2017-09-22'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Radullan Sahiron
@@ -36,10 +34,10 @@ addresses:
   country: Philippines
   note: reported location
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1955
 place_of_birth:
-  city: Kaunayan
+- city: Kaunayan
   state_province: Patikul, Jolo Island
   country: Philippines
 documents:

@@ -10,12 +10,7 @@ listed_on: '2012-08-23'
 comments1: INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Makaburi
@@ -33,8 +28,10 @@ addresses:
 - city: Majengo area, Mombasa
   country: Kenya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1962
+- type_of_date: EXACT
+  year: 1967
 place_of_birth:
-  country: Kenya
+- country: Kenya
 documents:

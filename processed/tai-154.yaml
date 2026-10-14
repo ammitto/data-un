@@ -15,15 +15,13 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-11-29'
+  - '2012-06-01'
+  - '2014-02-11'
+  - '2026-03-10'
 aliases:
 - quality: Good
   alias_name: حاجى مالك نورزى (Hajji Malik Noorzai; Hajji Malak Noorzai; Haji Malek
@@ -43,10 +41,17 @@ addresses:
   state_province: Kandahar province
   country: Afghanistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1957
+- type_of_date: EXACT
+  year: 1960
+- type_of_date: EXACT
+  date: '1963-01-01'
 place_of_birth:
-  city: Chaman border town
+- city: Chaman border town
+  country: Pakistan
+- city: Pishin
+  state_province: Baluchistan Province
   country: Pakistan
 documents:
 - type_of_document: National Identification Number

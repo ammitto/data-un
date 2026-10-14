@@ -16,15 +16,13 @@ nationalities:
 - value: Russian Federation
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-06-02'
+  - '2014-12-30'
+  - '2019-05-01'
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Lom-ali Butayev (Butaev)
@@ -34,10 +32,16 @@ aliases:
   alias_name: Dokka Umarov
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1964-04-13'
+- type_of_date: EXACT
+  date: '1965-04-13'
+- type_of_date: EXACT
+  date: '1964-05-12'
+- type_of_date: EXACT
+  year: 1955
 place_of_birth:
-  city: Kharsenoy Village
+- city: Kharsenoy Village
   state_province: Shatoyskiy (Sovetskiy) District, Chechenskaya Respublika
   country: Russian Federation
 documents:

@@ -20,12 +20,10 @@ nationalities:
 - value: Russian Federation
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Low
   alias_name: Abu Banat
@@ -37,10 +35,10 @@ addresses:
 - country: Syrian Arab Republic
   note: previous confirmed location since Sep. 2012
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1974-11-24'
 place_of_birth:
-  city: Khadzhalmahi Village, Levashinskiy District
+- city: Khadzhalmahi Village, Levashinskiy District
   state_province: Republic of Dagestan
   country: Russian Federation
 documents:

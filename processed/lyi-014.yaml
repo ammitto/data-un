@@ -14,14 +14,12 @@ designations:
   - National Security Adviser
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-04-02'
+  - '2014-09-26'
+  - '2016-04-01'
 aliases:
 - quality: Good
   alias_name: Almuatesem Bellah Muammer Qadhafi
@@ -35,10 +33,12 @@ aliases:
   alias_name: Moatassam
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1976
+- type_of_date: EXACT
+  date: '1974-02-05'
 place_of_birth:
-  city: Tripoli
+- city: Tripoli
   country: Libya
 documents:
 - type_of_document: Passport

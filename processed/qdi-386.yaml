@@ -19,13 +19,11 @@ nationalities:
 - value: Tunisia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
+  - '2022-05-27'
 aliases:
 - quality: Low
   alias_name: Mounir Helel
@@ -39,10 +37,10 @@ addresses:
 - city: Amria Ben Guerdane, Medenine
   country: Tunisia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1983-05-10'
 place_of_birth:
-  city: Ben Guerdane
+- city: Ben Guerdane
   country: Tunisia
 documents:
 - type_of_document: National Identification Number

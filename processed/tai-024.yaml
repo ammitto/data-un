@@ -17,17 +17,15 @@ designations:
   - Deputy Minister of Defence under the Taliban regime (1996-2001)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2012-02-13'
+  - '2026-03-10'
+  - '2026-04-13'
 aliases:
 - quality: Good
   alias_name: Mullah Baradar Akhund
@@ -37,10 +35,12 @@ addresses:
 - city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1968
+- type_of_date: EXACT
+  date: '1963-09-29'
 place_of_birth:
-  city: Yatimak village
+- city: Yatimak village
   state_province: Dehrawood District, Uruzgan Province
   country: Afghanistan
 documents:

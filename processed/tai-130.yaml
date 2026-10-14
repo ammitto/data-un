@@ -18,16 +18,14 @@ designations:
     Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2013-12-31'
 aliases:
 - quality: Good
   alias_name: Abdul Ghaffar Qureshi
@@ -36,10 +34,12 @@ addresses:
   city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1970
+- type_of_date: EXACT
+  year: 1967
 place_of_birth:
-  city: Turshut village, Wursaj District
+- city: Turshut village, Wursaj District
   state_province: Takhar Province
   country: Afghanistan
 documents:

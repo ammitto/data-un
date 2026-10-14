@@ -17,12 +17,10 @@ designations:
   - FDLR-FOCA Major General
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Low
   alias_name: Rumuli
@@ -37,10 +35,12 @@ addresses:
   country: Democratic Republic of the Congo
   note: as of June 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1948
 place_of_birth:
-  city: Musanze District
+- city: Musanze District
   state_province: Northern Province
+  country: Rwanda
+- city: Ruhengeri
   country: Rwanda
 documents:

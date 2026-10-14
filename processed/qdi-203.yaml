@@ -14,18 +14,16 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2006-07-31'
+  - '2010-01-25'
+  - '2011-12-13'
+  - '2012-11-15'
+  - '2015-12-10'
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Kaua Omar Achmed
@@ -37,10 +35,10 @@ addresses:
 - street: Arbil – Qushtuba – house no. SH 11, alley 5380
   country: Iraq
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1971-07-01'
 place_of_birth:
-  city: Arbil
+- city: Arbil
   country: Iraq
 documents:
 - type_of_document: Passport

@@ -20,12 +20,10 @@ designations:
   - Chief Corporal of the Forces Armées Centrafricaines (FACA)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-07-28'
 aliases:
 - quality: Low
   alias_name: Colonel Rombhot
@@ -55,8 +53,8 @@ addresses:
     since his transfer to the International Criminal Court on 17 November
                         2018)
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1976-06-23'
 place_of_birth:
-  country: Central African Republic
+- country: Central African Republic
 documents:

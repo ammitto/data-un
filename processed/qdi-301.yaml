@@ -13,12 +13,10 @@ nationalities:
 - value: Germany
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
 aliases:
 - quality: Low
   alias_name: Abu Ibraheem
@@ -28,10 +26,10 @@ addresses:
   country: Germany
   note: previous
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1984-12-11'
 place_of_birth:
-  city: Bonn
+- city: Bonn
   country: Germany
 documents:
 - type_of_document: Passport

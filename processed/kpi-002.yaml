@@ -18,18 +18,17 @@ designations:
   - Former Minister of Atomic Energy Industry.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-07-30'
+  - '2023-06-29'
 aliases:
 - quality: Good
   alias_name: Ri Che-son
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1938
+place_of_birth:
 documents:

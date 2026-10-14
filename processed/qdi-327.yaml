@@ -15,13 +15,11 @@ nationalities:
 - value: Saudi Arabia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Abd Al-Rahman Muhammad Zafir Al-Dubaysi Al-Juhni
@@ -55,10 +53,12 @@ aliases:
   alias_name: Abou Wafa al Saoudi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1971-12-04'
+- type_of_date: EXACT
+  year: 1977
 place_of_birth:
-  city: Kharj
+- city: Kharj
   country: Saudi Arabia
 documents:
 - type_of_document: Passport

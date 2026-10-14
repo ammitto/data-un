@@ -18,12 +18,10 @@ designations:
   - Former Police Officer
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-10-20'
 aliases:
 - quality: Low
   alias_name: BARBEQUE
@@ -31,10 +29,10 @@ addresses:
 - street: 16, Imp Manius, Delmas 40 B, Port-au-Prince
   country: Haiti
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1977-03-30'
 place_of_birth:
-  state_province: Port-au-Prince
+- state_province: Port-au-Prince
   country: Haiti
 documents:
 - type_of_document: National Identification Number

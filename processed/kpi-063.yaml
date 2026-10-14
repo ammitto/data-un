@@ -18,20 +18,19 @@ designations:
   - Former Member of the Workers’ Party of Korea Central Military             Commission
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
+  - '2023-05-30'
+  - '2023-06-29'
 aliases:
 - quality: Good
   alias_name: Pak Yo’ng-sik
 addresses:
 - country: Democratic People's Republic of Korea
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1949
+place_of_birth:
 documents:

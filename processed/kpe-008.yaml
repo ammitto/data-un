@@ -13,12 +13,10 @@ comments1: Korea Tangun Trading Corporation is subordinate to DPRK’s Second Ac
   regimes.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-07-26'
 aliases:
 - quality: a.k.a.
   alias_name: Kuryonggang Trading Corporation

@@ -17,14 +17,12 @@ comments1: 'Namchongang is a DPRK trading company subordinate to the General Bur
   +850-2-18111, 18222 (ext. 8573). Facsimile number: +850-2-381-4687.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2016-03-02'
+  - '2017-06-05'
+  - '2022-07-26'
 aliases:
 - quality: a.k.a.
   alias_name: NCG

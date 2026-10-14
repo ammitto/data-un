@@ -18,12 +18,7 @@ designations:
     (FDLR) (CDe.005) '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: GILBERT KIMENYI
@@ -34,10 +29,10 @@ addresses:
   state_province: North Kivu
   country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1968
 place_of_birth:
-  city: Rutsiro Commune
+- city: Rutsiro Commune
   state_province: Kibuye Prefecture
   country: Rwanda
 documents:

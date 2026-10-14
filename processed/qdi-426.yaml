@@ -18,12 +18,10 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2022-05-27'
 aliases:
 - quality: Good
   alias_name: Abu Ibrahim al-Hashimi al-Qurashi
@@ -63,10 +61,16 @@ addresses:
 - city: Idlib
   country: Syrian Arab Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1976-10-05'
+- type_of_date: EXACT
+  date: '1976-10-01'
+- type_of_date: EXACT
+  date: '1976-01-06'
 place_of_birth:
-  state_province: Tall’Afar
+- state_province: Tall’Afar
+  country: Iraq
+- state_province: Mosul
   country: Iraq
 documents:
 - type_of_document: |-

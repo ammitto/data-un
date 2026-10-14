@@ -17,16 +17,14 @@ designations:
   - 'Taliban representative in UN-led talks under the Taliban regime (1996-2001) '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2011-11-29'
+  - '2026-03-10'
+  - '2026-04-13'
 aliases:
 - quality: Good
   alias_name: Amir Khan Muttaqi
@@ -36,11 +34,18 @@ addresses:
 - city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1968
+- type_of_date: EXACT
+  date: '1970-12-25'
+- type_of_date: EXACT
+  year: 1971
 place_of_birth:
-  city: Zurmat District
+- city: Zurmat District
   state_province: Paktia Province
+  country: Afghanistan
+- city: Shin Kalai village, Nad-e-Ali District
+  state_province: Helmand Province
   country: Afghanistan
 documents:
 - type_of_document: Passport

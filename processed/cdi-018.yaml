@@ -15,12 +15,10 @@ nationalities:
 - value: Democratic Republic of the Congo
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Good
   alias_name: Jules Mutebusi
@@ -30,10 +28,10 @@ aliases:
   alias_name: Colonel Mutebutsi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1964
 place_of_birth:
-  city: Minembwe
+- city: Minembwe
   state_province: South Kivu
   country: Democratic Republic of the Congo
 documents:

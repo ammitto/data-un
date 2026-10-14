@@ -18,19 +18,14 @@ designations:
   - Military spokesperson for M23
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 - country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1974
 place_of_birth:
-  city: Camp Kokolo, Kinshasa
+- city: Camp Kokolo, Kinshasa
   country: Democratic Republic of the Congo
 documents:

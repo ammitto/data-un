@@ -16,19 +16,14 @@ designations:
   - Rapid Support Forces (RSF) Major General and West Darfur Commander
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-01-01'
 place_of_birth:
-  city: Bahr Elarab
+- city: Bahr Elarab
   state_province: " East Darfur"
   country: Sudan
 documents:

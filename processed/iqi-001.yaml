@@ -11,20 +11,15 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: Abu Ali
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1937-04-28'
 place_of_birth:
-  city: al-Awja, near Tikrit
+- city: al-Awja, near Tikrit
   country: Iraq
 documents:

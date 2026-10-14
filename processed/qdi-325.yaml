@@ -18,14 +18,12 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2021-11-15'
+  - '2025-03-11'
 aliases:
 - quality: Good
   alias_name: Yaser Khalaf Nazzal Alrawi
@@ -57,9 +55,9 @@ aliases:
   alias_name: Hajj Ibrahim
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1977
 place_of_birth:
-  city: Binnish
+- city: Binnish
   country: Syrian Arab Republic
 documents:

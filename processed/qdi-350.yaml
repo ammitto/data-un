@@ -14,12 +14,10 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Wijijoko Santoso
@@ -29,10 +27,10 @@ aliases:
   alias_name: Abu Seif
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1975-07-14'
 place_of_birth:
-  city: Rembang
+- city: Rembang
   state_province: Jawa Tengah
   country: Indonesia
 documents:

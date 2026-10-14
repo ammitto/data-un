@@ -15,20 +15,18 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2013-05-31'
+  - '2026-04-15'
 aliases:
 - quality: Good
   alias_name: Qari Zakir
 addresses:
 date_of_birth:
-  type_of_date: BETWEEN
+- type_of_date: BETWEEN
 place_of_birth:
-  state_province: Kabul Province
+- state_province: Kabul Province
   country: Afghanistan
 documents:

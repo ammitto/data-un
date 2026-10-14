@@ -13,12 +13,10 @@ comments1: Co-owner of Haji Khairullah Haji Sattar Money Exchange (TAe.010) and 
   Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-02-11'
 aliases:
 - quality: Good
   alias_name: Haji Khairullah
@@ -36,10 +34,16 @@ addresses:
   state_province: Baluchistan Province
   country: Pakistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1965
 place_of_birth:
-  city: Zumbaleh village, Nahr-e Saraj District
+- city: Zumbaleh village, Nahr-e Saraj District
+  state_province: Helmand Province
+  country: Afghanistan
+- city: Qilla Abdullah
+  state_province: Baluchistan Province
+  country: Pakistan
+- city: Mirmadaw village, Gereshk District
   state_province: Helmand Province
   country: Afghanistan
 documents:

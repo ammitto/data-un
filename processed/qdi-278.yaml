@@ -19,15 +19,13 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2015-12-10'
+  - '2019-12-06'
+  - '2023-10-30'
+  - '2024-12-02'
 aliases:
 - quality: Good
   alias_name: Dr. Muthanna Al Dari
@@ -68,10 +66,10 @@ addresses:
 - country: Egypt
   note: previous
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-06-16'
 place_of_birth:
-  country: Iraq
+- country: Iraq
 documents:
 - type_of_document: National Identification Number
   number: '1729765'

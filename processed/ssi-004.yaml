@@ -17,12 +17,7 @@ designations:
   - Commander of the SPLA’s Third Division
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Santino Deng Wuol
@@ -30,9 +25,11 @@ aliases:
   alias_name: Santino Deng Kuol
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1962-11-09'
 place_of_birth:
-  city: Aweil
+- city: Aweil
   country: Sudan
+- city: Aweil
+  country: South Sudan
 documents:

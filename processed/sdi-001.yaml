@@ -17,12 +17,7 @@ designations:
     Sudanese Armed Forces (SAF)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Gaffar Mohmed Elhassan
@@ -31,8 +26,9 @@ addresses:
   city: Omdurman
   country: Sudan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1952-06-24'
+place_of_birth:
 documents:
 - type_of_document: National Identification Number
   number: '4302'

@@ -12,13 +12,11 @@ nationalities:
 - value: Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Abdul Rehman; Abd Ur-Rehman; Abdur Rahman
@@ -32,10 +30,10 @@ addresses:
 - city: Karachi
   country: Pakistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1965-10-03'
 place_of_birth:
-  city: Mirpur Khas
+- city: Mirpur Khas
   country: Pakistan
 documents:
 - type_of_document: Passport

@@ -14,13 +14,11 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2015-12-10'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Mullah Krekar
@@ -33,10 +31,12 @@ addresses:
   city: Oslo
   country: Norway
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1956-07-07'
+- type_of_date: EXACT
+  date: '1963-06-17'
 place_of_birth:
-  city: Olaqloo Sharbajer
+- city: Olaqloo Sharbajer
   state_province: Al-Sulaymaniyah Governorate
   country: Iraq
 documents:

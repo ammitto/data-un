@@ -14,14 +14,12 @@ nationalities:
 - value: Qatar
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2020-11-14'
+  - '2020-11-24'
+  - '2021-03-23'
 aliases:
 - quality: Good
   alias_name: Ibrahim 'Issa Haji Muhammad al-Bakar
@@ -41,10 +39,10 @@ addresses:
 - city: Al Rayyan
   country: Qatar
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1977-07-12'
 place_of_birth:
-  country: Qatar
+- country: Qatar
 documents:
 - type_of_document: Passport
   number: '01016646'

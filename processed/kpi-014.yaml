@@ -14,14 +14,14 @@ designations:
   - 'Tanchon Commercial Bank Representative '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2017-06-01'
 aliases:
 addresses:
+date_of_birth:
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '472320665 '

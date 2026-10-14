@@ -17,20 +17,18 @@ nationalities:
 - value: Kuwait
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2021-03-23'
+  - '2021-11-15'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1960-11-17'
 place_of_birth:
-  country: Kuwait
+- country: Kuwait
 documents:
 - type_of_document: Passport
   number: '001714467'

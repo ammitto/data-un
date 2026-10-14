@@ -18,13 +18,11 @@ designations:
   - Commander of the Coast Guard in Zawiya
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2021-04-29'
+  - '2023-11-29'
 aliases:
 - quality: Low
   alias_name: Rahman Salim Milad
@@ -38,10 +36,10 @@ addresses:
 - city: Zawiya
   country: Libya
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1986-07-27'
 place_of_birth:
-  city: " Tripoli"
+- city: " Tripoli"
   country: Libya
 documents:
 - type_of_document: Passport

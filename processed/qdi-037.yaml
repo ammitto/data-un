@@ -11,14 +11,12 @@ nationalities:
 - value: United States of America
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-04-10'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Taha, Abdul Rahman S.
@@ -30,10 +28,10 @@ aliases:
   alias_name: Yasin, Aboud
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1960-04-10'
 place_of_birth:
-  city: Bloomington
+- city: Bloomington
   state_province: Indiana
   country: United States of America
 documents:

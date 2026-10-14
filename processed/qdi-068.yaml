@@ -16,17 +16,15 @@ nationalities:
 - value: Tunisia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2005-12-20'
+  - '2007-06-07'
+  - '2010-12-23'
+  - '2014-11-24'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Low
   alias_name: Zakariya
@@ -35,10 +33,10 @@ aliases:
 addresses:
 - country: Tunisia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1970-07-14'
 place_of_birth:
-  city: Tunis
+- city: Tunis
   country: Tunisia
 documents:
 - type_of_document: Passport

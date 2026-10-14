@@ -12,23 +12,21 @@ nationalities:
 - value: Morocco
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2011-06-10'
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Zakariya Essabar
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1977-04-03'
 place_of_birth:
-  city: Essaouria
+- city: Essaouria
   country: Morocco
 documents:
 - type_of_document: Passport

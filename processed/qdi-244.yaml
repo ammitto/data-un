@@ -14,15 +14,13 @@ nationalities:
 - value: Philippines
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-12-13'
+  - '2016-10-25'
+  - '2017-09-22'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Akmad Santos
@@ -51,10 +49,10 @@ addresses:
   city: Quezon City
   country: Philippines
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1966-03-12'
 place_of_birth:
-  city: 686 A. Mabini Street, Sangandaan, Caloocan City
+- city: 686 A. Mabini Street, Sangandaan, Caloocan City
   country: Philippines
 documents:
 - type_of_document: Passport

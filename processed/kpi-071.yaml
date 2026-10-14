@@ -16,19 +16,15 @@ designations:
                     representative
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Mun Kyo'ng-hwan
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1967-08-22'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '381120660'

@@ -20,12 +20,7 @@ designations:
   - Commander, Presidential Guard Unit
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Marial Chinuong
@@ -37,8 +32,9 @@ aliases:
   alias_name: Marial Chinoum
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1960-01-01'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: R00005943, South Sudan

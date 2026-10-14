@@ -14,13 +14,11 @@ designations:
   - KOMID Representative
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2017-06-01'
+  - '2022-07-26'
 aliases:
 - quality: Good
   alias_name: Kim Yong-Chol
@@ -32,8 +30,9 @@ aliases:
   alias_name: Young-Chul
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1962-02-18'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '472310168'

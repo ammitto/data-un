@@ -14,20 +14,18 @@ nationalities:
 - value: Tunisia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2005-12-20'
+  - '2007-10-17'
+  - '2008-09-16'
+  - '2009-03-24'
+  - '2010-07-12'
+  - '2011-05-16'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Fabio Fusco
@@ -48,10 +46,10 @@ aliases:
 addresses:
 - country: Italy
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-12-18'
 place_of_birth:
-  city: Asima-Tunis
+- city: Asima-Tunis
   country: Tunisia
 documents:
 - type_of_document: Passport

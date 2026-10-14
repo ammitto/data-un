@@ -12,19 +12,17 @@ comments1: |-
   Asset Freeze). Believed status/location: deceased. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-04-02'
+  - '2014-09-26'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1978
 place_of_birth:
-  city: Tripoli
+- city: Tripoli
   country: Libya
 documents:

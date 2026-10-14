@@ -15,16 +15,14 @@ nationalities:
 - value: Algeria
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-11-15'
+  - '2021-11-15'
+  - '2022-11-08'
+  - '2023-02-02'
+  - '2026-08-18'
 aliases:
 - quality: Good
   alias_name: Yahia Abou Ammar
@@ -32,10 +30,10 @@ aliases:
   alias_name: Abou Ala
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1967-01-01'
 place_of_birth:
-  city: M’Hamid
+- city: M’Hamid
   state_province: Wilaya (province) of Sidi Bel Abbes
   country: Algeria
 documents:

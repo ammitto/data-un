@@ -15,15 +15,13 @@ nationalities:
 - value: Tunisia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2009-09-01'
+  - '2010-01-25'
+  - '2011-12-13'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Dass
@@ -32,9 +30,9 @@ aliases:
 addresses:
 - country: Tunisia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1973-08-03'
 place_of_birth:
-  city: Bizerta
+- city: Bizerta
   country: Tunisia
 documents:

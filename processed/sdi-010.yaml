@@ -16,14 +16,11 @@ designations:
   - Field Commander of the Rapid Support Forces
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: AL ZEIR SALEM
 addresses:
+date_of_birth:
+place_of_birth:
 documents:

@@ -12,14 +12,12 @@ nationalities:
 - value: Pakistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-05-16'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Murad, Abdul Hakim Hasim
@@ -35,10 +33,10 @@ aliases:
   alias_name: Abdul Hakim Ali al-Hashem Murad
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1968-04-11'
 place_of_birth:
-  country: Kuwait
+- country: Kuwait
 documents:
 - type_of_document: Passport
   number: '665334'

@@ -14,13 +14,11 @@ nationalities:
 - value: United Kingdom of Great Britain and Northern Ireland
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-10-11'
+  - '2023-10-30'
 aliases:
 - quality: Low
   alias_name: Abu Luqman
@@ -28,10 +26,10 @@ addresses:
 - city: London
   country: United Kingdom of Great Britain and Northern Ireland
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1967-01-18'
 place_of_birth:
-  city: Welling, London
+- city: Welling, London
   country: United Kingdom of Great Britain and Northern Ireland
 documents:
 - type_of_document: Passport

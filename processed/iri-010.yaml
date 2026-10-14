@@ -14,17 +14,16 @@ designations:
     concentration of 99.9%.
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2014-12-17'
 aliases:
 - quality: Good
   alias_name: Halen Bakhtiar; Haleh Bakhtiari; Haleh Bakhtiyar
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1975
+place_of_birth:
 documents:

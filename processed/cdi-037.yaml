@@ -25,12 +25,7 @@ designations:
     (CRAP) (now called Maccabe)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: RUHINDA
@@ -44,9 +39,14 @@ addresses:
 - street: Nyiragongo, North Kivu
   country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1969
+- type_of_date: EXACT
+  year: 1970
+- type_of_date: EXACT
+  year: 1971
 place_of_birth:
-  city: Gisenyi Prefecture
+- city: Gisenyi Prefecture
   country: Rwanda
+- country: Rwanda
 documents:

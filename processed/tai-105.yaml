@@ -18,22 +18,25 @@ designations:
   - Governor of Paktia Province under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2008-10-03'
+  - '2011-11-29'
+  - '2012-08-13'
 aliases:
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1963
 place_of_birth:
-  state_province: Nangarhar Province
+- state_province: Nangarhar Province
+  country: Afghanistan
+- state_province: Khost Province
+  country: Afghanistan
+- city: Siddiq Khel village, Naka District
+  state_province: Paktia Province
   country: Afghanistan
 documents:

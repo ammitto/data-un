@@ -13,17 +13,16 @@ nationalities:
 - value: Democratic Republic of the Congo
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 addresses:
 - country: Rwanda
   note: as of early 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1971
+place_of_birth:
 documents:

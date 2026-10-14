@@ -12,13 +12,11 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2011-12-13'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Refke, Taufek
@@ -57,10 +55,10 @@ aliases:
 addresses:
 - country: Philippines
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1974-08-19'
 place_of_birth:
-  city: Dacusuman Surakarta
+- city: Dacusuman Surakarta
   state_province: Central Java
   country: Indonesia
 documents:

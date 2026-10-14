@@ -17,19 +17,18 @@ designations:
   - 'Former Deputy Representative for the Korea Kwangson Banking Corporation '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-06-29'
 aliases:
 - quality: Good
   alias_name: Cho Ch’o’l-so’ng
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1984-09-25'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '654320502'

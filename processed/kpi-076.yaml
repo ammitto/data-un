@@ -17,13 +17,11 @@ designations:
     and First Vice Director of the Munitions Industry Department
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2023-06-29'
+  - '2024-09-17'
 aliases:
 - quality: Good
   alias_name: Ri Pyo’ng-ch’o’l
@@ -32,6 +30,7 @@ aliases:
 addresses:
 - country: Democratic People's Republic of Korea
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1948
+place_of_birth:
 documents:

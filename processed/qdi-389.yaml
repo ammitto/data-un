@@ -15,13 +15,11 @@ nationalities:
 - value: Algeria
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2021-11-15'
+  - '2026-08-18'
 aliases:
 - quality: Good
   alias_name: Abou Obeida Youssef Al-Annabi
@@ -46,9 +44,9 @@ aliases:
 addresses:
 - country: Algeria
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-02-07'
 place_of_birth:
-  city: Annaba
+- city: Annaba
   country: Algeria
 documents:

@@ -12,15 +12,13 @@ nationalities:
 - value: Germany
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2009-01-30'
+  - '2009-03-24'
+  - '2012-11-15'
+  - '2021-11-15'
 aliases:
 - quality: Good
   alias_name: Abdelrahman
@@ -30,10 +28,10 @@ addresses:
   country: Germany
   note: previous address
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1969-12-20'
 place_of_birth:
-  city: Casablanca
+- city: Casablanca
   country: Morocco
 documents:
 - type_of_document: Passport

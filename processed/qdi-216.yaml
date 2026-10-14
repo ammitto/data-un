@@ -12,14 +12,12 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-12-06'
+  - '2022-11-08'
+  - '2023-02-02'
 aliases:
 - quality: Good
   alias_name: Abu Fatih
@@ -31,10 +29,10 @@ aliases:
   alias_name: Abu Fathi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1958
 place_of_birth:
-  city: Pacitan
+- city: Pacitan
   state_province: East Java
   country: Indonesia
 documents:

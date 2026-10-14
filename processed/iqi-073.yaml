@@ -12,12 +12,7 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Hasan Ahmed S. Adnan
@@ -26,4 +21,6 @@ aliases:
 addresses:
 - city: Amman
   country: Jordan
+date_of_birth:
+place_of_birth:
 documents:

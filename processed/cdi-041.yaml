@@ -28,21 +28,16 @@ designations:
   - Commander and military leader of the armed group Twirwaneho
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: MAKANIKA
 addresses:
 - country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1974-09-12'
 place_of_birth:
-  state_province: Minembwe, South Kivu
+- state_province: Minembwe, South Kivu
   country: Democratic Republic of the Congo
 documents:

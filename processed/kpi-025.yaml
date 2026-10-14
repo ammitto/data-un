@@ -13,19 +13,18 @@ designations:
   - "Tanchon Commercial\n                Bank official\n                "
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2023-06-29'
 aliases:
 - quality: Good
   alias_name: Kim Myong Gi
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1972-05-25'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '563120630'

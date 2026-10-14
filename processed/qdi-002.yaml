@@ -17,17 +17,15 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2007-07-18'
+  - '2010-12-16'
+  - '2019-12-06'
+  - '2022-11-08'
+  - '2023-02-02'
+  - '2026-08-14'
 aliases:
 - quality: Good
   alias_name: Al-Haq, Amin
@@ -42,10 +40,12 @@ addresses:
   country: Afghanistan
   note: as of June 2026
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1963-04-30'
+- type_of_date: EXACT
+  year: 1960
 place_of_birth:
-  city: Khogyani District
+- city: Khogyani District
   state_province: Nangarhar Province
   country: Afghanistan
 documents:

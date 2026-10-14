@@ -14,20 +14,15 @@ designations:
   - Leader of 5 Segond gang
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: IZO
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1997
 place_of_birth:
-  city: Port-au-Prince
+- city: Port-au-Prince
   country: Haiti
 documents:

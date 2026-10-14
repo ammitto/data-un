@@ -17,15 +17,13 @@ nationalities:
 - value: Yemen
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2014-04-15'
+  - '2016-06-24'
+  - '2020-11-24'
+  - '2025-03-11'
 aliases:
 - quality: Good
   alias_name: Qasim Al-Rimi
@@ -50,10 +48,10 @@ aliases:
 addresses:
 - country: Yemen
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1978-06-05'
 place_of_birth:
-  city: 'Raymah village, Sanaa Governorate (ريمة)  '
+- city: 'Raymah village, Sanaa Governorate (ريمة)  '
   country: Yemen
 documents:
 - type_of_document: Passport

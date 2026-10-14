@@ -18,17 +18,15 @@ designations:
   - Minister of Justice under the Taliban regime (1996-2001)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-09-21'
+  - '2010-04-12'
+  - '2011-11-29'
+  - '2026-03-10'
+  - '2026-04-28'
 aliases:
 - quality: Good
   alias_name: Noor ud Din Turabi
@@ -40,11 +38,23 @@ addresses:
 - city: Kabul
   country: Afghanistan
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1963
+- type_of_date: EXACT
+  year: 1956
+- type_of_date: APPROXIMATELY
+  year: 1955
+- type_of_date: EXACT
+  date: '1969-07-30'
 place_of_birth:
-  city: Spin Boldak District
+- city: Spin Boldak District
   state_province: Kandahar Province
+  country: Afghanistan
+- city: Chora District
+  state_province: Uruzgan Province
+  country: Afghanistan
+- city: Dehrawood District
+  state_province: Uruzgan Province
   country: Afghanistan
 documents:
 - type_of_document: Passport

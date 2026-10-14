@@ -19,15 +19,13 @@ nationalities:
 - value: Iraq
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2007-05-14'
+  - '2007-07-27'
+  - '2015-12-10'
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Abdal Al-Hadi Al-Iraqi
@@ -49,10 +47,10 @@ aliases:
   alias_name: Abu Ayub
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1961
 place_of_birth:
-  city: Mosul
+- city: Mosul
   country: Iraq
 documents:
 - type_of_document: National Identification Number

@@ -17,17 +17,15 @@ nationalities:
 - value: Jordan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2008-03-14'
+  - '2009-03-24'
+  - '2010-01-25'
+  - '2013-07-22'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Al-Samman Uthman
@@ -49,10 +47,12 @@ addresses:
 - country: Jordan
   note: since July 2013
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1960-12-30'
+- type_of_date: EXACT
+  date: '1960-12-13'
 place_of_birth:
-  city: Bethlehem
+- city: Bethlehem
   state_province: West Bank
   country: State of Palestine
 documents:

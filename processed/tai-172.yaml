@@ -20,12 +20,10 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-07-21'
 aliases:
 - quality: Good
   alias_name: Qari Rahmat
@@ -43,9 +41,11 @@ addresses:
 - city: Batan village, Achin District, Nangarhar Province
   country: Afghanistan
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1981
+- type_of_date: EXACT
+  year: 1982
 place_of_birth:
-  city: Shadal (variant Shadaal) Bazaar, Achin District, Nangarhar Province
+- city: Shadal (variant Shadaal) Bazaar, Achin District, Nangarhar Province
   country: Afghanistan
 documents:

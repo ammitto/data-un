@@ -10,13 +10,11 @@ comments1: 'Ship and commercial manager of the XIN GUANG HAI, a vessel that on l
   Pha, Vietnam, but it did not arrive. IMO number: 5905801.'
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2018-05-23'
+  - '2022-09-14'
 aliases:
 addresses:
 - street: 419-201, Tongyi Lu, Huancui Qu, Weihai

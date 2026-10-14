@@ -20,20 +20,15 @@ designations:
   - Deputy Chief of Defence Staff and Inspector General of the Army
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Malek Ruben
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1960-01-01'
 place_of_birth:
-  city: Yei
+- city: Yei
   country: South Sudan
 documents:

@@ -13,17 +13,15 @@ nationalities:
 - value: Kuwait
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2008-07-01'
+  - '2008-07-23'
+  - '2010-01-25'
+  - '2019-05-01'
+  - '2022-11-08'
+  - '2023-02-02'
 aliases:
 - quality: Good
   alias_name: Dr. Hamed Abdullah Al-Ali
@@ -45,10 +43,10 @@ addresses:
 - country: Kuwait
   note: residence as at Mar. 2009
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1960-01-20'
 place_of_birth:
-  country: Kuwait
+- country: Kuwait
 documents:
 - type_of_document: Passport
   number: '1739010'

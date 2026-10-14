@@ -14,22 +14,20 @@ nationalities:
 - value: Tunisia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-04-10'
+  - '2004-11-26'
+  - '2005-09-09'
+  - '2005-12-20'
+  - '2007-06-07'
+  - '2007-12-21'
+  - '2009-08-10'
+  - '2010-12-23'
+  - '2014-11-24'
+  - '2019-12-06'
+  - '2023-10-30'
 aliases:
 - quality: Good
   alias_name: Omar El Mouhajer
@@ -40,10 +38,10 @@ addresses:
   city: Tunis
   country: Tunisia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1968-02-10'
 place_of_birth:
-  city: Menzel Jemil, Bizerte
+- city: Menzel Jemil, Bizerte
   country: Tunisia
 documents:
 - type_of_document: Passport

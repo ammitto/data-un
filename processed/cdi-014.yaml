@@ -18,12 +18,10 @@ designations:
   - 'FDLR-FOCA Interim Deputy Commander '
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2016-10-13'
 aliases:
 - quality: Low
   alias_name: Musenyeri
@@ -36,9 +34,11 @@ addresses:
   country: Democratic Republic of the Congo
   note: as of June 2016
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1962-03-17'
+- type_of_date: APPROXIMATELY
+  year: 1966
 place_of_birth:
-  city: Kigali
+- city: Kigali
   country: Rwanda
 documents:

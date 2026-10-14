@@ -13,12 +13,7 @@ nationalities:
 - value: Afghanistan
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Yaya
@@ -27,6 +22,9 @@ aliases:
 addresses:
 - note: A Haqqani Madrassa in the Afghanistan/Pakistan Border Area.
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   year: 1982
+- type_of_date: EXACT
+  year: 1978
+place_of_birth:
 documents:

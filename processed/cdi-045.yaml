@@ -19,12 +19,7 @@ designations:
   - Leader of the Alliance Fleuve Congo (AFC) (CDe.010)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: CORNEILLE NANGAA
@@ -38,10 +33,10 @@ addresses:
 - state_province: North Kivu
   country: Democratic Republic of the Congo
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1970-07-09'
 place_of_birth:
-  city: Bagboya
+- city: Bagboya
   state_province: Haut-Uele
   country: Democratic Republic of the Congo
 documents:

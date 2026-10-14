@@ -12,12 +12,10 @@ nationalities:
 - value: Indonesia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n      "
+  - '2020-11-24'
 aliases:
 - quality: Good
   alias_name: Abdul Rahim Bashir
@@ -52,9 +50,14 @@ aliases:
 addresses:
 - country: Indonesia
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1977-11-16'
+- type_of_date: EXACT
+  date: '1974-11-16'
 place_of_birth:
-  city: Solo
+- city: Solo
+  country: Indonesia
+- city: Sukoharjo
+  state_province: Central Java
   country: Indonesia
 documents:

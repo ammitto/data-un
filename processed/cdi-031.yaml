@@ -26,21 +26,22 @@ designations:
   - Colonel in the FARDC
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Low
   alias_name: Zimulinda
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1972-09-01'
+- type_of_date: APPROXIMATELY
+  year: 1975
+- type_of_date: EXACT
+  date: '1972-03-16'
 place_of_birth:
-  city: Ngungu
+- city: Ngungu
   state_province: Masisi territory, North Kivu
+  country: Democratic Republic of the Congo
+- city: Masisi
   country: Democratic Republic of the Congo
 documents:

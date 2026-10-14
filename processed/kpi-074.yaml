@@ -14,19 +14,15 @@ designations:
   - Ri Chun Hwan is an overseas Foreign Trade Bank representative
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Ri Ch'un-hwan
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1957-08-21'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: '563233049 '

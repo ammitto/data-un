@@ -12,15 +12,13 @@ nationalities:
 - value: Egypt
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2004-11-26'
+  - '2010-12-16'
+  - '2019-12-06'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Tarwat Salah Abdallah
@@ -32,8 +30,8 @@ aliases:
   alias_name: Tharwat Salah Shihata Ali
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1960-06-29'
 place_of_birth:
-  country: Egypt
+- country: Egypt
 documents:

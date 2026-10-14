@@ -13,13 +13,11 @@ nationalities:
 - value: Mali
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-08-20'
+  - '2022-11-08'
 aliases:
 - quality: Good
   alias_name: Ag Mossa
@@ -27,6 +25,11 @@ aliases:
   alias_name: Ammi Salim
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1958-01-01'
+- type_of_date: EXACT
+  date: '1952-12-31'
+- type_of_date: EXACT
+  date: '1956-10-28'
+place_of_birth:
 documents:

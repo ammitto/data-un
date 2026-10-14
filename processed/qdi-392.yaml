@@ -16,14 +16,12 @@ nationalities:
 - value: Saudi Arabia
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2019-05-01'
+  - '2022-11-08'
+  - '2023-07-21'
 aliases:
 - quality: Good
   alias_name: Faisal Ahmed Ali Alzahrani
@@ -34,8 +32,9 @@ aliases:
 addresses:
 - country: Syrian Arab Republic
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1986-01-19'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: K142736

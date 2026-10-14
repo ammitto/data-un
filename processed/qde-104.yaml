@@ -9,15 +9,13 @@ comments1: As at late 2025, it was not active and had no structures in Pakistan.
   Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2012-03-21'
+  - '2020-11-24'
+  - '2022-11-08'
+  - '2026-08-18'
 aliases:
 addresses:
 - city: 'House #279, Nazimuddin Road, F-10/1, Islamabad'

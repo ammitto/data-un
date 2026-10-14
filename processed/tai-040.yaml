@@ -19,21 +19,19 @@ designations:
   - Minister of Frontier Affairs under the Taliban regime
 list_type:
   value:
-  - "\n        "
-  - "\n      "
+  - UN List
 last_day_updated:
   value:
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n        "
-  - "\n      "
+  - '2003-09-03'
+  - '2007-07-18'
+  - '2007-09-21'
+  - '2007-09-27'
+  - '2008-02-01'
+  - '2008-07-31'
+  - '2008-10-03'
+  - '2011-11-29'
+  - '2014-02-11'
+  - '2019-01-30'
 aliases:
 - quality: Good
   alias_name: Jalaluddin Haqani
@@ -43,10 +41,15 @@ aliases:
   alias_name: Jallalouddine Haqani
 addresses:
 date_of_birth:
-  type_of_date: APPROXIMATELY
+- type_of_date: APPROXIMATELY
   year: 1942
+- type_of_date: APPROXIMATELY
+  year: 1948
 place_of_birth:
-  city: Garda Saray area, Waza Zadran District
+- city: Garda Saray area, Waza Zadran District
   state_province: Paktia Province
+  country: Afghanistan
+- city: Neka District
+  state_province: Paktika Province
   country: Afghanistan
 documents:

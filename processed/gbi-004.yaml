@@ -26,19 +26,15 @@ designations:
     (subsequently)
 list_type:
   value:
-  - "\n        "
-  - "\n      "
-last_day_updated:
-  value:
-  - "\n        "
-  - "\n      "
+  - UN List
 aliases:
 - quality: Good
   alias_name: Idriça Djaló
 addresses:
 date_of_birth:
-  type_of_date: EXACT
+- type_of_date: EXACT
   date: '1954-12-18'
+place_of_birth:
 documents:
 - type_of_document: Passport
   number: AAISO40158
