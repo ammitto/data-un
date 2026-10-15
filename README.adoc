@@ -90,6 +90,56 @@ for path in sorted(glob.glob("processed/*.yaml")):
 The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/un.jsonld
 
+== Harmonized field mapping
+
+The https://github.com/ammitto/ammitto/blob/main/lib/ammitto/sources/un/transformer.rb[un transformer]
+maps the processed source fields below to canonical Ruby attributes.
+Entity classes are in `Ammitto::Ontology::Entities`, entry/regime classes in
+`Ammitto::Ontology::Sanction`, and nested values in
+`Ammitto::Ontology::ValueObjects`. JSON-LD serialization can use different keys.
+
+[cols="2,2,4",options="header"]
+|===
+| Source fields | Canonical target | Transformation
+
+| `reference_number`
+| `Entity.id`, `SanctionEntry.id`, `entity_id`, `reference_number`
+| Build source-scoped entity/entry IDs and retain the source reference.
+
+| `first_name`, `second_name`, `third_name`, `fourth_name`, `aliases`
+| `Entity.names` (`NameVariant`)
+| Individuals combine name parts; organizations use `first_name`. Alias records become non-primary names with detected scripts.
+
+| `addresses`
+| `PersonEntity.addresses` or `OrganizationEntity.addresses` (`Address`)
+| Copy street, city and country; map `state_province` to `state`.
+
+| `date_of_birth`, `place_of_birth`
+| `PersonEntity.birth_info` (`BirthInfo`)
+| Keep dates or years and approximation flags. A single date/place can share a value object; multiple dates/places remain separate records.
+
+| `documents`
+| `PersonEntity.identifications` (`Identification`)
+| Normalize document type labels and copy number, issuing country and note.
+
+| `nationalities`, `gender`, `designations`
+| `PersonEntity.nationalities`, `gender`, `position`, `title`
+| Read nationality values; use the first designation as position and select a matching honorific/role for title.
+
+| `un_list_type`
+| `SanctionEntry.regime` (`SanctionRegime`)
+| Normalize the code and apply the transformer regime lookup; retain the source label as fallback.
+
+| `listed_on`, `last_day_updated`
+| `SanctionEntry.period` (`TemporalPeriod`)
+| Parse `listed_on` into listing/effective dates; retain the last update value in canonical `last_updated_timestamp`.
+
+| `comments1`, `dataid`, `versionnum`
+| `Entity.remarks`, `SanctionEntry.remarks`, `raw_source_detail.source_specific_fields`
+| Copy comments to both records; retain source ID/version and source record type under `un:` metadata keys.
+
+|===
+
 == Updates
 
 The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
