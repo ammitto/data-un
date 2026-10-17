@@ -32,10 +32,6 @@ place_of_birth:
 - city: Kaesong
   country: Democratic People's Republic of Korea
 documents:
-- type_of_document: 'Numéro de passeport '
-  number: '381420754'
-- type_of_document: Número de pasaporte
-  number: '381420754'
 - type_of_document: Passport
   number: '381420754'
   note: Expires on 7 Dec. 2016
