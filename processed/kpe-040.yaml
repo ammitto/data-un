@@ -12,8 +12,9 @@ list_type:
   - UN List
 aliases:
 addresses:
-- street: Akara Building
-  state_province: 24 de Castro Street, Wickhams Cay I, Road Town, Tortola
+- street: Akara Building, 24 de Castro Street
+  city: Wickhams Cay I, Road Town
+  state_province: Tortola
   country: British Virgin Islands
 - state_province: Dalian
   country: China
