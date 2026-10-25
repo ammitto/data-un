@@ -1,9 +1,9 @@
 ---
 source: un
-count: 1010
-fetched_at: '2026-10-24T11:23:11Z'
+count: 1007
+fetched_at: '2026-10-25T11:53:39Z'
 schema: ammitto:sources:un:v1
-pruned: 0
+pruned: 3
 files:
 - cde-001.yaml
 - cde-002.yaml
@@ -730,7 +730,6 @@ files:
 - qdi-334.yaml
 - qdi-335.yaml
 - qdi-337.yaml
-- qdi-338.yaml
 - qdi-339.yaml
 - qdi-340.yaml
 - qdi-341.yaml
@@ -780,8 +779,6 @@ files:
 - qdi-396.yaml
 - qdi-397.yaml
 - qdi-398.yaml
-- qdi-399.yaml
-- qdi-400.yaml
 - qdi-401.yaml
 - qdi-403.yaml
 - qdi-404.yaml
