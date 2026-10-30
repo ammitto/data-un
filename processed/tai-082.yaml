@@ -28,6 +28,7 @@ last_day_updated:
   - '2026-03-10'
   - '2026-04-28'
   - '2026-07-30'
+  - '2026-10-29'
 aliases:
 - quality: Good
   alias_name: Abdul-Haq Wasseq
@@ -60,3 +61,6 @@ documents:
   issuing_country: Afghanistan
   note: 'Name in Latin script: Abdulhaq Waseeq, name in original script: عبد الحق
     وثيق'
+- type_of_document: Passport
+  number: P00429350
+  issuing_country: Afghanistan

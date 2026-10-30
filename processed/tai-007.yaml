@@ -27,6 +27,7 @@ last_day_updated:
   - '2013-04-22'
   - '2026-03-10'
   - '2026-04-28'
+  - '2026-10-29'
 aliases:
 - quality: Good
   alias_name: Abdul Latif Mansoor
@@ -55,4 +56,7 @@ documents:
   note: 'Name in Latin script: Abdul Latif Mansoor'
 - type_of_document: Passport
   number: D0010442
+  issuing_country: Afghanistan
+- type_of_document: Passport
+  number: P05629010
   issuing_country: Afghanistan

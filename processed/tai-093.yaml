@@ -31,6 +31,7 @@ last_day_updated:
   - '2016-09-07'
   - '2026-03-10'
   - '2026-04-28'
+  - '2026-10-29'
 aliases:
 - quality: Good
   alias_name: Mullah Khairullah Khairkhwah
@@ -56,3 +57,6 @@ documents:
   issuing_country: Afghanistan
   note: 'Name in Latin script: KHIRULLAH KHAIRKHWA, name in original script: خيرالله
     خيرخواه'
+- type_of_document: Passport
+  number: P04411676
+  issuing_country: Afghanistan

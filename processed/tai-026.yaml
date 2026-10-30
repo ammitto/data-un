@@ -25,6 +25,7 @@ last_day_updated:
   - '2011-11-29'
   - '2026-03-10'
   - '2026-04-13'
+  - '2026-10-29'
 aliases:
 - quality: Good
   alias_name: Amir Khan Muttaqi
@@ -57,3 +58,9 @@ documents:
   number: D0009803
   issuing_country: Afghanistan
   note: expires on 13 Dec. 2026
+- type_of_document: Passport
+  number: D0010741
+  issuing_country: Afghanistan
+- type_of_document: Passport
+  number: P02444824
+  issuing_country: Afghanistan

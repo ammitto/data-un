@@ -26,6 +26,7 @@ last_day_updated:
   - '2012-02-13'
   - '2026-03-10'
   - '2026-04-13'
+  - '2026-10-29'
 aliases:
 - quality: Good
   alias_name: Mullah Baradar Akhund
@@ -52,3 +53,6 @@ documents:
   number: P04999950
   issuing_country: Afghanistan
   note: expires 4 Feb. 2035
+- type_of_document: Passport
+  number: P02444826
+  issuing_country: Afghanistan
