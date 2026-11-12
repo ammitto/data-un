@@ -1,5 +1,5 @@
 ---
-dataid: '6909619'
+dataid: '6909743'
 versionnum: '1'
 first_name: 'ALLIANCE FLEUVE CONGO (AFC) '
 un_list_type: DRC
@@ -9,7 +9,12 @@ comments1: Established in 2023.  INTERPOL-UN Security Council Special Notice:htt
 list_type:
   value:
   - UN List
+last_day_updated:
+  value:
+  - '2026-11-11'
 aliases:
+- quality: a.k.a.
+  alias_name: Front pour la Refondation de la Nation (FRN)
 addresses:
 - state_province: Eastern
   country: Democratic Republic of the Congo
